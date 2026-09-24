@@ -18,7 +18,7 @@ dist-ssr
 .env.*
 !.env.example
 
-# Figma / live-site QA helpers (do not push)
+# Figma / live-site QA helpers (do not push)..
 compare-shots/
 scripts/
 *.fig
