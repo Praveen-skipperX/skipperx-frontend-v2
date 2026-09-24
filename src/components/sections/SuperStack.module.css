@@ -56,6 +56,7 @@
   font-weight: 700;
   letter-spacing: -0.04em;
   line-height: 1.05;
+  text-align: left;
 }
 
 .accent {
@@ -69,11 +70,11 @@
 
 .lede {
   margin: 0;
-  max-width: 220px;
-  color: rgb(255 255 255 / 0.35);
+  max-width: none;
+  color: rgb(255 255 255 / 0.42);
   font-family: var(--font-body);
-  font-size: 13px;
-  line-height: 1.6;
+  font-size: 14px;
+  line-height: 1.65;
   text-align: left;
 }
 
@@ -105,7 +106,10 @@
   }
 
   .lede {
+    max-width: 220px;
     text-align: right;
+    font-size: 13px;
+    color: rgb(255 255 255 / 0.35);
   }
 
   .grid {

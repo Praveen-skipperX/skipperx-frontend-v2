@@ -22,10 +22,11 @@ function CheckIcon() {
       fill="none"
       aria-hidden="true"
     >
+      <circle cx="8" cy="8" r="7.25" fill="currentColor" />
       <path
-        d="M3.2 8.2 6.1 11.1 12.8 4.4"
-        stroke="currentColor"
-        strokeWidth="1.8"
+        d="M4.6 8.15 6.7 10.2 11.4 5.6"
+        stroke="#0a0a0b"
+        strokeWidth="1.7"
         strokeLinecap="round"
         strokeLinejoin="round"
       />

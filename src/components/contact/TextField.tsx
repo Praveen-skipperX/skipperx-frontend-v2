@@ -5,19 +5,22 @@ type TextFieldProps = {
   id: string;
   label: string;
   focused: boolean;
+  requiredMark?: boolean;
 } & InputHTMLAttributes<HTMLInputElement>;
 
 export function TextField({
   id,
   label,
   focused,
+  requiredMark = true,
   className = "",
   ...props
 }: TextFieldProps) {
   return (
     <div className={styles.field}>
-      <label className={styles.visuallyHidden} htmlFor={id}>
+      <label className={styles.label} htmlFor={id}>
         {label}
+        {requiredMark ? <span className={styles.required}>*</span> : null}
       </label>
       <input
         id={id}

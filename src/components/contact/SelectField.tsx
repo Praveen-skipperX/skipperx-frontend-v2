@@ -41,30 +41,33 @@ export function SelectField({
 }: SelectFieldProps) {
   return (
     <div className={styles.field}>
-      <label className={styles.visuallyHidden} htmlFor={id}>
+      <label className={styles.label} htmlFor={id}>
         {label}
+        <span className={styles.required}>*</span>
       </label>
-      <select
-        id={id}
-        required
-        value={value}
-        onChange={(event) => onChange(event.target.value)}
-        onFocus={onFocus}
-        onBlur={onBlur}
-        className={`${styles.control} ${styles.select} ${
-          value ? styles.selectFilled : styles.selectEmpty
-        } ${focused ? styles.focused : ""}`}
-      >
-        <option value="" disabled className={styles.option}>
-          Interest*
-        </option>
-        {CONTACT_INTERESTS.map((interest) => (
-          <option key={interest} value={interest} className={styles.option}>
-            {interest}
+      <div className={styles.selectWrap}>
+        <select
+          id={id}
+          required
+          value={value}
+          onChange={(event) => onChange(event.target.value)}
+          onFocus={onFocus}
+          onBlur={onBlur}
+          className={`${styles.control} ${styles.select} ${
+            value ? styles.selectFilled : styles.selectEmpty
+          } ${focused ? styles.focused : ""}`}
+        >
+          <option value="" disabled className={styles.option}>
+            Interest
           </option>
-        ))}
-      </select>
-      <ChevronDownIcon />
+          {CONTACT_INTERESTS.map((interest) => (
+            <option key={interest} value={interest} className={styles.option}>
+              {interest}
+            </option>
+          ))}
+        </select>
+        <ChevronDownIcon />
+      </div>
     </div>
   );
 }

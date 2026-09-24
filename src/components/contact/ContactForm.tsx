@@ -87,11 +87,11 @@ export function ContactForm() {
       <div className={styles.row}>
         <TextField
           id="contact-first-name"
-          label="First name"
+          label="Full Name"
           type="text"
           name="firstName"
-          autoComplete="given-name"
-          placeholder="First Name*"
+          autoComplete="name"
+          placeholder="Ranveer Singh"
           required
           value={values.firstName}
           focused={focused === "firstName"}
@@ -103,7 +103,7 @@ export function ContactForm() {
         />
         <SelectField
           id="contact-interest"
-          label="Interest"
+          label="What would you like to enquire about?"
           value={values.interest}
           focused={focused === "interest"}
           onChange={(interest) => setValues({ ...values, interest })}
@@ -114,9 +114,9 @@ export function ContactForm() {
       <div className={styles.rowBottom}>
         <PhoneField
           id="contact-phone"
-          label="Phone number"
+          label="Phone No."
           name="phone"
-          placeholder="XXXXXXXXXX"
+          placeholder="00000 00000"
           required
           maxLength={10}
           value={values.phone}
@@ -132,11 +132,11 @@ export function ContactForm() {
         />
         <TextField
           id="contact-email"
-          label="Email"
+          label="E-mail"
           type="email"
           name="email"
           autoComplete="email"
-          placeholder="E-mail*"
+          placeholder="ranveersingh@email.com"
           required
           value={values.email}
           focused={focused === "email"}

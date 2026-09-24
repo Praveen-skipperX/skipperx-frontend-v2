@@ -1,10 +1,48 @@
+import { useRef } from "react";
 import { motion } from "motion/react";
 import { TESTIMONIALS, TESTIMONIAL_COMPANIES } from "../../data/testimonials";
 import { Section } from "../layout/Section";
 import { TestimonialCard } from "../testimonials/TestimonialCard";
 import styles from "./Testimonials.module.css";
 
+function ChevronLeftIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path
+        d="M15 18 9 12l6-6"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+function ChevronRightIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path
+        d="m9 18 6-6-6-6"
+        stroke="currentColor"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
 export function Testimonials() {
+  const scrollerRef = useRef<HTMLDivElement>(null);
+
+  function scrollByCard(direction: -1 | 1) {
+    const node = scrollerRef.current;
+    if (!node) return;
+    const amount = Math.min(node.clientWidth * 0.85, 340);
+    node.scrollBy({ left: direction * amount, behavior: "smooth" });
+  }
+
   return (
     <Section id="testimonials" className={styles.section}>
       <div className={styles.glow} aria-hidden="true" />
@@ -33,10 +71,30 @@ export function Testimonials() {
           </motion.p>
         </div>
 
-        <div className={styles.grid}>
-          {TESTIMONIALS.map((item, index) => (
-            <TestimonialCard key={item.name} item={item} index={index} />
-          ))}
+        <div className={styles.carousel}>
+          <div ref={scrollerRef} className={styles.track}>
+            {TESTIMONIALS.map((item, index) => (
+              <TestimonialCard key={item.name} item={item} index={index} />
+            ))}
+          </div>
+          <div className={styles.nav}>
+            <button
+              type="button"
+              className={styles.navBtn}
+              aria-label="Previous testimonial"
+              onClick={() => scrollByCard(-1)}
+            >
+              <ChevronLeftIcon />
+            </button>
+            <button
+              type="button"
+              className={styles.navBtn}
+              aria-label="Next testimonial"
+              onClick={() => scrollByCard(1)}
+            >
+              <ChevronRightIcon />
+            </button>
+          </div>
         </div>
 
         <motion.div

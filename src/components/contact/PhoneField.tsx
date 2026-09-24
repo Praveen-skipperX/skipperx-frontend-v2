@@ -14,24 +14,30 @@ export function PhoneField({
   ...props
 }: PhoneFieldProps) {
   return (
-    <div className={styles.phoneRow}>
-      <div className={styles.prefix} aria-hidden="true">
-        <span className={styles.prefixText}>+91</span>
-        <span className={styles.prefixRule} />
-      </div>
-      <label className={styles.visuallyHidden} htmlFor={id}>
+    <div className={styles.field}>
+      <label className={styles.label} htmlFor={id}>
         {label}
+        <span className={styles.required}>*</span>
       </label>
-      <input
-        id={id}
-        type="tel"
-        inputMode="numeric"
-        autoComplete="tel-national"
-        className={`${styles.control} ${styles.phoneInput} ${
-          focused ? styles.focused : ""
-        }`}
-        {...props}
-      />
+      <div className={styles.phoneRow}>
+        <div
+          className={`${styles.prefix} ${focused ? styles.prefixFocused : ""}`}
+          aria-hidden="true"
+        >
+          <span className={styles.prefixText}>+91</span>
+          <span className={styles.prefixRule} />
+        </div>
+        <input
+          id={id}
+          type="tel"
+          inputMode="numeric"
+          autoComplete="tel-national"
+          className={`${styles.control} ${styles.phoneInput} ${
+            focused ? styles.focused : ""
+          }`}
+          {...props}
+        />
+      </div>
     </div>
   );
 }

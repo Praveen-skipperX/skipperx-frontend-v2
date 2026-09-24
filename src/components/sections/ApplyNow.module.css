@@ -125,7 +125,7 @@
 
 .check {
   flex-shrink: 0;
-  color: var(--color-brand-green);
+  color: var(--color-brand-orange);
 }
 
 @media (min-width: 768px) {
