@@ -1,0 +1,114 @@
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  min-width: 0;
+  padding: 28px;
+  border-radius: var(--radius-lg);
+  background: rgb(255 255 255 / 0.03);
+  border: 1px solid rgb(255 255 255 / 0.07);
+  backdrop-filter: blur(12px);
+}
+
+.glow,
+.edge {
+  position: absolute;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.glow {
+  inset: 0;
+  border-radius: inherit;
+  transition: opacity var(--duration-cinematic);
+}
+
+.edge {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  transition: opacity var(--duration-base);
+}
+
+.card:hover .glow,
+.card:hover .edge {
+  opacity: 1;
+}
+
+.quoteMark {
+  margin-bottom: 20px;
+  font-family: Georgia, serif;
+  font-size: 3rem;
+  line-height: 1;
+  opacity: 0.3;
+}
+
+.quote {
+  flex: 1;
+  margin: 0 0 24px;
+  color: #d1d5db;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.outcome {
+  display: inline-flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 24px;
+  padding: 6px 12px;
+  border-radius: var(--radius-full);
+  font-size: var(--text-label);
+  font-weight: 500;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.avatar {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: var(--text-body-s);
+  font-weight: 600;
+}
+
+.name {
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.meta {
+  color: #4b5563;
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+}
+
+@media (max-width: 639px) {
+  .card {
+    padding: 20px;
+  }
+
+  .quote {
+    font-size: 0.9rem;
+  }
+
+  .quoteMark {
+    margin-bottom: 12px;
+    font-size: 2.5rem;
+  }
+}

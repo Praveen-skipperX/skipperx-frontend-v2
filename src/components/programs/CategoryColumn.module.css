@@ -1,0 +1,67 @@
+.header {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 100%;
+  border-radius: 16px;
+  padding: 24px;
+  background: linear-gradient(135deg, var(--track-dim) 0%, rgb(255 255 255 / 0.02) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--track-border);
+  transition: border-color var(--duration-base) var(--ease-out);
+}
+
+.header:hover {
+  border-color: var(--track-color);
+}
+
+.identity {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.emoji {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.titles {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+}
+
+.tagline {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 12px;
+  line-height: 16px;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  background: var(--track-badge);
+  color: var(--track-text);
+  border: 1px solid var(--track-border);
+  white-space: nowrap;
+}
+
+.label {
+  margin: 0;
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+}
+
+.description {
+  margin: 0;
+  color: #99a1af;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: var(--font-body);
+}

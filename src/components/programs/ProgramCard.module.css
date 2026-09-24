@@ -1,0 +1,115 @@
+.card {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: var(--radius-lg);
+  background: rgb(255 255 255 / 0.03);
+  backdrop-filter: blur(var(--blur-glass));
+  -webkit-backdrop-filter: blur(var(--blur-glass));
+  border: 1px solid rgb(255 255 255 / 0.08);
+  transition: border-color var(--duration-base) var(--ease-out);
+}
+
+.card:hover {
+  border-color: var(--track-border);
+}
+
+.body {
+  position: relative;
+  padding: 20px;
+}
+
+@media (max-width: 639px) {
+  .body {
+    padding: 16px;
+  }
+
+  .icon {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  line-height: 28px;
+  flex-shrink: 0;
+  background: var(--track-dim);
+  border: 1px solid var(--track-border);
+}
+
+.tag {
+  font-family: var(--font-body);
+  font-size: 12px;
+  line-height: 16px;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  background: var(--track-badge);
+  color: var(--track-text);
+  border: 1px solid var(--track-border);
+  white-space: nowrap;
+}
+
+.name {
+  margin: 0 0 6px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.description {
+  margin: 0 0 16px;
+  color: #6a7282;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: var(--font-body);
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.metaItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #4a5565;
+  font-size: 12px;
+  line-height: 16px;
+  font-family: var(--font-body);
+}
+
+.metaIcon {
+  display: block;
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+}
+
+.explore {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 16px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-family: var(--font-body);
+  color: var(--track-text);
+}

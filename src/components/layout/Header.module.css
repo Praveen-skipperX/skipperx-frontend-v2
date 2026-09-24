@@ -1,0 +1,152 @@
+.header {
+  position: fixed;
+  top: var(--header-banner-height);
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: rgb(10 10 11 / 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border-header);
+}
+
+.inner {
+  padding-block: 14px;
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: inline-flex;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.desktopNav {
+  display: none;
+  align-items: center;
+  gap: 28px;
+}
+
+.desktopCta {
+  display: none;
+  align-items: center;
+  gap: 16px;
+}
+
+.navLink {
+  color: #9ca3af;
+  font-size: 0.875rem;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  transition: color var(--duration-fast) var(--ease-out);
+}
+
+.navLink:hover {
+  color: #fff;
+}
+
+.enquire {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 20px;
+  border-radius: var(--radius-full);
+  color: #fff;
+  background: var(--gradient-brand);
+  box-shadow: 0 0 20px rgb(254 131 36 / 0.35);
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform var(--duration-base);
+}
+
+.enquire:hover {
+  transform: translateY(-1px);
+}
+
+.menuButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #9ca3af;
+  line-height: 0;
+  transition: color var(--duration-fast) var(--ease-out);
+}
+
+.menuButton:hover {
+  color: #fff;
+}
+
+.mobilePanel {
+  border-top: 1px solid rgb(255 255 255 / 0.1);
+  background: rgb(10 10 11 / 0.97);
+  padding: 16px;
+}
+
+.mobileNav {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.mobileLink {
+  display: block;
+  color: #d1d5db;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: color var(--duration-fast) var(--ease-out);
+}
+
+.mobileLink:hover {
+  color: #fff;
+}
+
+.mobileEnquire {
+  display: inline-block;
+  align-self: flex-start;
+  margin-top: 8px;
+  padding: 10px 24px;
+  border-radius: var(--radius-full);
+  color: #fff;
+  background: var(--gradient-brand);
+  font-family: var(--font-body);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+@media (max-width: 639px) {
+  .menuButton {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (min-width: 640px) {
+  .inner {
+    padding-block: 16px;
+  }
+
+  .mobilePanel {
+    padding: 20px 24px;
+  }
+}
+
+@media (min-width: 768px) {
+  .desktopNav,
+  .desktopCta {
+    display: flex;
+  }
+
+  .menuButton,
+  .mobilePanel {
+    display: none;
+  }
+}

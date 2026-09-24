@@ -1,0 +1,112 @@
+:root {
+  /* Color System — Figma SkipperX-Website / Color System (3:4) */
+  --color-surface-0: #0a0a0b;
+  --color-surface-1: #111113;
+  --color-surface-2: #1a1a1c;
+  --color-glass: rgb(255 255 255 / 0.04);
+
+  --color-text-primary: #ffffff;
+  --color-text-secondary: rgb(255 255 255 / 0.6);
+  --color-text-muted: rgb(255 255 255 / 0.38);
+  --color-text-subtle: rgb(255 255 255 / 0.22);
+
+  --color-brand-orange: #fe8324;
+  --color-brand-red: #ff4101;
+  --color-brand-coral: #ff6b6b;
+  --color-brand-cyan: #00d4ff;
+  --color-brand-purple: #a855f7;
+  --color-brand-pink: #f472b6;
+  --color-brand-green: #01bf63;
+
+  --color-border-default: rgb(255 255 255 / 0.08);
+  --color-border-soft: rgb(255 255 255 / 0.06);
+  --color-border-strong: rgb(255 255 255 / 0.15);
+  --color-border-header: rgb(255 255 255 / 0.07);
+
+  --gradient-brand: linear-gradient(90deg, #fe8324, #ff4101);
+  --gradient-brand-135: linear-gradient(135deg, #fe8324, #ff4101);
+  --gradient-banner: linear-gradient(90deg, #fe8324 0%, #ff4101 50%, #fe8324 100%);
+  --gradient-hero-text: linear-gradient(90deg, #fe8324 0%, #ff4101 100%);
+
+  /* Typography — Figma Typography (63:163) */
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "Poppins", system-ui, sans-serif;
+
+  --text-display: 88px;
+  --text-h1: 64px;
+  --text-h2: 48px;
+  --text-h3: 32px;
+  --text-h5: 18px;
+  --text-body-l: 18px;
+  --text-body: 16px;
+  --text-body-s: 14px;
+  --text-label: 12px;
+  --text-micro: 11px;
+
+  --tracking-label: 0.5em;
+  --tracking-display: -0.03em;
+
+  /* Spacing — Figma Spacing & Radius (15:2061) */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+  --space-5xl: 112px;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Effects — Figma Effects (15:2220) */
+  --blur-glass: 16px;
+  --blur-glass-strong: 24px;
+  --blur-glass-subtle: 12px;
+  --blur-glass-tinted: 20px;
+
+  --glow-s: 0 0 20px rgb(254 131 36 / 0.35);
+  --glow-m: 0 0 32px rgb(254 131 36 / 0.45);
+  --glow-l: 0 0 60px rgb(254 131 36 / 0.15);
+  --glow-cta: 0 4px 32px rgb(254 131 36 / 0.38);
+  --glow-banner: 0 1px 20px 0 rgb(254 131 36 / 0.45);
+
+  /* Motion — Figma DS docs + live Hero */
+  --duration-micro: 150ms;
+  --duration-fast: 200ms;
+  --duration-base: 300ms;
+  --duration-smooth: 450ms;
+  --duration-cinematic: 600ms;
+  --stagger: 80ms;
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-hero: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --header-banner-height: 36px;
+  --container-max: 80rem;
+  --container-pad: 16px;
+  --section-px: var(--container-pad);
+  --section-py: var(--space-3xl);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --container-pad: 24px;
+  }
+}
+
+@media (min-width: 768px) {
+  :root {
+    --section-py: var(--space-4xl);
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --container-pad: 40px;
+  }
+}

@@ -1,0 +1,86 @@
+.stat {
+  min-width: 0;
+}
+
+.bar {
+  width: 40px;
+  height: 2px;
+  margin-bottom: 24px;
+  background: var(--color-brand-orange);
+  transition: width var(--duration-base) var(--ease-out);
+}
+
+.stat:hover .bar {
+  width: 64px;
+}
+
+.valueRow {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.value {
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: clamp(2.8rem, 5vw, 4rem);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+.prefix,
+.suffix {
+  color: var(--color-brand-orange);
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+.prefix {
+  font-size: 2rem;
+}
+
+.suffix {
+  font-size: 1.6rem;
+}
+
+.label {
+  margin: 0 0 6px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 639px) {
+  .bar {
+    margin-bottom: 16px;
+  }
+
+  .value {
+    font-size: 2.8rem;
+  }
+
+  .prefix {
+    font-size: 1.6rem;
+  }
+
+  .suffix {
+    font-size: 1.6rem;
+  }
+
+  .label {
+    font-size: 0.875rem;
+  }
+}
+
+.sub {
+  margin: 0;
+  color: #4b5563;
+  font-size: 0.8rem;
+  font-family: var(--font-body);
+}

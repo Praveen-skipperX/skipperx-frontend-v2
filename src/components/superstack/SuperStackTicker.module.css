@@ -1,0 +1,17 @@
+.ticker {
+  overflow: hidden;
+  padding-block: 8px;
+}
+
+.track {
+  display: flex;
+  white-space: nowrap;
+  font-family: var(--font-body);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  will-change: transform;
+}
+
+.chunk {
+  padding-right: 40px;
+}

@@ -1,0 +1,257 @@
+.section {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-surface-0);
+  padding: var(--section-py) var(--section-px);
+}
+
+.inner {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 72rem;
+  margin-inline: auto;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.eyebrow {
+  display: inline-flex;
+  margin-bottom: 24px;
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  border: 1px solid rgb(255 255 255 / 0.1);
+  background: rgb(255 255 255 / 0.04);
+  color: #9ca3af;
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.title {
+  margin: 0 0 20px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.gradient {
+  background-image: linear-gradient(90deg, #ff6b6b 0%, #00d4ff 50%, #60a5fa 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.lede {
+  margin: 0 auto;
+  max-width: 36rem;
+  color: #9ca3af;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  font-family: var(--font-body);
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 40px;
+  padding: 6px;
+  border-radius: 20px;
+  background: rgb(255 255 255 / 0.03);
+  border: 1px solid rgb(255 255 255 / 0.08);
+}
+
+.tab {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 48px;
+  padding: 10px 16px;
+  border-radius: 14px;
+  border: 1px solid transparent;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition:
+    background var(--duration-base) var(--ease-out),
+    color var(--duration-base) var(--ease-out),
+    border-color var(--duration-base) var(--ease-out);
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.trackHead {
+  padding: 4px 8px 8px 20px;
+  border-left: 2px solid var(--track-color);
+}
+
+.tagline {
+  display: inline-block;
+  margin-bottom: 12px;
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+  background: var(--track-badge);
+  color: var(--track-text);
+  border: 1px solid var(--track-border);
+  font-family: var(--font-body);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.trackTitle {
+  margin: 0 0 8px;
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 3vw, 2.25rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.trackCopy {
+  margin: 0;
+  color: #9ca3af;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  font-family: var(--font-body);
+}
+
+.rule {
+  margin: 20px 0 16px;
+  height: 1px;
+  background: linear-gradient(90deg, var(--track-border), transparent);
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 28px;
+}
+
+.stat {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.statValue {
+  color: var(--track-text);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.statLabel {
+  color: #6b7280;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.cta {
+  margin-top: 56px;
+  text-align: center;
+}
+
+.ctaCopy {
+  margin: 0 0 20px;
+  color: #6b7280;
+  font-size: 0.875rem;
+  font-family: var(--font-body);
+}
+
+.quizButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 32px;
+  border-radius: var(--radius-full);
+  border: 1px solid rgb(255 255 255 / 0.1);
+  background: rgb(255 255 255 / 0.05);
+  color: #fff;
+  font-size: 0.875rem;
+  backdrop-filter: blur(12px);
+  transition:
+    background var(--duration-base) var(--ease-out),
+    border-color var(--duration-base) var(--ease-out);
+}
+
+.quizButton:hover {
+  background: rgb(255 255 255 / 0.09);
+  border-color: rgb(255 255 255 / 0.2);
+}
+
+.quizArrow {
+  transition: transform var(--duration-base) var(--ease-out);
+}
+
+.quizButton:hover .quizArrow {
+  transform: translateX(4px);
+}
+
+@media (max-width: 767px) {
+  .intro {
+    margin-bottom: 32px;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .lede {
+    font-size: 1.125rem;
+    line-height: 1.55;
+  }
+
+  .tabs {
+    gap: 6px;
+    margin-bottom: 32px;
+    padding: 4px;
+    border-radius: 16px;
+  }
+
+  .tab {
+    min-height: 36px;
+    padding: 8px 6px;
+    font-size: 12px;
+    gap: 4px;
+    border-radius: 12px;
+    white-space: nowrap;
+  }
+
+  .trackTitle {
+    font-size: 1.75rem;
+  }
+
+  .cta {
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  .intro {
+    margin-bottom: 48px;
+  }
+}

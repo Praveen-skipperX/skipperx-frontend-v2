@@ -1,0 +1,12 @@
+.glow {
+  position: absolute;
+  top: -20%;
+  left: 50%;
+  width: 70%;
+  height: 50%;
+  border-radius: 9999px;
+  transform: translateX(-50%);
+  background: radial-gradient(ellipse, rgb(254 131 36 / 0.07) 0%, transparent 70%);
+  filter: blur(60px);
+  pointer-events: none;
+}

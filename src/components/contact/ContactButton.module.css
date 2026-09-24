@@ -1,0 +1,44 @@
+.button {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-width: 20rem;
+  padding: 16px 48px;
+  border: 0;
+  border-radius: var(--radius-md);
+  color: #fff;
+  background: var(--gradient-hero-text);
+  box-shadow: 0 0 28px rgb(254 131 36 / 0.35);
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+}
+
+.shimmer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    105deg,
+    transparent 40%,
+    rgb(255 255 255 / 0.15) 50%,
+    transparent 60%
+  );
+  background-size: 200% 100%;
+  animation: contact-shimmer 2.4s infinite;
+}
+
+.label {
+  position: relative;
+}
+
+@keyframes contact-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
