@@ -5,44 +5,6 @@
   padding: 0 var(--section-px) 0;
 }
 
-.motto {
-  position: relative;
-  z-index: 3;
-  overflow: hidden;
-  margin: 0 calc(-1 * var(--section-px));
-  padding-block: 10px;
-  border-bottom: 1px solid rgb(255 255 255 / 0.06);
-}
-
-.mottoTrack {
-  display: flex;
-  width: max-content;
-  animation: marquee-scroll 40s linear infinite;
-}
-
-.mottoGroup {
-  display: flex;
-  align-items: center;
-}
-
-.mottoItem {
-  display: inline-flex;
-  align-items: center;
-  gap: 14px;
-  padding: 0 8px 0 18px;
-  color: rgb(255 255 255 / 0.38);
-  font-family: var(--font-display);
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  white-space: nowrap;
-}
-
-.mottoDiamond {
-  color: var(--color-brand-orange);
-  font-size: 8px;
-}
-
 .dots {
   position: absolute;
   inset: 32% 0 0;
@@ -62,25 +24,25 @@
   width: 100%;
   max-width: var(--container-max);
   margin-inline: auto;
-  padding-top: var(--section-py);
+  padding-top: 24px;
 }
 
 .rule {
   width: 100%;
   height: 1px;
-  margin-bottom: var(--space-xl);
+  margin-bottom: 28px;
   background: rgb(255 255 255 / 0.07);
 }
 
 .top {
   display: flex;
   flex-direction: column;
-  gap: var(--space-xl);
-  margin-bottom: var(--space-3xl);
+  gap: 24px;
+  margin-bottom: 40px;
 }
 
 .badge {
-  margin-bottom: var(--space-lg);
+  margin-bottom: 18px;
   font-size: 11px;
   letter-spacing: 0.14em;
 }
@@ -89,25 +51,16 @@
   margin: 0;
   color: #fff;
   font-family: var(--font-display);
-  font-size: clamp(2.1rem, 5vw, 3.35rem);
+  font-size: clamp(2.1rem, 7vw, 3.35rem);
   font-weight: 700;
   letter-spacing: -0.045em;
   line-height: 1.05;
 }
 
-.titleAccent {
-  font-style: normal;
-  background: var(--gradient-hero-text);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
-}
-
 .lede {
-  margin: var(--space-md) 0 0;
+  margin: 16px 0 0;
   max-width: 26rem;
-  color: rgb(255 255 255 / 0.4);
+  color: rgb(255 255 255 / 0.42);
   font-family: var(--font-body);
   font-size: 14px;
   line-height: 1.7;
@@ -115,17 +68,18 @@
 
 .metrics {
   display: flex;
-  align-self: flex-start;
+  width: 100%;
   margin: 0;
   overflow: hidden;
   border: 1px solid rgb(255 255 255 / 0.08);
-  border-radius: var(--radius-lg);
+  border-radius: 16px;
   background: rgb(255 255 255 / 0.03);
 }
 
 .metric {
-  min-width: 5.5rem;
-  padding: 14px 20px;
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 16px 10px;
   text-align: center;
 }
 
@@ -137,7 +91,7 @@
   margin: 0;
   color: var(--color-brand-orange);
   font-family: var(--font-display);
-  font-size: 1.5rem;
+  font-size: 1.35rem;
   font-weight: 700;
   letter-spacing: -0.04em;
   line-height: 1.1;
@@ -147,18 +101,18 @@
   margin: 4px 0 0;
   color: rgb(255 255 255 / 0.38);
   font-family: var(--font-body);
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--space-2xl);
-  margin-bottom: var(--space-xl);
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-bottom: 32px;
 }
 
 .kicker {
-  margin: 0 0 var(--space-sm);
+  margin: 0 0 8px;
   color: rgb(255 255 255 / 0.32);
   font-family: var(--font-body);
   font-size: 11px;
@@ -168,34 +122,35 @@
 }
 
 .circleTitle {
-  margin: 0 0 var(--space-lg);
+  margin: 0 0 20px;
   color: #fff;
   font-family: var(--font-display);
-  font-size: clamp(1.25rem, 2vw, 1.5rem);
+  font-size: clamp(1.25rem, 4vw, 1.5rem);
   font-weight: 700;
   letter-spacing: -0.03em;
+  line-height: 1.25;
 }
 
 .form {
   display: flex;
   align-items: center;
-  gap: var(--space-sm);
+  gap: 6px;
   max-width: 28rem;
-  padding: 6px;
+  padding: 5px;
   border: 1px solid rgb(255 255 255 / 0.09);
-  border-radius: var(--radius-lg);
+  border-radius: 14px;
   background: rgb(255 255 255 / 0.04);
 }
 
 .input {
-  flex: 1 1 10rem;
+  flex: 1 1 auto;
   min-width: 0;
-  padding: 10px 14px;
+  padding: 10px 12px;
   border: 0;
   color: #fff;
   background: transparent;
   font-family: var(--font-body);
-  font-size: 14px;
+  font-size: 13px;
   outline: none;
 }
 
@@ -205,15 +160,16 @@
 
 .subscribe {
   flex-shrink: 0;
-  padding: 10px 18px;
+  padding: 10px 16px;
   font-size: 13px;
+  white-space: nowrap;
 }
 
 .note {
-  margin: var(--space-sm) 0 var(--space-lg);
+  margin: 10px 0 18px;
   color: rgb(255 255 255 / 0.3);
   font-family: var(--font-body);
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .signals {
@@ -226,7 +182,7 @@
   display: flex;
   align-items: flex-start;
   gap: 10px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   color: rgb(255 255 255 / 0.45);
   font-family: var(--font-body);
   font-size: 13px;
@@ -241,8 +197,14 @@
   border-radius: 50%;
 }
 
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px 20px;
+}
+
 .colTitle {
-  margin: 0 0 var(--space-md);
+  margin: 0 0 14px;
   color: rgb(255 255 255 / 0.38);
   font-family: var(--font-body);
   font-size: 11px;
@@ -261,15 +223,18 @@
 
 .links li + li,
 .reach li + li {
-  margin-top: 10px;
+  margin-top: 12px;
 }
 
 .link,
 .mail {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   color: rgb(255 255 255 / 0.55);
   font-family: var(--font-body);
-  font-size: 13px;
-  letter-spacing: 0.04em;
+  font-size: 12px;
+  letter-spacing: 0.06em;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -281,27 +246,31 @@
 }
 
 .mail {
-  display: inline-flex;
-  align-items: center;
   gap: 8px;
   text-transform: none;
   letter-spacing: 0;
+  font-size: 12px;
+  word-break: break-all;
 }
 
 .mail svg {
   flex-shrink: 0;
-  color: rgb(255 255 255 / 0.28);
+  color: rgb(255 255 255 / 0.35);
 }
 
-.plus {
-  margin-right: 8px;
-  color: rgb(255 255 255 / 0.28);
+.bullet {
+  display: inline-block;
+  flex-shrink: 0;
+  width: 5px;
+  height: 5px;
+  border-radius: 1px;
+  background: var(--color-brand-orange);
 }
 
 .socials {
   display: flex;
-  gap: var(--space-sm);
-  margin: var(--space-md) 0 var(--space-lg);
+  gap: 8px;
+  margin-top: 16px;
 }
 
 .social {
@@ -311,7 +280,7 @@
   width: 36px;
   height: 36px;
   border: 1px solid rgb(255 255 255 / 0.08);
-  border-radius: 14px;
+  border-radius: 12px;
   color: rgb(255 255 255 / 0.7);
   background: rgb(255 255 255 / 0.05);
 }
@@ -324,42 +293,43 @@
 .legal {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px 16px;
+  gap: 12px 18px;
+  margin-bottom: 28px;
 }
 
 .legalLink {
-  color: rgb(255 255 255 / 0.32);
+  color: rgb(255 255 255 / 0.38);
   font-family: var(--font-body);
   font-size: 12px;
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .brand {
   position: relative;
   z-index: 0;
-  margin-top: var(--space-xl);
-  padding-bottom: 20px;
+  padding-bottom: 16px;
   overflow: hidden;
 }
 
 .copy {
   position: relative;
   z-index: 1;
-  margin: 0 0 24px;
+  margin: 0 0 20px;
   color: rgb(255 255 255 / 0.28);
   font-family: var(--font-body);
-  font-size: 12px;
+  font-size: 11px;
   letter-spacing: 0.01em;
-  text-align: center;
+  text-align: left;
 }
 
 .wordmark {
   margin: 0;
   overflow: hidden;
   height: 0.76em;
-  color: rgb(255 255 255 / 0.09);
+  color: rgb(255 255 255 / 0.1);
   font-family: var(--font-display);
-  font-size: 13.2vw;
+  font-size: 16vw;
   font-weight: 700;
   letter-spacing: -0.06em;
   line-height: 1;
@@ -369,8 +339,8 @@
 }
 
 .wordmarkX {
-  margin-left: 0.08em;
-  color: rgb(107 58 34 / 0.7);
+  margin-left: 0.06em;
+  color: rgb(254 131 36 / 0.55);
   letter-spacing: 0;
 }
 
@@ -383,60 +353,65 @@
   white-space: nowrap;
 }
 
-@media (max-width: 767px) {
-  .metrics {
-    width: 100%;
-  }
-
-  .metric {
-    flex: 1 1 0;
-    min-width: 0;
-    padding: 12px 8px;
-  }
-
-  .metricValue {
-    font-size: 1.25rem;
-  }
-
-  .metricLabel {
-    font-size: 11px;
-  }
-
-  .wordmark {
-    font-size: 14.2vw;
-  }
-}
-
-@media (max-width: 479px) {
-  .form {
-    flex-wrap: wrap;
-  }
-
-  .subscribe {
-    width: 100%;
-  }
-}
-
 @media (min-width: 768px) {
+  .inner {
+    padding-top: var(--section-py);
+  }
+
+  .rule {
+    margin-bottom: var(--space-xl);
+  }
+
   .top {
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-between;
+    gap: var(--space-xl);
     margin-bottom: var(--space-4xl);
   }
 
-  .grid {
-    grid-template-columns: minmax(0, 1.4fr) 0.7fr 0.9fr;
-    gap: var(--space-2xl);
-    margin-bottom: var(--space-2xl);
+  .metrics {
+    width: auto;
+    align-self: flex-end;
+  }
+
+  .metric {
+    flex: 0 0 auto;
+    min-width: 5.5rem;
+    padding: 14px 20px;
   }
 
   .metricValue {
     font-size: 1.75rem;
   }
 
-  .metrics {
-    align-self: flex-end;
+  .metricLabel {
+    font-size: 12px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.4fr) 0.7fr 0.9fr;
+    gap: var(--space-2xl);
+    margin-bottom: var(--space-2xl);
+  }
+
+  .cols {
+    display: contents;
+  }
+
+  .copy {
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 24px;
+  }
+
+  .wordmark {
+    font-size: 13.2vw;
+  }
+
+  .legal {
+    margin-bottom: 20px;
   }
 }
 

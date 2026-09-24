@@ -2,7 +2,7 @@
   position: relative;
   overflow: hidden;
   background: var(--color-surface-0);
-  padding: var(--section-py) var(--section-px);
+  padding: 32px var(--section-px) var(--section-py);
 }
 
 .glowTop,
@@ -39,7 +39,7 @@
 .rule {
   width: 100%;
   height: 1px;
-  margin-bottom: 64px;
+  margin-bottom: 24px;
   background: rgb(255 255 255 / 0.07);
 }
 
@@ -47,7 +47,7 @@
   display: grid;
   gap: 32px;
   align-items: end;
-  margin-bottom: 48px;
+  margin-bottom: 40px;
 }
 
 .kicker {
@@ -260,8 +260,9 @@
 }
 
 @media (max-width: 639px) {
-  .rule {
-    margin-bottom: 40px;
+  .intro {
+    margin-bottom: 32px;
+    gap: 24px;
   }
 
   .title {
@@ -270,6 +271,7 @@
 
   .lede {
     font-size: 0.95rem;
+    margin-bottom: 24px;
   }
 
   .chip {
@@ -282,7 +284,7 @@
 
   .mobileTrack {
     column-gap: 16px;
-    row-gap: 32px;
+    row-gap: 28px;
   }
 }
 
@@ -303,8 +305,16 @@
 }
 
 @media (min-width: 768px) {
+  .section {
+    padding: 48px var(--section-px) var(--section-py);
+  }
+
+  .rule {
+    margin-bottom: 32px;
+  }
+
   .intro {
-    margin-bottom: 80px;
+    margin-bottom: 56px;
   }
 
   .panel {

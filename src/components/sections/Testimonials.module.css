@@ -2,7 +2,7 @@
   position: relative;
   overflow: hidden;
   background: var(--color-surface-0);
-  padding: var(--section-py) var(--section-px);
+  padding: 32px var(--section-px) var(--section-py);
 }
 
 .glow {
@@ -26,7 +26,7 @@
 .rule {
   width: 100%;
   height: 1px;
-  margin-bottom: 64px;
+  margin-bottom: 24px;
   background: rgb(255 255 255 / 0.07);
 }
 
@@ -101,8 +101,8 @@
 }
 
 @media (max-width: 639px) {
-  .rule {
-    margin-bottom: 40px;
+  .header {
+    margin-bottom: 28px;
   }
 
   .title {
@@ -111,7 +111,11 @@
 
   .grid {
     gap: 16px;
-    margin-bottom: 40px;
+    margin-bottom: 32px;
+  }
+
+  .companiesLabel {
+    margin-bottom: 20px;
   }
 
   .companies {
@@ -130,12 +134,20 @@
 }
 
 @media (min-width: 768px) {
+  .section {
+    padding: 48px var(--section-px) var(--section-py);
+  }
+
+  .rule {
+    margin-bottom: 32px;
+  }
+
   .header {
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-between;
     gap: 24px;
-    margin-bottom: 64px;
+    margin-bottom: 48px;
   }
 
   .lede {
@@ -144,7 +156,7 @@
 
   .grid {
     gap: 24px;
-    margin-bottom: 80px;
+    margin-bottom: 48px;
   }
 
   .companies {

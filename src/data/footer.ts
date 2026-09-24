@@ -1,16 +1,3 @@
-export const FOOTER_MOTTO = [
-  "BUILD",
-  "SHIP",
-  "DOMINATE",
-  "TOP 1%",
-  "NO EXCUSES",
-  "EARN YOUR SPOT",
-  "BE THE BEST",
-  "THINK DIFFERENT",
-  "STAY HUNGRY",
-  "HUSTLE HARD",
-] as const;
-
 export const FOOTER_STATS = [
   { value: "2,400+", label: "Learners" },
   { value: "3", label: "Tracks" },
@@ -19,7 +6,7 @@ export const FOOTER_STATS = [
 
 export const FOOTER_SIGNALS = [
   {
-    color: "#fe8324",
+    color: "#ff6b6b",
     text: "Cohort 4 now open — only 12 seats left.",
   },
   {

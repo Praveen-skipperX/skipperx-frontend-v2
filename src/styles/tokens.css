@@ -90,7 +90,7 @@
   --container-max: 80rem;
   --container-pad: 16px;
   --section-px: var(--container-pad);
-  --section-py: var(--space-3xl);
+  --section-py: var(--space-2xl);
 }
 
 @media (min-width: 640px) {
@@ -101,12 +101,13 @@
 
 @media (min-width: 768px) {
   :root {
-    --section-py: var(--space-4xl);
+    --section-py: var(--space-3xl);
   }
 }
 
 @media (min-width: 1024px) {
   :root {
     --container-pad: 40px;
+    --section-py: 80px;
   }
 }

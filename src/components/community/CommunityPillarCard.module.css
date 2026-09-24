@@ -4,9 +4,9 @@
   align-items: flex-start;
   min-width: 0;
   height: 100%;
-  padding: 20px 18px 22px;
+  padding: 16px;
   border: 1px solid transparent;
-  border-radius: var(--radius-lg);
+  border-radius: 16px;
   transition:
     transform var(--duration-base) var(--ease-out),
     border-color var(--duration-base) var(--ease-out);
@@ -20,14 +20,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
-  margin-bottom: 16px;
-  border-radius: 14px;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 12px;
+  border-radius: 12px;
 }
 
 .title {
-  margin: 0 0 8px;
+  margin: 0 0 6px;
   color: #fff;
   font-family: var(--font-display);
   font-size: 13px;
@@ -40,7 +40,25 @@
   margin: 0;
   color: rgb(255 255 255 / 0.4);
   font-family: var(--font-body);
-  font-size: 13px;
+  font-size: 11px;
   font-weight: 400;
-  line-height: 1.55;
+  line-height: 1.5;
+}
+
+@media (min-width: 640px) {
+  .card {
+    padding: 20px 18px 22px;
+  }
+
+  .icon {
+    width: 36px;
+    height: 36px;
+    margin-bottom: 16px;
+    border-radius: 14px;
+  }
+
+  .copy {
+    font-size: 13px;
+    line-height: 1.55;
+  }
 }

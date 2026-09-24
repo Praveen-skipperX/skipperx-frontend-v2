@@ -2,7 +2,7 @@
   position: relative;
   overflow: hidden;
   background: var(--color-surface-0);
-  padding: var(--section-py) var(--section-px);
+  padding: var(--section-py) var(--section-px) 32px;
 }
 
 .inner {
@@ -15,7 +15,7 @@
 
 .intro {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 }
 
 .eyebrow {
@@ -251,6 +251,10 @@
 }
 
 @media (min-width: 768px) {
+  .section {
+    padding: var(--section-py) var(--section-px);
+  }
+
   .intro {
     margin-bottom: 48px;
   }

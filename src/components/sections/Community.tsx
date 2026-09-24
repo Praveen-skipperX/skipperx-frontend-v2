@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import type { MouseEvent } from "react";
-import { COMMUNITY_FEED, COMMUNITY_PILLARS, COMMUNITY_QUOTES, COMMUNITY_STATS } from "../../data/community";
+import { COMMUNITY_PILLARS, COMMUNITY_STATS } from "../../data/community";
 import { scrollToId } from "../../lib/scrollToId";
 import {
   ArrowUpRightIcon,
@@ -29,6 +29,9 @@ export function Community() {
 
   return (
     <Section id="community" className={styles.section}>
+      <div className={styles.glowTop} aria-hidden="true" />
+      <div className={styles.glowBottom} aria-hidden="true" />
+
       <div className={styles.inner}>
         <div className={styles.header}>
           <motion.div
@@ -86,13 +89,6 @@ export function Community() {
               Not just another WhatsApp group — this is where your influence
               learns to lead.
             </figcaption>
-            <ul className={styles.feed} aria-hidden="true">
-              {COMMUNITY_FEED.map((item) => (
-                <li key={item} className={styles.feedChip}>
-                  {item}
-                </li>
-              ))}
-            </ul>
           </motion.figure>
 
           <div className={styles.pillars}>
@@ -114,23 +110,6 @@ export function Community() {
           </div>
         </div>
 
-        <div className={styles.quotes}>
-          {COMMUNITY_QUOTES.map((item, index) => (
-            <motion.blockquote
-              key={item.name}
-              className={styles.quote}
-              initial={{ opacity: 0, y: 16 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.45, delay: 0.08 + index * 0.06 }}
-            >
-              <p className={styles.quoteName}>{item.name}</p>
-              <p className={styles.quoteRole}>{item.role}</p>
-              <p className={styles.quoteText}>&ldquo;{item.quote}&rdquo;</p>
-            </motion.blockquote>
-          ))}
-        </div>
-
         <motion.div
           className={styles.bar}
           initial={{ opacity: 0, y: 16 }}
@@ -145,11 +124,11 @@ export function Community() {
                 <li key={stat.label} className={styles.stat}>
                   <span
                     className={styles.statIcon}
-                    style={{ color: stat.color, background: `${stat.color}1A` }}
+                    style={{ color: stat.color, background: `${stat.color}14` }}
                   >
                     <Glyph size={16} />
                   </span>
-                  <span>
+                  <span className={styles.statCopy}>
                     <span className={styles.statValue}>{stat.value}</span>
                     <span className={styles.statLabel}>{stat.label}</span>
                   </span>
@@ -160,7 +139,7 @@ export function Community() {
           <Button
             href="#contact"
             variant="primary"
-            size="lg"
+            size="md"
             className={styles.cta}
             onClick={goToEnroll}
           >

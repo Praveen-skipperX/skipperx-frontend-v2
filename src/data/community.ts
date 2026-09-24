@@ -53,7 +53,7 @@ export const COMMUNITY_STATS: CommunityStat[] = [
   },
   {
     value: "500+",
-    label: "Daily messages",
+    label: "Daily Messages",
     color: "#00d4ff",
     icon: "messages",
   },
@@ -64,33 +64,3 @@ export const COMMUNITY_STATS: CommunityStat[] = [
     icon: "growth",
   },
 ];
-
-export const COMMUNITY_FEED = [
-  "🔥 New internship dropped",
-  "🚀 Ayesha got placed @Google",
-  "💡 Weekly mentor session live",
-  "🎯 Challenge: 30-day MVP",
-] as const;
-
-export const COMMUNITY_QUOTES = [
-  {
-    name: "Priya S.",
-    role: "UX Designer",
-    quote: "Got my first freelance client through the community in 3 weeks.",
-  },
-  {
-    name: "Arjun M.",
-    role: "SDE Intern @ Razorpay",
-    quote: "Landed my internship after the mock interviews in the community.",
-  },
-  {
-    name: "Sneha R.",
-    role: "Startup Founder",
-    quote: "Co-founders, customers, and mentors — all found here.",
-  },
-  {
-    name: "Kabir T.",
-    role: "Content Creator",
-    quote: "10K followers in 2 months with the creator roadmap they gave.",
-  },
-] as const;

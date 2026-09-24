@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { motion } from "motion/react";
 import {
   FOOTER_LEGAL,
-  FOOTER_MOTTO,
   FOOTER_NAV,
   FOOTER_SIGNALS,
   FOOTER_STATS,
@@ -32,21 +31,32 @@ function ArrowUpRightIcon() {
   );
 }
 
+function CornerArrowIcon() {
+  return (
+    <svg
+      width="12"
+      height="12"
+      viewBox="0 0 12 12"
+      fill="none"
+      aria-hidden="true"
+    >
+      <path
+        d="M2 2v8h8"
+        stroke="currentColor"
+        strokeWidth="1.5"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
 function InstagramIcon() {
   return (
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" strokeWidth="1.7" />
       <circle cx="12" cy="12" r="4" stroke="currentColor" strokeWidth="1.7" />
       <circle cx="17.5" cy="6.5" r="1" fill="currentColor" />
-    </svg>
-  );
-}
-
-function MailIcon() {
-  return (
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-      <rect x="3" y="5" width="18" height="14" rx="2" stroke="currentColor" strokeWidth="1.7" />
-      <path d="M4 7.5 12 13l8-5.5" stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round" />
     </svg>
   );
 }
@@ -72,20 +82,6 @@ export function Footer() {
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.motto} aria-hidden="true">
-        <div className={styles.mottoTrack}>
-          {[0, 1].map((copy) => (
-            <div key={copy} className={styles.mottoGroup}>
-              {FOOTER_MOTTO.map((item) => (
-                <span key={`${copy}-${item}`} className={styles.mottoItem}>
-                  {item}
-                  <span className={styles.mottoDiamond}>◆</span>
-                </span>
-              ))}
-            </div>
-          ))}
-        </div>
-      </div>
       <div className={styles.dots} aria-hidden="true" />
       <div className={styles.inner}>
         <div className={styles.rule} />
@@ -103,7 +99,7 @@ export function Footer() {
             <h2 className={styles.title}>
               Stop scrolling.
               <br />
-              <span className={styles.titleAccent}>Start building.</span>
+              Start building.
             </h2>
             <p className={styles.lede}>
               The 99% watch. The 1% do. SkipperX is where the doers come to
@@ -174,70 +170,75 @@ export function Footer() {
             </ul>
           </motion.div>
 
-          <nav className={styles.col} aria-label="Footer">
-            <p className={styles.colTitle}>Navigate</p>
-            <ul className={styles.links}>
-              {FOOTER_NAV.map((item) => (
-                <li key={item.label}>
-                  {"to" in item ? (
-                    <Link className={styles.link} to={item.to}>
-                      <span className={styles.plus}>+</span>
-                      {item.label}
-                    </Link>
-                  ) : (
-                    <a
-                      className={styles.link}
-                      href={`#${item.hash}`}
-                      onClick={(event) => {
-                        event.preventDefault();
-                        onHash(item.hash);
-                      }}
-                    >
-                      <span className={styles.plus}>+</span>
-                      {item.label}
-                    </a>
-                  )}
-                </li>
-              ))}
-            </ul>
-          </nav>
+          <div className={styles.cols}>
+            <nav className={styles.col} aria-label="Footer">
+              <p className={styles.colTitle}>Navigate</p>
+              <ul className={styles.links}>
+                {FOOTER_NAV.map((item) => (
+                  <li key={item.label}>
+                    {"to" in item ? (
+                      <Link className={styles.link} to={item.to}>
+                        <span className={styles.bullet} aria-hidden="true" />
+                        {item.label}
+                      </Link>
+                    ) : (
+                      <a
+                        className={styles.link}
+                        href={`#${item.hash}`}
+                        onClick={(event) => {
+                          event.preventDefault();
+                          onHash(item.hash);
+                        }}
+                      >
+                        <span className={styles.bullet} aria-hidden="true" />
+                        {item.label}
+                      </a>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </nav>
 
-          <div className={styles.col}>
-            <p className={styles.colTitle}>Reach Us</p>
-            <ul className={styles.reach}>
-              <li>
-                <a className={styles.mail} href="mailto:hello@skipperx.in">
-                  <MailIcon />
-                  hello@skipperx.in
-                </a>
-              </li>
-              <li>
-                <a className={styles.mail} href="mailto:partnerships@skipperx.in">
-                  <MailIcon />
-                  partnerships@skipperx.in
-                </a>
-              </li>
-            </ul>
-            <div className={styles.socials}>
-              <a className={styles.social} href="#" aria-label="Instagram">
-                <InstagramIcon />
-              </a>
-              <a className={styles.social} href="#" aria-label="LinkedIn">
-                <LinkedInIcon />
-              </a>
-            </div>
-            <ul className={styles.legal}>
-              {FOOTER_LEGAL.map((item) => (
-                <li key={item.label}>
-                  <a className={styles.legalLink} href={item.href}>
-                    {item.label}
+            <div className={styles.col}>
+              <p className={styles.colTitle}>Reach Us</p>
+              <ul className={styles.reach}>
+                <li>
+                  <a className={styles.mail} href="mailto:hello@skipperx.in">
+                    <CornerArrowIcon />
+                    hello@skipperx.in
                   </a>
                 </li>
-              ))}
-            </ul>
+                <li>
+                  <a
+                    className={styles.mail}
+                    href="mailto:partnerships@skipperx.in"
+                  >
+                    <CornerArrowIcon />
+                    partnerships@skipperx.in
+                  </a>
+                </li>
+              </ul>
+              <div className={styles.socials}>
+                <a className={styles.social} href="#" aria-label="Instagram">
+                  <InstagramIcon />
+                </a>
+                <a className={styles.social} href="#" aria-label="LinkedIn">
+                  <LinkedInIcon />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
 
+        <ul className={styles.legal}>
+          {FOOTER_LEGAL.map((item) => (
+            <li key={item.label}>
+              <a className={styles.legalLink} href={item.href}>
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
       </div>
 
       <div className={styles.brand}>
