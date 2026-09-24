@@ -1,3 +1,4 @@
+import type { CSSProperties } from "react";
 import { motion } from "motion/react";
 import type { SuperStackItem } from "../../data/superstack";
 import {
@@ -21,21 +22,21 @@ type SuperStackCardProps = {
   index: number;
 };
 
-function ArrowUpRightIcon() {
+function ArrowRightIcon() {
   return (
     <svg
-      width="13"
-      height="13"
+      width="14"
+      height="14"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2"
+      strokeWidth="2.5"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
     >
-      <path d="M7 7h10v10" />
-      <path d="M7 17 17 7" />
+      <path d="M5 12h14" />
+      <path d="m13 6 6 6-6 6" />
     </svg>
   );
 }
@@ -47,10 +48,13 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
   return (
     <motion.article
       className={styles.card}
-      style={{
-        background: item.cardBg,
-        border: `1px solid ${color}18`,
-      }}
+      style={
+        {
+          background: item.cardBg,
+          borderColor: `${color}22`,
+          "--accent": color,
+        } as CSSProperties
+      }
       initial={{ opacity: 0, y: 24 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
@@ -59,7 +63,12 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
         delay: index * 0.08,
         ease: [0.16, 1, 0.3, 1],
       }}
-      whileHover={{ scale: 1.025, borderColor: `${color}45` }}
+      whileHover={{
+        scale: 1.02,
+        borderColor: `${color}55`,
+        boxShadow: `0 18px 48px rgb(0 0 0 / 0.45), 0 0 36px ${color}28`,
+        transition: { duration: 0.25 },
+      }}
     >
       <div className={styles.media}>
         <Illustration />
@@ -68,37 +77,42 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
           style={{ background: `linear-gradient(to top, ${item.cardBg}, transparent)` }}
         />
       </div>
+
       <div className={styles.body}>
-        <div className={styles.tagWrap}>
-          <span
-            className={styles.tag}
-            style={{
-              color,
-              background: `${color}14`,
-              border: `1px solid ${color}30`,
-            }}
-          >
-            {item.category}
-          </span>
-        </div>
+        <span
+          className={styles.tag}
+          style={{
+            color,
+            background: `${color}12`,
+            borderColor: `${color}45`,
+          }}
+        >
+          {item.category}
+        </span>
+
         <h3 className={styles.title}>{item.title}</h3>
-        <p className={styles.programs}>{item.programs}</p>
-        <div className={styles.arrowWrap}>
+
+        <div className={styles.metaRow}>
+          <p className={styles.programs}>{item.programs}</p>
           <motion.div
             className={styles.arrow}
             style={{
-              background: `${color}18`,
-              border: `1px solid ${color}35`,
+              background: color,
+              boxShadow: `0 0 18px ${color}40`,
             }}
-            whileHover={{ background: color, scale: 1.1 }}
+            whileHover={{
+              scale: 1.1,
+              boxShadow: `0 0 28px ${color}70`,
+            }}
             transition={{ duration: 0.2 }}
           >
-            <span className={styles.arrowIcon} style={{ color }}>
-              <ArrowUpRightIcon />
+            <span className={styles.arrowIcon}>
+              <ArrowRightIcon />
             </span>
           </motion.div>
         </div>
       </div>
+
       <SuperStackTicker items={item.ticker} color={color} />
     </motion.article>
   );

@@ -10,12 +10,15 @@ export function SuperStackTicker({ items, color }: SuperStackTickerProps) {
   const doubled = `${items}   ·   ${items}`;
 
   return (
-    <div className={styles.ticker} style={{ borderTop: `1px solid ${color}18` }}>
+    <div
+      className={styles.ticker}
+      style={{ borderTop: `1px solid ${color}22` }}
+    >
       <motion.div
         className={styles.track}
         animate={{ x: ["0%", "-50%"] }}
-        transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
-        style={{ color: `${color}80` }}
+        transition={{ duration: 18, repeat: Infinity, ease: "linear" }}
+        style={{ color }}
       >
         <span className={styles.chunk}>{doubled}</span>
         <span className={styles.chunk}>{doubled}</span>

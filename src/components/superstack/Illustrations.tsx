@@ -58,38 +58,37 @@ export function TechIllustration() {
     <svg viewBox="0 0 320 200" fill="none" className="ss-illu" aria-hidden="true">
       <defs>
         <radialGradient id="ss-tg1" cx="50%" cy="50%" r="55%">
-          <stop offset="0%" stopColor="#22D3EE" stopOpacity="0.2" />
+          <stop offset="0%" stopColor="#FE8324" stopOpacity="0.22" />
           <stop offset="100%" stopColor="#0A0A0B" stopOpacity="0" />
         </radialGradient>
         <linearGradient id="ss-tg2" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stopColor="#22D3EE" />
-          <stop offset="100%" stopColor="#0EA5E9" />
+          <stop offset="0%" stopColor="#FE8324" />
+          <stop offset="100%" stopColor="#FF4101" />
         </linearGradient>
       </defs>
-      <rect width="320" height="200" fill="#0D1117" />
+      <rect width="320" height="200" fill="#14110A" />
       <ellipse cx="160" cy="100" rx="120" ry="100" fill="url(#ss-tg1)" />
-      <path d="M20 100 H60 V60 H100" stroke="rgba(34,211,238,0.2)" strokeWidth="1" />
-      <path d="M260 60 H290 V140 H270" stroke="rgba(34,211,238,0.2)" strokeWidth="1" />
-      <path d="M40 140 H80 V170 H140" stroke="rgba(34,211,238,0.15)" strokeWidth="1" />
-      <rect x="80" y="48" width="160" height="110" rx="10" fill="rgba(255,255,255,0.04)" stroke="rgba(34,211,238,0.25)" strokeWidth="1.2" />
-      <rect x="80" y="48" width="160" height="24" rx="10" fill="rgba(34,211,238,0.08)" />
+      <path d="M20 100 H60 V60 H100" stroke="rgba(254,131,36,0.2)" strokeWidth="1" />
+      <path d="M260 60 H290 V140 H270" stroke="rgba(254,131,36,0.2)" strokeWidth="1" />
+      <path d="M40 140 H80 V170 H140" stroke="rgba(254,131,36,0.15)" strokeWidth="1" />
+      <rect x="80" y="48" width="160" height="110" rx="10" fill="rgba(255,255,255,0.04)" stroke="rgba(254,131,36,0.28)" strokeWidth="1.2" />
+      <rect x="80" y="48" width="160" height="24" rx="10" fill="rgba(254,131,36,0.1)" />
       <circle cx="96" cy="60" r="4" fill="rgba(255,80,80,0.6)" />
-      <circle cx="110" cy="60" r="4" fill="rgba(255,196,0,0.6)" />
-      <circle cx="124" cy="60" r="4" fill="rgba(34,211,238,0.6)" />
-      <rect x="96" y="84" width="50" height="5" rx="2.5" fill="rgba(34,211,238,0.5)" />
+      <circle cx="110" cy="60" r="4" fill="rgba(255,196,0,0.7)" />
+      <circle cx="124" cy="60" r="4" fill="rgba(254,131,36,0.65)" />
+      <rect x="96" y="84" width="50" height="5" rx="2.5" fill="rgba(254,131,36,0.55)" />
       <rect x="154" y="84" width="30" height="5" rx="2.5" fill="rgba(255,255,255,0.15)" />
       <rect x="96" y="97" width="20" height="5" rx="2.5" fill="rgba(255,255,255,0.1)" />
-      <rect x="122" y="97" width="60" height="5" rx="2.5" fill="rgba(34,211,238,0.3)" />
+      <rect x="122" y="97" width="60" height="5" rx="2.5" fill="rgba(254,131,36,0.35)" />
       <rect x="96" y="110" width="40" height="5" rx="2.5" fill="rgba(255,255,255,0.1)" />
-      <rect x="142" y="110" width="35" height="5" rx="2.5" fill="rgba(34,211,238,0.2)" />
-      <rect x="96" y="123" width="70" height="5" rx="2.5" fill="rgba(34,211,238,0.4)" />
-      <rect x="172" y="123" width="6" height="5" rx="1" fill="#22D3EE" opacity="0.8" />
-      <text x="38" y="80" fill="rgba(34,211,238,0.4)" fontSize="28" fontFamily="monospace" fontWeight="700">{"{"}</text>
-      <text x="270" y="130" fill="rgba(34,211,238,0.4)" fontSize="28" fontFamily="monospace" fontWeight="700">{"}"}</text>
-      <circle cx="100" cy="60" r="4" fill="rgba(34,211,238,0.3)" />
-      <circle cx="20" cy="100" r="4" fill="none" stroke="rgba(34,211,238,0.4)" strokeWidth="1.5" />
-      <circle cx="290" cy="140" r="4" fill="none" stroke="rgba(34,211,238,0.4)" strokeWidth="1.5" />
-      <path d="M288 50 L290 44 L292 50 L298 52 L292 54 L290 60 L288 54 L282 52 Z" fill="#22D3EE" opacity="0.45" />
+      <rect x="142" y="110" width="35" height="5" rx="2.5" fill="rgba(254,131,36,0.25)" />
+      <rect x="96" y="123" width="70" height="5" rx="2.5" fill="rgba(254,131,36,0.45)" />
+      <rect x="172" y="123" width="6" height="5" rx="1" fill="#FE8324" opacity="0.85" />
+      <text x="38" y="80" fill="rgba(254,131,36,0.45)" fontSize="28" fontFamily="monospace" fontWeight="700">{"{"}</text>
+      <text x="270" y="130" fill="rgba(254,131,36,0.45)" fontSize="28" fontFamily="monospace" fontWeight="700">{"}"}</text>
+      <circle cx="20" cy="100" r="4" fill="none" stroke="rgba(254,131,36,0.4)" strokeWidth="1.5" />
+      <circle cx="290" cy="140" r="4" fill="none" stroke="rgba(254,131,36,0.4)" strokeWidth="1.5" />
+      <path d="M288 50 L290 44 L292 50 L298 52 L292 54 L290 60 L288 54 L282 52 Z" fill="#FE8324" opacity="0.5" />
     </svg>
   );
 }
@@ -99,33 +98,33 @@ export function MedicalIllustration() {
     <svg viewBox="0 0 320 200" fill="none" className="ss-illu" aria-hidden="true">
       <defs>
         <radialGradient id="ss-mg1" cx="50%" cy="45%" r="55%">
-          <stop offset="0%" stopColor="#A78BFA" stopOpacity="0.22" />
+          <stop offset="0%" stopColor="#F472B6" stopOpacity="0.22" />
           <stop offset="100%" stopColor="#0A0A0B" stopOpacity="0" />
         </radialGradient>
         <linearGradient id="ss-mg2" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stopColor="#A78BFA" />
-          <stop offset="100%" stopColor="#7C3AED" />
+          <stop offset="0%" stopColor="#F472B6" />
+          <stop offset="100%" stopColor="#EC4899" />
         </linearGradient>
       </defs>
-      <rect width="320" height="200" fill="#0E0B17" />
+      <rect width="320" height="200" fill="#140B10" />
       <ellipse cx="160" cy="95" rx="120" ry="100" fill="url(#ss-mg1)" />
-      <path d="M20 110 H80 L90 90 L100 130 L112 70 L122 130 L132 95 H200 H320" stroke="rgba(167,139,250,0.5)" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" fill="none" />
-      <path d="M60 30 C75 45 45 65 60 80 C75 95 45 115 60 130 C75 145 45 165 60 180" stroke="rgba(167,139,250,0.4)" strokeWidth="1.8" strokeLinecap="round" fill="none" />
-      <path d="M80 30 C65 45 95 65 80 80 C65 95 95 115 80 130 C65 145 95 165 80 180" stroke="rgba(167,139,250,0.25)" strokeWidth="1.8" strokeLinecap="round" fill="none" />
+      <path d="M20 110 H80 L90 90 L100 130 L112 70 L122 130 L132 95 H200 H320" stroke="rgba(244,114,182,0.5)" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+      <path d="M60 30 C75 45 45 65 60 80 C75 95 45 115 60 130 C75 145 45 165 60 180" stroke="rgba(244,114,182,0.4)" strokeWidth="1.8" strokeLinecap="round" fill="none" />
+      <path d="M80 30 C65 45 95 65 80 80 C65 95 95 115 80 130 C65 145 95 165 80 180" stroke="rgba(244,114,182,0.25)" strokeWidth="1.8" strokeLinecap="round" fill="none" />
       {[40, 60, 80, 100, 120, 140, 160].map((y) => (
-        <line key={y} x1="63" y1={y} x2="77" y2={y} stroke="rgba(167,139,250,0.35)" strokeWidth="1.5" />
+        <line key={y} x1="63" y1={y} x2="77" y2={y} stroke="rgba(244,114,182,0.35)" strokeWidth="1.5" />
       ))}
-      <rect x="145" y="52" width="30" height="80" rx="6" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.35)" strokeWidth="1.5" />
-      <rect x="120" y="77" width="80" height="30" rx="6" fill="rgba(167,139,250,0.1)" stroke="rgba(167,139,250,0.35)" strokeWidth="1.5" />
-      <rect x="148" y="55" width="24" height="74" rx="5" fill="rgba(167,139,250,0.08)" />
-      <rect x="123" y="80" width="74" height="24" rx="5" fill="rgba(167,139,250,0.08)" />
-      <rect x="228" y="68" width="56" height="24" rx="12" fill="rgba(167,139,250,0.12)" stroke="rgba(167,139,250,0.35)" strokeWidth="1.2" />
-      <line x1="256" y1="68" x2="256" y2="92" stroke="rgba(167,139,250,0.3)" strokeWidth="1" />
-      <rect x="228" y="68" width="28" height="24" rx="12" fill="rgba(167,139,250,0.1)" />
-      <circle cx="240" cy="150" r="8" fill="none" stroke="rgba(167,139,250,0.4)" strokeWidth="1.5" />
-      <circle cx="258" cy="158" r="5" fill="none" stroke="rgba(167,139,250,0.3)" strokeWidth="1.5" />
-      <line x1="248" y1="150" x2="253" y2="158" stroke="rgba(167,139,250,0.3)" strokeWidth="1.2" />
-      <path d="M288 38 L290 32 L292 38 L298 40 L292 42 L290 48 L288 42 L282 40 Z" fill="#A78BFA" opacity="0.5" />
+      <rect x="145" y="52" width="30" height="80" rx="6" fill="rgba(244,114,182,0.1)" stroke="rgba(244,114,182,0.35)" strokeWidth="1.5" />
+      <rect x="120" y="77" width="80" height="30" rx="6" fill="rgba(244,114,182,0.1)" stroke="rgba(244,114,182,0.35)" strokeWidth="1.5" />
+      <rect x="148" y="55" width="24" height="74" rx="5" fill="rgba(244,114,182,0.08)" />
+      <rect x="123" y="80" width="74" height="24" rx="5" fill="rgba(244,114,182,0.08)" />
+      <rect x="228" y="68" width="56" height="24" rx="12" fill="rgba(244,114,182,0.12)" stroke="rgba(244,114,182,0.35)" strokeWidth="1.2" />
+      <line x1="256" y1="68" x2="256" y2="92" stroke="rgba(244,114,182,0.3)" strokeWidth="1" />
+      <rect x="228" y="68" width="28" height="24" rx="12" fill="rgba(244,114,182,0.1)" />
+      <circle cx="240" cy="150" r="8" fill="none" stroke="rgba(244,114,182,0.4)" strokeWidth="1.5" />
+      <circle cx="258" cy="158" r="5" fill="none" stroke="rgba(244,114,182,0.3)" strokeWidth="1.5" />
+      <line x1="248" y1="150" x2="253" y2="158" stroke="rgba(244,114,182,0.3)" strokeWidth="1.2" />
+      <path d="M288 38 L290 32 L292 38 L298 40 L292 42 L290 48 L288 42 L282 40 Z" fill="#F472B6" opacity="0.5" />
     </svg>
   );
 }

@@ -38,6 +38,10 @@
   text-align: left;
 }
 
+.heading {
+  min-width: 0;
+}
+
 .kicker {
   margin: 0 0 12px;
   color: rgb(255 255 255 / 0.35);
@@ -75,7 +79,7 @@
   display: flex;
   gap: 14px;
   overflow-x: auto;
-  padding-bottom: 8px;
+  padding-bottom: 4px;
   scroll-snap-type: x mandatory;
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
@@ -89,31 +93,27 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
-  margin-top: 20px;
+  gap: 18px;
+  margin-top: 24px;
 }
 
 .navBtn {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
-  border: 1px solid rgb(255 255 255 / 0.1);
-  border-radius: 50%;
-  color: rgb(255 255 255 / 0.55);
-  background: rgb(255 255 255 / 0.04);
+  width: auto;
+  height: auto;
+  padding: 4px;
+  border: none;
+  border-radius: 0;
+  color: rgb(255 255 255 / 0.38);
+  background: transparent;
   cursor: pointer;
-  transition:
-    color var(--duration-fast),
-    border-color var(--duration-fast),
-    background var(--duration-fast);
+  transition: color var(--duration-fast);
 }
 
 .navBtn:hover {
-  color: #fff;
-  border-color: rgb(255 255 255 / 0.22);
-  background: rgb(255 255 255 / 0.08);
+  color: rgb(255 255 255 / 0.75);
 }
 
 .companiesLabel {
@@ -161,7 +161,7 @@
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-between;
-    gap: 24px;
+    gap: 48px;
     margin-bottom: 48px;
   }
 
@@ -170,8 +170,9 @@
   }
 
   .lede {
-    max-width: 24rem;
+    max-width: 22rem;
     font-size: 0.95rem;
+    line-height: 1.7;
     color: #6b7280;
   }
 
@@ -180,16 +181,12 @@
   }
 
   .track {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 24px;
-    overflow: visible;
-    padding-bottom: 0;
-    scroll-snap-type: none;
+    gap: 20px;
   }
 
   .nav {
-    display: none;
+    margin-top: 28px;
+    gap: 22px;
   }
 
   .companiesLabel {

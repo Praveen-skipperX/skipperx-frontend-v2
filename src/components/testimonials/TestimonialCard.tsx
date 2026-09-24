@@ -14,13 +14,14 @@ export function TestimonialCard({ item, index }: TestimonialCardProps) {
   return (
     <motion.article
       className={styles.card}
+      data-testimonial-card
       initial={{ opacity: 0, y: 24 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay: index * 0.08 }}
     >
       <div className={styles.quoteMark} style={{ color }} aria-hidden="true">
-        ”
+        “
       </div>
       <p className={styles.quote}>{item.quote}</p>
       <div

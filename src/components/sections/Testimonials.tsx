@@ -7,11 +7,11 @@ import styles from "./Testimonials.module.css";
 
 function ChevronLeftIcon() {
   return (
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <path
         d="M15 18 9 12l6-6"
         stroke="currentColor"
-        strokeWidth="2"
+        strokeWidth="1.75"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
@@ -21,11 +21,11 @@ function ChevronLeftIcon() {
 
 function ChevronRightIcon() {
   return (
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <path
         d="m9 18 6-6-6-6"
         stroke="currentColor"
-        strokeWidth="2"
+        strokeWidth="1.75"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
@@ -35,11 +35,15 @@ function ChevronRightIcon() {
 
 export function Testimonials() {
   const scrollerRef = useRef<HTMLDivElement>(null);
+  // Duplicate once so desktop can show 4 cards and still scroll (matches Figma carousel).
+  const slides = [...TESTIMONIALS, ...TESTIMONIALS];
 
   function scrollByCard(direction: -1 | 1) {
     const node = scrollerRef.current;
     if (!node) return;
-    const amount = Math.min(node.clientWidth * 0.85, 340);
+    const card = node.querySelector<HTMLElement>("[data-testimonial-card]");
+    const gap = 20;
+    const amount = (card?.offsetWidth ?? Math.min(node.clientWidth * 0.25, 280)) + gap;
     node.scrollBy({ left: direction * amount, behavior: "smooth" });
   }
 
@@ -50,6 +54,7 @@ export function Testimonials() {
         <div className={styles.rule} />
         <div className={styles.header}>
           <motion.div
+            className={styles.heading}
             initial={{ opacity: 0, y: 14 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -73,8 +78,12 @@ export function Testimonials() {
 
         <div className={styles.carousel}>
           <div ref={scrollerRef} className={styles.track}>
-            {TESTIMONIALS.map((item, index) => (
-              <TestimonialCard key={item.name} item={item} index={index} />
+            {slides.map((item, index) => (
+              <TestimonialCard
+                key={`${item.name}-${index}`}
+                item={item}
+                index={index % TESTIMONIALS.length}
+              />
             ))}
           </div>
           <div className={styles.nav}>

@@ -1,6 +1,6 @@
 .ticker {
   overflow: hidden;
-  padding-block: 8px;
+  padding-block: 10px;
 }
 
 .track {
@@ -8,10 +8,12 @@
   white-space: nowrap;
   font-family: var(--font-body);
   font-size: 10px;
-  letter-spacing: 0.05em;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  opacity: 0.85;
   will-change: transform;
 }
 
 .chunk {
-  padding-right: 40px;
+  padding-right: 36px;
 }

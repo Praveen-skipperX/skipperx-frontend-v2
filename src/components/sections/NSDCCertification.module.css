@@ -46,7 +46,7 @@
 .intro {
   display: grid;
   gap: 32px;
-  align-items: end;
+  align-items: start;
   margin-bottom: 40px;
 }
 
@@ -72,11 +72,8 @@
 
 .accent {
   font-style: normal;
-  background: var(--gradient-hero-text);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
+  color: var(--color-brand-orange);
+  -webkit-text-fill-color: var(--color-brand-orange);
 }
 
 .lede {
@@ -303,8 +300,8 @@
 
   .journey {
     margin-bottom: 40px;
-    padding-right: 9rem;
-    text-align: left;
+    padding-right: 0;
+    text-align: center;
   }
 }
 
@@ -338,7 +335,16 @@
 
 @media (min-width: 1024px) {
   .intro {
-    grid-template-columns: 1fr 1fr;
-    gap: 80px;
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+    gap: 72px;
+    align-items: start;
+  }
+
+  .kicker {
+    margin-bottom: 20px;
+  }
+
+  .lede {
+    margin-bottom: 28px;
   }
 }
