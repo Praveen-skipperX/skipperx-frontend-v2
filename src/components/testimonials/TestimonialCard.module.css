@@ -22,30 +22,30 @@
     background var(--duration-base) var(--ease-out);
 }
 
-/* Soft bloom behind top light — hover only */
+/* Soft bloom — light rim wash, kept tight to the top edge */
 .topBloom {
   position: absolute;
-  top: -8px;
+  top: -3px;
   left: 8%;
   right: 8%;
   z-index: 2;
-  height: 18px;
+  height: 6px;
   pointer-events: none;
   border-radius: 50%;
   background: radial-gradient(
-    ellipse 70% 100% at 50% 50%,
-    rgb(var(--track-rgb) / 0.85) 0%,
-    rgb(var(--track-rgb) / 0.3) 45%,
-    transparent 72%
+    ellipse 80% 100% at 50% 0%,
+    rgb(var(--track-rgb) / 0.7) 0%,
+    rgb(var(--track-rgb) / 0.22) 50%,
+    transparent 75%
   );
-  filter: blur(8px);
+  filter: blur(4px);
   opacity: 0;
   transition: opacity var(--duration-base) var(--ease-out);
 }
 
 /*
-  Figma hover accent — glowing track line at TOP only
-  (does not wrap the full card border)
+  Figma hover accent — thin smooth rim light at TOP only
+  fades left/right; light kept near the border
 */
 .topEdge {
   position: absolute;
@@ -59,14 +59,12 @@
   background: linear-gradient(
     90deg,
     transparent 0%,
-    rgb(var(--track-rgb) / 0.4) 12%,
+    rgb(var(--track-rgb) / 0.35) 15%,
     rgb(var(--track-rgb) / 1) 50%,
-    rgb(var(--track-rgb) / 0.4) 88%,
+    rgb(var(--track-rgb) / 0.35) 85%,
     transparent 100%
   );
-  box-shadow:
-    0 0 6px 0 rgb(var(--track-rgb) / 0.75),
-    0 0 14px 2px rgb(var(--track-rgb) / 0.35);
+  box-shadow: 0 0 6px 0 rgb(var(--track-rgb) / 0.5);
   opacity: 0;
   transition: opacity var(--duration-base) var(--ease-out);
 }
