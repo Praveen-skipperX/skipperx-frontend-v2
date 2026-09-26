@@ -8,30 +8,46 @@ type TestimonialCardProps = {
   index: number;
 };
 
+function hexToRgb(hex: string): string {
+  const h = hex.replace("#", "");
+  const full = h.length === 3 ? h.split("").map((c) => c + c).join("") : h;
+  const n = Number.parseInt(full, 16);
+  return `${(n >> 16) & 255} ${(n >> 8) & 255} ${n & 255}`;
+}
+
 export function TestimonialCard({ item, index }: TestimonialCardProps) {
   const color = item.trackColor;
+  const rgb = hexToRgb(color);
 
   return (
     <motion.article
       className={styles.card}
       data-testimonial-card
+      style={
+        {
+          "--track": color,
+          "--track-rgb": rgb,
+        } as CSSProperties
+      }
       initial={{ opacity: 0, y: 24 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.5, delay: index * 0.08 }}
     >
+      <span className={styles.topBloom} aria-hidden="true" />
+      <span className={styles.topEdge} aria-hidden="true" />
+
       <div className={styles.quoteMark} style={{ color }} aria-hidden="true">
         “
       </div>
       <p className={styles.quote}>{item.quote}</p>
       <div
         className={styles.badge}
-        style={
-          {
-            borderColor: `${color}55`,
-            color,
-          } as CSSProperties
-        }
+        style={{
+          color,
+          borderColor: `rgb(${rgb} / 0.35)`,
+          background: `rgb(${rgb} / 0.1)`,
+        }}
       >
         {item.role} · {item.track}
       </div>
@@ -39,9 +55,8 @@ export function TestimonialCard({ item, index }: TestimonialCardProps) {
         <div
           className={styles.avatar}
           style={{
-            background: `${color}28`,
-            border: `1px solid ${color}45`,
             color: "#fff",
+            background: color,
           }}
         >
           {item.name[0]}

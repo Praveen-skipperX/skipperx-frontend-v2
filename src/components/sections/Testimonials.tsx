@@ -1,17 +1,20 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import { motion } from "motion/react";
-import { TESTIMONIALS, TESTIMONIAL_COMPANIES } from "../../data/testimonials";
+import { TESTIMONIALS } from "../../data/testimonials";
 import { Section } from "../layout/Section";
 import { TestimonialCard } from "../testimonials/TestimonialCard";
 import styles from "./Testimonials.module.css";
 
+const GAP = 20;
+const CARD_WIDTH = 304;
+
 function ChevronLeftIcon() {
   return (
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <path
         d="M15 18 9 12l6-6"
         stroke="currentColor"
-        strokeWidth="1.75"
+        strokeWidth="1.5"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
@@ -21,11 +24,11 @@ function ChevronLeftIcon() {
 
 function ChevronRightIcon() {
   return (
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
       <path
         d="m9 18 6-6-6-6"
         stroke="currentColor"
-        strokeWidth="1.75"
+        strokeWidth="1.5"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
@@ -34,24 +37,33 @@ function ChevronRightIcon() {
 }
 
 export function Testimonials() {
-  const scrollerRef = useRef<HTMLDivElement>(null);
-  // Duplicate once so desktop can show 4 cards and still scroll (matches Figma carousel).
+  const viewportRef = useRef<HTMLDivElement>(null);
+  /* Duplicate so arrows can advance past the first set */
   const slides = [...TESTIMONIALS, ...TESTIMONIALS];
+  const [offset, setOffset] = useState(0);
+
+  function getStep() {
+    const card = viewportRef.current?.querySelector<HTMLElement>("[data-testimonial-card]");
+    return (card?.offsetWidth ?? CARD_WIDTH) + GAP;
+  }
 
   function scrollByCard(direction: -1 | 1) {
-    const node = scrollerRef.current;
-    if (!node) return;
-    const card = node.querySelector<HTMLElement>("[data-testimonial-card]");
-    const gap = 20;
-    const amount = (card?.offsetWidth ?? Math.min(node.clientWidth * 0.25, 280)) + gap;
-    node.scrollBy({ left: direction * amount, behavior: "smooth" });
+    const step = getStep();
+    const max = Math.max(0, (slides.length - 1) * step);
+    setOffset((current) => {
+      const next = current + direction * step;
+      if (next < 0) return 0;
+      if (next > max) return max;
+      return next;
+    });
   }
+
+  const atStart = offset <= 0;
+  const atEnd = offset >= Math.max(0, (slides.length - 1) * getStep());
 
   return (
     <Section id="testimonials" className={styles.section}>
-      <div className={styles.glow} aria-hidden="true" />
       <div className={styles.inner}>
-        <div className={styles.rule} />
         <div className={styles.header}>
           <motion.div
             className={styles.heading}
@@ -76,54 +88,47 @@ export function Testimonials() {
           </motion.p>
         </div>
 
-        <div className={styles.carousel}>
-          <div ref={scrollerRef} className={styles.track}>
-            {slides.map((item, index) => (
+        {/*
+          Clip only — no overflow-x:auto scrollport, so vertical page
+          scroll is never trapped over this section.
+        */}
+        <div className={styles.carousel} ref={viewportRef}>
+          <div
+            className={styles.track}
+            style={{ transform: `translate3d(-${offset}px, 0, 0)` }}
+          >
+            {slides.map((item, slideIndex) => (
               <TestimonialCard
-                key={`${item.name}-${index}`}
+                key={`${item.name}-${slideIndex}`}
                 item={item}
-                index={index % TESTIMONIALS.length}
+                index={slideIndex % TESTIMONIALS.length}
               />
             ))}
           </div>
-          <div className={styles.nav}>
-            <button
-              type="button"
-              className={styles.navBtn}
-              aria-label="Previous testimonial"
-              onClick={() => scrollByCard(-1)}
-            >
-              <ChevronLeftIcon />
-            </button>
-            <button
-              type="button"
-              className={styles.navBtn}
-              aria-label="Next testimonial"
-              onClick={() => scrollByCard(1)}
-            >
-              <ChevronRightIcon />
-            </button>
-          </div>
         </div>
 
-        <motion.div
-          initial={{ opacity: 0, y: 16 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.5 }}
-        >
-          <p className={styles.companiesLabel}>
-            Our students are building and working at
-          </p>
-          <div className={styles.companies}>
-            {TESTIMONIAL_COMPANIES.map((name) => (
-              <span key={name} className={styles.company}>
-                {name}
-              </span>
-            ))}
-          </div>
-        </motion.div>
+        <div className={styles.nav}>
+          <button
+            type="button"
+            className={styles.navBtn}
+            aria-label="Previous testimonial"
+            disabled={atStart}
+            onClick={() => scrollByCard(-1)}
+          >
+            <ChevronLeftIcon />
+          </button>
+          <button
+            type="button"
+            className={styles.navBtn}
+            aria-label="Next testimonial"
+            disabled={atEnd}
+            onClick={() => scrollByCard(1)}
+          >
+            <ChevronRightIcon />
+          </button>
+        </div>
       </div>
     </Section>
   );
 }
+

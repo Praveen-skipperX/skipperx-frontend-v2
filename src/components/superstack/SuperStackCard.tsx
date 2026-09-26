@@ -25,12 +25,12 @@ type SuperStackCardProps = {
 function ArrowRightIcon() {
   return (
     <svg
-      width="14"
-      height="14"
+      width="13"
+      height="13"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.5"
+      strokeWidth="2.25"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -51,8 +51,12 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
       style={
         {
           background: item.cardBg,
-          borderColor: `${color}22`,
+          borderColor: `${color}18`,
           "--accent": color,
+          "--arrow-bg": `${color}18`,
+          "--arrow-border": `${color}55`,
+          "--arrow-bg-hover": `${color}32`,
+          "--arrow-border-hover": `${color}80`,
         } as CSSProperties
       }
       initial={{ opacity: 0, y: 24 }}
@@ -64,9 +68,9 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
         ease: [0.16, 1, 0.3, 1],
       }}
       whileHover={{
-        scale: 1.02,
-        borderColor: `${color}55`,
-        boxShadow: `0 18px 48px rgb(0 0 0 / 0.45), 0 0 36px ${color}28`,
+        scale: 1.015,
+        borderColor: `${color}45`,
+        boxShadow: `0 0 0 1px ${color}22, 0 0 42px ${color}38, 0 20px 44px rgb(0 0 0 / 0.5)`,
         transition: { duration: 0.25 },
       }}
     >
@@ -83,8 +87,8 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
           className={styles.tag}
           style={{
             color,
-            background: `${color}12`,
-            borderColor: `${color}45`,
+            background: `${color}10`,
+            borderColor: `${color}55`,
           }}
         >
           {item.category}
@@ -94,22 +98,11 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
 
         <div className={styles.metaRow}>
           <p className={styles.programs}>{item.programs}</p>
-          <motion.div
-            className={styles.arrow}
-            style={{
-              background: color,
-              boxShadow: `0 0 18px ${color}40`,
-            }}
-            whileHover={{
-              scale: 1.1,
-              boxShadow: `0 0 28px ${color}70`,
-            }}
-            transition={{ duration: 0.2 }}
-          >
+          <div className={styles.arrow} aria-hidden="true">
             <span className={styles.arrowIcon}>
               <ArrowRightIcon />
             </span>
-          </motion.div>
+          </div>
         </div>
       </div>
 

@@ -88,11 +88,23 @@
   width: 34px;
   height: 34px;
   border-radius: 50%;
+  color: var(--accent, #fe8324);
+  background: var(--arrow-bg, rgb(254 131 36 / 0.1));
+  border: 1px solid var(--arrow-border, rgb(254 131 36 / 0.35));
+  transition:
+    background 0.25s ease,
+    border-color 0.25s ease;
 }
 
 .arrowIcon {
   display: flex;
-  color: #0a0a0b;
+  color: currentColor;
+}
+
+.card:hover .arrow,
+.arrow:hover {
+  background: var(--arrow-bg-hover, rgb(254 131 36 / 0.2));
+  border-color: var(--arrow-border-hover, rgb(254 131 36 / 0.5));
 }
 
 @media (min-width: 640px) {
