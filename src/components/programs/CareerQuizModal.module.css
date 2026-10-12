@@ -309,13 +309,6 @@
   font-size: 0.875rem;
 }
 
-.explore svg {
-  transition: transform var(--duration-base);
-}
-
-.explore:hover svg {
-  transform: translateX(2px);
-}
 
 .retake {
   width: 48px;

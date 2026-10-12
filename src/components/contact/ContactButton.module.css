@@ -1,44 +1,96 @@
 .button {
   position: relative;
   overflow: hidden;
+  isolation: isolate;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   max-width: 20rem;
-  padding: 16px 48px;
+  height: 56px;
+  padding: 16px 32px;
   border: 0;
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-full);
   color: #fff;
-  background: var(--gradient-hero-text);
-  box-shadow: 0 0 28px rgb(254 131 36 / 0.35);
+  background: var(--gradient-brand);
+  /* Brand Glow S — Default CTA */
+  box-shadow: var(--glow-s);
   font-family: var(--font-body);
-  font-size: 15px;
-  font-weight: 700;
-  letter-spacing: 0.01em;
+  font-size: var(--text-body);
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0;
   cursor: pointer;
 }
 
+.button:active {
+  box-shadow: var(--glow-s);
+}
+
+/* The reference holds the highlights at the right rim, then sweeps left quickly. */
 .shimmer {
   position: absolute;
-  inset: 0;
+  z-index: 0;
+  top: -50%;
+  left: 94%;
+  width: 96px;
+  height: 200%;
   pointer-events: none;
   background: linear-gradient(
-    105deg,
-    transparent 40%,
-    rgb(255 255 255 / 0.15) 50%,
-    transparent 60%
+    90deg,
+    transparent 0%,
+    rgb(255 240 220 / 0.04) 8%,
+    rgb(255 255 255 / 0.17) 21%,
+    rgb(255 240 220 / 0.05) 31%,
+    rgb(255 255 255 / 0.24) 43%,
+    rgb(255 240 220 / 0.06) 53%,
+    rgb(255 255 255 / 0.13) 67%,
+    rgb(255 240 220 / 0.03) 82%,
+    transparent 100%
   );
-  background-size: 200% 100%;
-  animation: contact-shimmer 2.4s infinite;
+  filter: blur(3px);
+  transform: translateX(-24px) skewX(-55deg);
+  animation: submit-shine 2.1s linear infinite;
 }
 
 .label {
   position: relative;
+  z-index: 1;
 }
 
-@keyframes contact-shimmer {
+@keyframes submit-shine {
   0% {
-    background-position: -200% 0;
+    left: 94%;
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+  }
+  25%, 60% {
+    left: 102%;
+    opacity: 1;
+    animation-timing-function: cubic-bezier(0.42, 0, 0.3, 1);
+  }
+  96% {
+    left: -40%;
+    opacity: 1;
+  }
+  96.01%, 99.99% {
+    left: -40%;
+    opacity: 0;
   }
   100% {
-    background-position: 200% 0;
+    left: 94%;
+    opacity: 1;
+  }
+}
+
+.button:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .shimmer {
+    animation: none;
+    opacity: 0;
   }
 }

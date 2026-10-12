@@ -1,0 +1,291 @@
+.section {
+  background:var(--color-surface-0); padding:64px 48px;
+}
+
+.inner {
+  max-width:1344px; margin:0 auto; display:flex; flex-direction:column; gap:48px;
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  background: rgb(255 255 255 / 0.08);
+}
+
+.header {
+  display:flex; flex-direction:column; gap:8px; margin-bottom:-48px;
+}
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: var(--text-body);
+  line-height: 24px;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--color-text-subtle);
+}
+
+.title {
+  font-family:var(--font-display); font-weight:700; font-size:48px; line-height:1.276; letter-spacing:0; color:white;
+}
+
+.gradient {
+  background-image: var(--gradient-brand);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.timeline {
+  list-style:none; margin:24px auto 0; padding:0; display:flex; flex-direction:column; width:100%; max-width:1228px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 40px minmax(0, 1fr);
+  gap: var(--space-lg);
+  align-items: stretch;
+  min-height: 153px;
+}
+
+.rowLeft .spacer {
+  grid-column: 3;
+}
+
+.rowRight .card {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.rowRight .spine {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.rowRight .spacer {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.card {
+  display:flex; gap:16px; align-items:flex-start; padding:24px; border-radius:16px; background:var(--color-surface-1); border:1px solid var(--border);
+}
+
+.iconBox {
+  flex-shrink: 0;
+  width: 46px;
+  height: 46px;
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-lg);
+  background: var(--fill);
+  border: 1px solid var(--border);
+}
+
+.cardBody {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.cardTitleRow {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.num {
+  font-family:var(--font-display); font-weight:700; font-size:24px; line-height:1.276; color:var(--num);
+}
+
+.cardTitle {
+  font-family:var(--font-display); font-weight:700; font-size:18px; line-height:1.276; color:white;
+}
+
+.cardText {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-text-muted);
+}
+
+.spine {
+  display:flex; flex-direction:column; align-items:center; justify-content:flex-start; position:relative; padding-top:0;
+}
+
+.spineDot {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  display: grid;
+  place-items: center;
+  background: var(--fill, rgba(254, 131, 36, 0.08));
+  border: 2px solid var(--accent, #fe8324);
+  box-shadow: 0 0 8px 0 color-mix(in srgb, var(--accent, #fe8324) 25%, transparent);
+  z-index: 1;
+}
+
+.spineLine {
+  flex: 1;
+  width: 1px;
+  min-height: 80px;
+  margin-top: -2px;
+  background: linear-gradient(
+    to bottom,
+    color-mix(in srgb, var(--accent, #fe8324) 35%, transparent),
+    rgb(255 107 107 / 0.25)
+  );
+}
+
+.row .spine {
+  --accent: #fe8324;
+  --fill: rgba(254, 131, 36, 0.08);
+}
+
+.row:nth-child(1) .spine {
+  --accent: #fe8324;
+  --fill: rgba(254, 131, 36, 0.08);
+}
+
+.row:nth-child(2) .spine {
+  --accent: #ff6b6b;
+  --fill: rgba(255, 107, 107, 0.12);
+}
+
+.row:nth-child(3) .spine {
+  --accent: #00d4ff;
+  --fill: rgba(0, 212, 255, 0.09);
+}
+
+.row:nth-child(4) .spine {
+  --accent: #a855f7;
+  --fill: rgba(168, 85, 247, 0.14);
+}
+
+.row:nth-child(5) .spine {
+  --accent: #fe8324;
+  --fill: rgba(254, 131, 36, 0.08);
+}
+
+.spacer {
+  min-height: 1px;
+}
+
+@media (max-width: 900px) {
+  .row,
+  .rowRight {
+    grid-template-columns: 40px minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .rowLeft .card,
+  .rowRight .card {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .rowLeft .spine,
+  .rowRight .spine {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .spacer {
+    display: none;
+  }
+}
+
+.cardBody { gap:2px; }
+.card {
+  transition: border-color 200ms ease, box-shadow 200ms ease, background 200ms ease;
+}
+
+.card:is(:hover, :active, :focus-within) {
+  border-color: color-mix(in srgb, var(--accent) 50%, transparent);
+  background: linear-gradient(120deg, var(--fill), transparent), var(--color-surface-1);
+  box-shadow: 0 0 16px color-mix(in srgb, var(--accent) 14%, transparent);
+}
+@media(min-width:901px) { .section { height:1059px; } .row { height:153px; min-height:153px; } .card { height:153px; } }
+
+.spine { padding-top:24px; }
+
+@media (max-width: 640px) {
+  .section {
+    padding: 24px 16px;
+    height: auto;
+  }
+
+  .inner {
+    gap: 16px;
+  }
+
+  .header {
+    margin-bottom: 0;
+    gap: 4px;
+  }
+
+  .eyebrow {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.8px;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .timeline {
+    margin-top: 8px;
+    max-width: none;
+  }
+
+  .row,
+  .rowRight {
+    min-height: 0;
+    height: auto;
+  }
+
+  .card {
+    height: auto;
+    padding: 16px;
+    gap: 12px;
+  }
+
+  .iconBox {
+    display: none;
+  }
+
+  .num {
+    font-size: 20px;
+  }
+
+  .cardTitle {
+    font-size: 16px;
+  }
+
+  .cardText {
+    font-size: 14px;
+    line-height: 21px;
+  }
+
+  .spine {
+    padding-top: 16px;
+  }
+
+  .spineDot {
+    width: 36px;
+    height: 36px;
+  }
+
+  .spineLine {
+    min-height: 48px;
+  }
+}
+
+/* Mobile layout from the 412px Figma frame. */
+@media (max-width: 640px) {
+  .divider { display:none; } .header { gap:12px; } .title { max-width:240px; } .timeline { margin-top:0; } .row, .rowRight { grid-template-columns:40px minmax(0,1fr); gap:16px; padding-bottom:16px; } .row:last-child { padding-bottom:0; } .card { padding:16px; } .cardBody { gap:8px; } .cardTitle { font-weight:500; } .num { font-size:18px; } .spine { padding-top:0; margin-bottom:-16px; } .spineDot { width:40px; height:40px; } .spineLine { min-height:0; }
+}

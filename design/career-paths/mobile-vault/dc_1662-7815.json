@@ -1,0 +1,369 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:7815",
+    "name": "Entrepreneurs Programs",
+    "type": "FRAME",
+    "parentId": "1662:7814",
+    "pageId": "612:2880",
+    "depth": 3,
+    "path": "Mobile / Career Paths Mobile / CP 5 / Entrepreneurs Programs",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      },
+      {
+        "id": "1662:7814",
+        "name": "CP 5",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 1663
+      }
+    ],
+    "self": {
+      "id": "1662:7815",
+      "name": "Entrepreneurs Programs",
+      "type": "FRAME",
+      "parentId": "1662:7814",
+      "pageId": "612:2880",
+      "depth": 3,
+      "x": 16,
+      "y": 24,
+      "width": 380,
+      "height": 1615,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1662:7816",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7815",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380,
+        "height": 337,
+        "childCount": 3
+      },
+      {
+        "id": "1662:7852",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7815",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380,
+        "height": 1254,
+        "childCount": 5
+      }
+    ]
+  },
+  "layout": {
+    "x": 16,
+    "y": 24,
+    "width": 380,
+    "height": 1615,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 24,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": false,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:15",
+      "name": "radius-xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modes": [
+        {
+          "modeId": "27:4",
+          "name": "Mode 1",
+          "value": 20
+        }
+      ],
+      "scopes": [
+        "CORNER_RADIUS"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:7815",
+      "property": "itemSpacing",
+      "variableId": "VariableID:33:14",
+      "variableName": "lg",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 24,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7815",
+      "property": "strokeTopWeight",
+      "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:7815",
+      "property": "strokeBottomWeight",
+      "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:7815",
+      "property": "strokeLeftWeight",
+      "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:7815",
+      "property": "strokeRightWeight",
+      "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:7816",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 337
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7816",
+          "property": "topLeftRadius",
+          "variableId": "VariableID:27:15",
+          "variableName": "radius-xl",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 20,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "topRightRadius",
+          "variableId": "VariableID:27:15",
+          "variableName": "radius-xl",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 20,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "bottomLeftRadius",
+          "variableId": "VariableID:27:15",
+          "variableName": "radius-xl",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 20,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "bottomRightRadius",
+          "variableId": "VariableID:27:15",
+          "variableName": "radius-xl",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 20,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7816",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7852",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 1254
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7852",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:7815",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Entrepreneurs Programs (FRAME)\nSize: 380 × 1615\nVariable bindings:\n  itemSpacing → lg [Spacing / Mode 1] = 24\n  strokeTopWeight → VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3 (NOT_CACHED)\n  strokeBottomWeight → VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3 (NOT_CACHED)\n  strokeLeftWeight → VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3 (NOT_CACHED)\n  strokeRightWeight → VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3 (NOT_CACHED)\nChildren (2):\n  - Container (FRAME)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

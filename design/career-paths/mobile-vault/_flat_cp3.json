@@ -1,0 +1,273 @@
+[
+  {
+    "_id": "6ac9038eb81695060dd626df",
+    "nodeId": "1662:7965",
+    "name": "Section",
+    "normalized": {
+      "width": 380,
+      "height": 258,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e0",
+    "nodeId": "1662:7966",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 380,
+      "height": 280,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e1",
+    "nodeId": "1662:7967",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 280,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e2",
+    "nodeId": "1662:7968",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 280,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e3",
+    "nodeId": "1662:7969",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 280,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e4",
+    "nodeId": "1662:7970",
+    "name": "Inverted Comma",
+    "normalized": {
+      "width": 32,
+      "height": 32,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e7",
+    "nodeId": "1662:7971",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 380,
+      "height": 140,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e9",
+    "nodeId": "1662:7973",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 380,
+      "height": 34,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626eb",
+    "nodeId": "1662:7975",
+    "name": "Paragraph:margin",
+    "normalized": {
+      "width": 380,
+      "height": 41,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e5",
+    "nodeId": "I1662:7970;1021:4769",
+    "name": "Vector",
+    "normalized": {
+      "width": 9.333333969116211,
+      "height": 24,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e6",
+    "nodeId": "I1662:7970;1021:4770",
+    "name": "Vector",
+    "normalized": {
+      "width": 9.333333969116211,
+      "height": 24,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626e8",
+    "nodeId": "1662:7972",
+    "name": "\"You can't teach ambition. But you can put ambitio",
+    "normalized": {
+      "width": 362,
+      "height": 124,
+      "typography": null
+    },
+    "textContent": "You can't teach ambition. But you can put ambitious people in a room and watch what happens.\"",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ea",
+    "nodeId": "1662:7974",
+    "name": "— SkipperX Founding Philosophy",
+    "normalized": {
+      "width": 193,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "— SkipperX Founding Philosophy",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ec",
+    "nodeId": "1662:7976",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 380,
+      "height": 17,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ed",
+    "nodeId": "1662:7977",
+    "name": "Text",
+    "normalized": {
+      "width": 95,
+      "height": 17,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ef",
+    "nodeId": "1662:7979",
+    "name": "Text",
+    "normalized": {
+      "width": 81.875,
+      "height": 17,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f3",
+    "nodeId": "1662:7983",
+    "name": "Text",
+    "normalized": {
+      "width": 61.875,
+      "height": 17,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ee",
+    "nodeId": "1662:7978",
+    "name": "ENTREPRENEURS",
+    "normalized": {
+      "width": 95,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "ENTREPRENEURS",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f0",
+    "nodeId": "1662:7980",
+    "name": "Text",
+    "normalized": {
+      "width": 3.875,
+      "height": 15.199999809265137,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f2",
+    "nodeId": "1662:7982",
+    "name": "INNOVATORS",
+    "normalized": {
+      "width": 78,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "INNOVATORS",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f4",
+    "nodeId": "1662:7984",
+    "name": "Text",
+    "normalized": {
+      "width": 3.875,
+      "height": 15.199999809265137,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f6",
+    "nodeId": "1662:7986",
+    "name": "HUSTLERS",
+    "normalized": {
+      "width": 58,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "HUSTLERS",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f1",
+    "nodeId": "1662:7981",
+    "name": "·",
+    "normalized": {
+      "width": 3,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "·",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626f5",
+    "nodeId": "1662:7985",
+    "name": "·",
+    "normalized": {
+      "width": 3,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "·",
+    "type": "TEXT"
+  }
+]

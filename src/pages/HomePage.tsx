@@ -22,7 +22,7 @@ export function HomePage() {
       <AnnouncementBanner />
       <Header />
 
-      <main style={{ paddingTop: "36px" }}>
+      <main>
         <Hero />
         <Accreditation />
         <Stats />

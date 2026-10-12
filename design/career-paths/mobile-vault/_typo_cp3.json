@@ -1,0 +1,278 @@
+[
+  {
+    "nodeId": "1662:7972",
+    "name": "\"You can't teach ambition. But you can put ambitio",
+    "characters": "You can't teach ambition. But you can put ambitious people in a room and watch what happens.\"",
+    "fontSize": 24,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 362,
+    "height": 124,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7974",
+    "name": "— SkipperX Founding Philosophy",
+    "characters": "— SkipperX Founding Philosophy",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 193,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7978",
+    "name": "ENTREPRENEURS",
+    "characters": "ENTREPRENEURS",
+    "fontSize": 11,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 95,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7982",
+    "name": "INNOVATORS",
+    "characters": "INNOVATORS",
+    "fontSize": 11,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 78,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7986",
+    "name": "HUSTLERS",
+    "characters": "HUSTLERS",
+    "fontSize": 11,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 58,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7981",
+    "name": "·",
+    "characters": "·",
+    "fontSize": 11,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 3,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7985",
+    "name": "·",
+    "characters": "·",
+    "fontSize": 11,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 3,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  }
+]

@@ -71,16 +71,22 @@ export function ApplyNow() {
               className={styles.primary}
               onClick={goToEnroll}
             >
-              Apply Now –It&apos;s Free →
+              Apply Now –It&apos;s Free
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </Button>
             <Button
               href="#contact"
-              variant="secondary"
+              variant="text"
               size="lg"
               className={styles.secondary}
               onClick={goToEnroll}
             >
-              Schedule a Call Instead →
+              Schedule a Call Instead
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </Button>
           </div>
           <ul className={styles.perks}>

@@ -1,0 +1,1533 @@
+{
+  "top": [
+    {
+      "id": "69:2",
+      "name": "Buttons",
+      "type": "FRAME",
+      "children": [
+        {
+          "id": "72:29",
+          "name": "Hero button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "77:39",
+          "name": "Primary",
+          "type": "TEXT"
+        },
+        {
+          "id": "77:40",
+          "name": "Secondary",
+          "type": "TEXT"
+        },
+        {
+          "id": "77:41",
+          "name": "Default",
+          "type": "TEXT"
+        },
+        {
+          "id": "77:42",
+          "name": "Hover",
+          "type": "TEXT"
+        },
+        {
+          "id": "77:43",
+          "name": "Pressed",
+          "type": "TEXT"
+        },
+        {
+          "id": "77:44",
+          "name": "Disabled",
+          "type": "TEXT"
+        },
+        {
+          "id": "79:116",
+          "name": "Text",
+          "type": "TEXT"
+        },
+        {
+          "id": "81:168",
+          "name": "Button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "83:187",
+          "name": "motion.button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "163:323",
+          "name": "Buuton",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "521:2055",
+          "name": "Accent Button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "670:907",
+          "name": "Chevron right button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "670:924",
+          "name": "Chevron left button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "687:835",
+          "name": "Close Button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "1046:3357",
+          "name": "Track Button",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    },
+    {
+      "id": "69:24",
+      "name": "Icons",
+      "type": "FRAME",
+      "children": [
+        {
+          "id": "69:29",
+          "name": "Arrow right",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "115:657",
+          "name": "Play",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "138:89",
+          "name": "Clock",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "138:99",
+          "name": "Level",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "163:317",
+          "name": "Arrow up",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "178:874",
+          "name": "Chevron down",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:637",
+          "name": "Purpose",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:676",
+          "name": "Profile",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:675",
+          "name": "Alliance",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:674",
+          "name": "Engage",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:897",
+          "name": "Growth",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:916",
+          "name": "Users",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:920",
+          "name": "Message",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:930",
+          "name": "Certificate",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:935",
+          "name": "Education",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:940",
+          "name": "Career",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:945",
+          "name": "Growth-28",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:950",
+          "name": "Partner",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "207:955",
+          "name": "Check",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "308:1731",
+          "name": "check-box",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "519:1270",
+          "name": "Chevron up",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "521:2043",
+          "name": "Arrow up-right",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "524:1996",
+          "name": "Instagram",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "524:2011",
+          "name": "LinkedIn",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "540:2657",
+          "name": "Menu",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "572:3675",
+          "name": "Chevron right",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "572:3680",
+          "name": "Chevron left",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1007:4294",
+          "name": "Shine",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1008:4314",
+          "name": "Career",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1008:4335",
+          "name": "Star",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1014:4377",
+          "name": "Rocket",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1021:4437",
+          "name": "Trophy",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "1021:4772",
+          "name": "Inverted Comma",
+          "type": "COMPONENT"
+        }
+      ]
+    },
+    {
+      "id": "87:18",
+      "name": "Components",
+      "type": "FRAME",
+      "children": [
+        {
+          "id": "72:6",
+          "name": "Logo",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "112:465",
+          "name": "Announcement Banner",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "122:118",
+          "name": "Navbar",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "128:514",
+          "name": "ScrollingTicker",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "131:765",
+          "name": "Track",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "138:197",
+          "name": "ProgramCard Entrepreneurs",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "146:527",
+          "name": "Program Tags",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "146:551",
+          "name": "ProgramCard Innovators",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "146:645",
+          "name": "ProgramCard Hustlers",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "149:692",
+          "name": "Feature",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "149:720",
+          "name": "Bar",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "153:161",
+          "name": "Review card Cyan",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "1257:3509",
+          "name": "Review card Cyan-Horizontal",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "153:269",
+          "name": "Review card Coral",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "1263:934",
+          "name": "Review card Coral-Horizontal",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "153:272",
+          "name": "Review card Purple",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "1265:964",
+          "name": "Review card Purple-Horizontal",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "155:1116",
+          "name": "Track Orange",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "157:1246",
+          "name": "Track Pink",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "163:499",
+          "name": "Creator Hub Stack",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "170:1485",
+          "name": "Core Tech Stack",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "170:1855",
+          "name": "Startup Stack",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "177:797",
+          "name": "Medical Stack",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "207:855",
+          "name": "Community Feature",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "258:975",
+          "name": "div",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "295:861",
+          "name": "Category Card",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "541:2161",
+          "name": "Navbar",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "653:3257",
+          "name": "CQ Button",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "685:832",
+          "name": "CQ Modal",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "710:5947",
+          "name": "CQ Modal Mobile",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "1234:3425",
+          "name": "Hero Image",
+          "type": "FRAME"
+        },
+        {
+          "id": "1234:3428",
+          "name": "Footer copyright 1",
+          "type": "FRAME"
+        }
+      ]
+    },
+    {
+      "id": "1388:3437",
+      "name": "Container",
+      "type": "FRAME",
+      "children": [
+        {
+          "id": "1388:3438",
+          "name": "Track",
+          "type": "FRAME"
+        }
+      ]
+    },
+    {
+      "id": "1375:3431",
+      "name": "Logo",
+      "type": "INSTANCE",
+      "children": [
+        {
+          "id": "I1375:3431;72:8",
+          "name": "Logo",
+          "type": "GROUP"
+        }
+      ]
+    },
+    {
+      "id": "178:829",
+      "name": "Form Fields",
+      "type": "FRAME",
+      "children": [
+        {
+          "id": "180:732",
+          "name": "Text Cursor",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "181:811",
+          "name": "Input Field",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "333:1871",
+          "name": "Dropdown-Item",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "333:1973",
+          "name": "Dropdown - Menu",
+          "type": "COMPONENT"
+        },
+        {
+          "id": "519:594",
+          "name": "Dropdown",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "523:732",
+          "name": "Input Field  Small",
+          "type": "COMPONENT_SET"
+        },
+        {
+          "id": "595:3904",
+          "name": "Dropdown",
+          "type": "COMPONENT_SET"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "id": "72:29",
+      "name": "Hero button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "72:28",
+      "name": "Main Large=Default",
+      "parent": "Hero button"
+    },
+    {
+      "id": "79:58",
+      "name": "Main Large=Pressed",
+      "parent": "Hero button"
+    },
+    {
+      "id": "72:30",
+      "name": "Main Large=Hover",
+      "parent": "Hero button"
+    },
+    {
+      "id": "81:168",
+      "name": "Button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "81:167",
+      "name": "Button=Primary, State=Default",
+      "parent": "Button"
+    },
+    {
+      "id": "81:165",
+      "name": "Button=Text, State=Default",
+      "parent": "Button"
+    },
+    {
+      "id": "81:166",
+      "name": "Button=Text, State=Hover",
+      "parent": "Button"
+    },
+    {
+      "id": "81:163",
+      "name": "Button=Secondary, State=Default",
+      "parent": "Button"
+    },
+    {
+      "id": "81:162",
+      "name": "Button=Secondary, State=Pressed",
+      "parent": "Button"
+    },
+    {
+      "id": "81:161",
+      "name": "Button=Secondary, State=Hover",
+      "parent": "Button"
+    },
+    {
+      "id": "81:160",
+      "name": "Button=Primary, State=Pressed",
+      "parent": "Button"
+    },
+    {
+      "id": "81:158",
+      "name": "Button=Primary, State=Disabled",
+      "parent": "Button"
+    },
+    {
+      "id": "81:164",
+      "name": "Button=Secondary, State=Disabled",
+      "parent": "Button"
+    },
+    {
+      "id": "81:159",
+      "name": "Button=Primary, State=Hover",
+      "parent": "Button"
+    },
+    {
+      "id": "83:187",
+      "name": "motion.button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "83:186",
+      "name": "Property 1=Default",
+      "parent": "motion.button"
+    },
+    {
+      "id": "83:194",
+      "name": "Property 1=Variant2",
+      "parent": "motion.button"
+    },
+    {
+      "id": "163:323",
+      "name": "Buuton",
+      "parent": "Buttons"
+    },
+    {
+      "id": "163:322",
+      "name": "Button=Default",
+      "parent": "Buuton"
+    },
+    {
+      "id": "163:324",
+      "name": "Button=Hover",
+      "parent": "Buuton"
+    },
+    {
+      "id": "521:2055",
+      "name": "Accent Button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "521:2054",
+      "name": "State=Default",
+      "parent": "Accent Button"
+    },
+    {
+      "id": "521:2056",
+      "name": "State=Hover & Clicked",
+      "parent": "Accent Button"
+    },
+    {
+      "id": "670:907",
+      "name": "Chevron right button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "670:906",
+      "name": "Property 1=Default",
+      "parent": "Chevron right button"
+    },
+    {
+      "id": "670:908",
+      "name": "Property 1=Variant2",
+      "parent": "Chevron right button"
+    },
+    {
+      "id": "670:924",
+      "name": "Chevron left button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "670:923",
+      "name": "Property 1=Default",
+      "parent": "Chevron left button"
+    },
+    {
+      "id": "670:925",
+      "name": "Property 1=Variant2",
+      "parent": "Chevron left button"
+    },
+    {
+      "id": "687:835",
+      "name": "Close Button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "687:834",
+      "name": "Property 1=Default",
+      "parent": "Close Button"
+    },
+    {
+      "id": "687:833",
+      "name": "Property 1=Hover",
+      "parent": "Close Button"
+    },
+    {
+      "id": "1046:3357",
+      "name": "Track Button",
+      "parent": "Buttons"
+    },
+    {
+      "id": "1046:3356",
+      "name": "Property 1=Entrepreneurs",
+      "parent": "Track Button"
+    },
+    {
+      "id": "1046:3354",
+      "name": "Property 1=Innovators",
+      "parent": "Track Button"
+    },
+    {
+      "id": "1046:3355",
+      "name": "Property 1=Hustlers",
+      "parent": "Track Button"
+    },
+    {
+      "id": "69:29",
+      "name": "Arrow right",
+      "parent": "Icons"
+    },
+    {
+      "id": "115:657",
+      "name": "Play",
+      "parent": "Icons"
+    },
+    {
+      "id": "138:89",
+      "name": "Clock",
+      "parent": "Icons"
+    },
+    {
+      "id": "138:99",
+      "name": "Level",
+      "parent": "Icons"
+    },
+    {
+      "id": "163:317",
+      "name": "Arrow up",
+      "parent": "Icons"
+    },
+    {
+      "id": "178:874",
+      "name": "Chevron down",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:637",
+      "name": "Purpose",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:676",
+      "name": "Profile",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:675",
+      "name": "Alliance",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:674",
+      "name": "Engage",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:897",
+      "name": "Growth",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:916",
+      "name": "Users",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:920",
+      "name": "Message",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:930",
+      "name": "Certificate",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:935",
+      "name": "Education",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:940",
+      "name": "Career",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:945",
+      "name": "Growth-28",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:950",
+      "name": "Partner",
+      "parent": "Icons"
+    },
+    {
+      "id": "207:955",
+      "name": "Check",
+      "parent": "Icons"
+    },
+    {
+      "id": "308:1731",
+      "name": "check-box",
+      "parent": "Icons"
+    },
+    {
+      "id": "519:1270",
+      "name": "Chevron up",
+      "parent": "Icons"
+    },
+    {
+      "id": "521:2043",
+      "name": "Arrow up-right",
+      "parent": "Icons"
+    },
+    {
+      "id": "524:1996",
+      "name": "Instagram",
+      "parent": "Icons"
+    },
+    {
+      "id": "524:2011",
+      "name": "LinkedIn",
+      "parent": "Icons"
+    },
+    {
+      "id": "540:2657",
+      "name": "Menu",
+      "parent": "Icons"
+    },
+    {
+      "id": "572:3675",
+      "name": "Chevron right",
+      "parent": "Icons"
+    },
+    {
+      "id": "572:3680",
+      "name": "Chevron left",
+      "parent": "Icons"
+    },
+    {
+      "id": "1007:4294",
+      "name": "Shine",
+      "parent": "Icons"
+    },
+    {
+      "id": "1008:4314",
+      "name": "Career",
+      "parent": "Icons"
+    },
+    {
+      "id": "1008:4335",
+      "name": "Star",
+      "parent": "Icons"
+    },
+    {
+      "id": "1014:4377",
+      "name": "Rocket",
+      "parent": "Icons"
+    },
+    {
+      "id": "1021:4437",
+      "name": "Trophy",
+      "parent": "Icons"
+    },
+    {
+      "id": "1021:4772",
+      "name": "Inverted Comma",
+      "parent": "Icons"
+    },
+    {
+      "id": "72:6",
+      "name": "Logo",
+      "parent": "Components"
+    },
+    {
+      "id": "72:7",
+      "name": "Logo=Default",
+      "parent": "Logo"
+    },
+    {
+      "id": "72:11",
+      "name": "Logo=Icon Only",
+      "parent": "Logo"
+    },
+    {
+      "id": "72:14",
+      "name": "Logo=Small",
+      "parent": "Logo"
+    },
+    {
+      "id": "112:465",
+      "name": "Announcement Banner",
+      "parent": "Components"
+    },
+    {
+      "id": "112:464",
+      "name": "Announcement Banner=Start",
+      "parent": "Announcement Banner"
+    },
+    {
+      "id": "112:463",
+      "name": "Announcement Banner=End track",
+      "parent": "Announcement Banner"
+    },
+    {
+      "id": "122:118",
+      "name": "Navbar",
+      "parent": "Components"
+    },
+    {
+      "id": "122:117",
+      "name": "Web=Default",
+      "parent": "Navbar"
+    },
+    {
+      "id": "122:116",
+      "name": "Web=Scroll",
+      "parent": "Navbar"
+    },
+    {
+      "id": "128:514",
+      "name": "ScrollingTicker",
+      "parent": "Components"
+    },
+    {
+      "id": "128:513",
+      "name": "Scrolling ticker=Start",
+      "parent": "ScrollingTicker"
+    },
+    {
+      "id": "128:512",
+      "name": "Scrolling ticker=end",
+      "parent": "ScrollingTicker"
+    },
+    {
+      "id": "131:765",
+      "name": "Track",
+      "parent": "Components"
+    },
+    {
+      "id": "131:764",
+      "name": "Active=Entrepreneurs",
+      "parent": "Track"
+    },
+    {
+      "id": "131:762",
+      "name": "Active=Innovators",
+      "parent": "Track"
+    },
+    {
+      "id": "131:763",
+      "name": "Active=Hustlers",
+      "parent": "Track"
+    },
+    {
+      "id": "138:197",
+      "name": "ProgramCard Entrepreneurs",
+      "parent": "Components"
+    },
+    {
+      "id": "138:196",
+      "name": "Property 1=Entrepreneurs, Property 2=Default",
+      "parent": "ProgramCard Entrepreneurs"
+    },
+    {
+      "id": "138:195",
+      "name": "Property 1=Entrepreneurs, Property 2=Hover",
+      "parent": "ProgramCard Entrepreneurs"
+    },
+    {
+      "id": "146:527",
+      "name": "Program Tags",
+      "parent": "Components"
+    },
+    {
+      "id": "146:526",
+      "name": "Color=Coral",
+      "parent": "Program Tags"
+    },
+    {
+      "id": "146:528",
+      "name": "Color=Purple",
+      "parent": "Program Tags"
+    },
+    {
+      "id": "146:530",
+      "name": "Color=Cyan",
+      "parent": "Program Tags"
+    },
+    {
+      "id": "146:551",
+      "name": "ProgramCard Innovators",
+      "parent": "Components"
+    },
+    {
+      "id": "146:550",
+      "name": "Property 1=Innovators, Property 2=Default",
+      "parent": "ProgramCard Innovators"
+    },
+    {
+      "id": "146:549",
+      "name": "Property 1=Innovators, Property 2=Hover",
+      "parent": "ProgramCard Innovators"
+    },
+    {
+      "id": "146:645",
+      "name": "ProgramCard Hustlers",
+      "parent": "Components"
+    },
+    {
+      "id": "146:644",
+      "name": "Property 1=Hustlers, Property 2=Default",
+      "parent": "ProgramCard Hustlers"
+    },
+    {
+      "id": "146:643",
+      "name": "Property 1=Hustlers, Property 2=Hover",
+      "parent": "ProgramCard Hustlers"
+    },
+    {
+      "id": "149:692",
+      "name": "Feature",
+      "parent": "Components"
+    },
+    {
+      "id": "149:691",
+      "name": "Property 1=Default",
+      "parent": "Feature"
+    },
+    {
+      "id": "149:690",
+      "name": "Property 1=Hover",
+      "parent": "Feature"
+    },
+    {
+      "id": "149:720",
+      "name": "Bar",
+      "parent": "Components"
+    },
+    {
+      "id": "149:719",
+      "name": "Property 1=Start",
+      "parent": "Bar"
+    },
+    {
+      "id": "149:718",
+      "name": "Property 1=Full",
+      "parent": "Bar"
+    },
+    {
+      "id": "153:161",
+      "name": "Review card Cyan",
+      "parent": "Components"
+    },
+    {
+      "id": "153:160",
+      "name": "Property 1=Default",
+      "parent": "Review card Cyan"
+    },
+    {
+      "id": "153:159",
+      "name": "Property 1=Hover",
+      "parent": "Review card Cyan"
+    },
+    {
+      "id": "1257:3509",
+      "name": "Review card Cyan-Horizontal",
+      "parent": "Components"
+    },
+    {
+      "id": "1257:3510",
+      "name": "Property 1=Default",
+      "parent": "Review card Cyan-Horizontal"
+    },
+    {
+      "id": "1257:3522",
+      "name": "Property 1=Hover",
+      "parent": "Review card Cyan-Horizontal"
+    },
+    {
+      "id": "153:269",
+      "name": "Review card Coral",
+      "parent": "Components"
+    },
+    {
+      "id": "153:268",
+      "name": "Property 1=Review card Coral, Property 2=Hover",
+      "parent": "Review card Coral"
+    },
+    {
+      "id": "153:267",
+      "name": "Property 1=Review card Coral, Property 2=Default",
+      "parent": "Review card Coral"
+    },
+    {
+      "id": "1263:934",
+      "name": "Review card Coral-Horizontal",
+      "parent": "Components"
+    },
+    {
+      "id": "1263:935",
+      "name": "Property 1=Review card Coral, Property 2=Hover",
+      "parent": "Review card Coral-Horizontal"
+    },
+    {
+      "id": "1263:948",
+      "name": "Property 1=Review card Coral, Property 2=Default",
+      "parent": "Review card Coral-Horizontal"
+    },
+    {
+      "id": "153:272",
+      "name": "Review card Purple",
+      "parent": "Components"
+    },
+    {
+      "id": "153:271",
+      "name": "Property 1=Hover",
+      "parent": "Review card Purple"
+    },
+    {
+      "id": "153:270",
+      "name": "Property 1=Default",
+      "parent": "Review card Purple"
+    },
+    {
+      "id": "1265:964",
+      "name": "Review card Purple-Horizontal",
+      "parent": "Components"
+    },
+    {
+      "id": "1265:965",
+      "name": "Property 1=Hover",
+      "parent": "Review card Purple-Horizontal"
+    },
+    {
+      "id": "1265:978",
+      "name": "Property 1=Default",
+      "parent": "Review card Purple-Horizontal"
+    },
+    {
+      "id": "155:1116",
+      "name": "Track Orange",
+      "parent": "Components"
+    },
+    {
+      "id": "155:1115",
+      "name": "Property 1=Start",
+      "parent": "Track Orange"
+    },
+    {
+      "id": "155:1114",
+      "name": "Property 1=End",
+      "parent": "Track Orange"
+    },
+    {
+      "id": "157:1246",
+      "name": "Track Pink",
+      "parent": "Components"
+    },
+    {
+      "id": "157:1247",
+      "name": "Property 1=Start",
+      "parent": "Track Pink"
+    },
+    {
+      "id": "157:1393",
+      "name": "Property 1=End",
+      "parent": "Track Pink"
+    },
+    {
+      "id": "163:499",
+      "name": "Creator Hub Stack",
+      "parent": "Components"
+    },
+    {
+      "id": "163:498",
+      "name": "Property 1=Default",
+      "parent": "Creator Hub Stack"
+    },
+    {
+      "id": "170:956",
+      "name": "Property 1=Hover",
+      "parent": "Creator Hub Stack"
+    },
+    {
+      "id": "170:1485",
+      "name": "Core Tech Stack",
+      "parent": "Components"
+    },
+    {
+      "id": "170:1484",
+      "name": "Property 1=Default",
+      "parent": "Core Tech Stack"
+    },
+    {
+      "id": "170:1483",
+      "name": "Property 1=Hover",
+      "parent": "Core Tech Stack"
+    },
+    {
+      "id": "170:1855",
+      "name": "Startup Stack",
+      "parent": "Components"
+    },
+    {
+      "id": "170:1854",
+      "name": "Property 1=Default",
+      "parent": "Startup Stack"
+    },
+    {
+      "id": "170:1853",
+      "name": "Property 1=Hover",
+      "parent": "Startup Stack"
+    },
+    {
+      "id": "177:797",
+      "name": "Medical Stack",
+      "parent": "Components"
+    },
+    {
+      "id": "177:798",
+      "name": "Property 1=Default",
+      "parent": "Medical Stack"
+    },
+    {
+      "id": "177:842",
+      "name": "Property 1=Hover",
+      "parent": "Medical Stack"
+    },
+    {
+      "id": "207:855",
+      "name": "Community Feature",
+      "parent": "Components"
+    },
+    {
+      "id": "207:854",
+      "name": "Property 1=1, Property 2=Default",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:851",
+      "name": "Property 1=2, Property 2=Default",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:853",
+      "name": "Property 1=3, Property 2=Default",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:852",
+      "name": "Property 1=4, Property 2=Default",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:850",
+      "name": "Property 1=4, Property 2=Hover",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:849",
+      "name": "Property 1=3, Property 2=Hover",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:848",
+      "name": "Property 1=2, Property 2=Hover",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "207:847",
+      "name": "Property 1=1, Property 2=Hover",
+      "parent": "Community Feature"
+    },
+    {
+      "id": "258:975",
+      "name": "div",
+      "parent": "Components"
+    },
+    {
+      "id": "258:974",
+      "name": "Property 1=Default",
+      "parent": "div"
+    },
+    {
+      "id": "258:976",
+      "name": "Property 1=Variant2",
+      "parent": "div"
+    },
+    {
+      "id": "295:861",
+      "name": "Category Card",
+      "parent": "Components"
+    },
+    {
+      "id": "295:860",
+      "name": "Property 1=Entreprenerus Main",
+      "parent": "Category Card"
+    },
+    {
+      "id": "295:862",
+      "name": "Property 1=Innovators Main",
+      "parent": "Category Card"
+    },
+    {
+      "id": "296:889",
+      "name": "Property 1=Hustlers Main",
+      "parent": "Category Card"
+    },
+    {
+      "id": "541:2161",
+      "name": "Navbar",
+      "parent": "Components"
+    },
+    {
+      "id": "541:2160",
+      "name": "Mobile=Default",
+      "parent": "Navbar"
+    },
+    {
+      "id": "541:2159",
+      "name": "Mobile=Scroll",
+      "parent": "Navbar"
+    },
+    {
+      "id": "653:3257",
+      "name": "CQ Button",
+      "parent": "Components"
+    },
+    {
+      "id": "653:3256",
+      "name": "Property 1=Default",
+      "parent": "CQ Button"
+    },
+    {
+      "id": "653:3255",
+      "name": "Property 1=Hover",
+      "parent": "CQ Button"
+    },
+    {
+      "id": "669:878",
+      "name": "Property 1=Variant3",
+      "parent": "CQ Button"
+    },
+    {
+      "id": "685:832",
+      "name": "CQ Modal",
+      "parent": "Components"
+    },
+    {
+      "id": "685:831",
+      "name": "Property 1=CQ Modal 1",
+      "parent": "CQ Modal"
+    },
+    {
+      "id": "685:828",
+      "name": "Property 1=CQ Modal 3",
+      "parent": "CQ Modal"
+    },
+    {
+      "id": "685:827",
+      "name": "Property 1=CQ Modal 5",
+      "parent": "CQ Modal"
+    },
+    {
+      "id": "685:830",
+      "name": "Property 1=CQ Modal 2",
+      "parent": "CQ Modal"
+    },
+    {
+      "id": "685:829",
+      "name": "Property 1=CQ Modal 4",
+      "parent": "CQ Modal"
+    },
+    {
+      "id": "710:5947",
+      "name": "CQ Modal Mobile",
+      "parent": "Components"
+    },
+    {
+      "id": "710:5948",
+      "name": "Property 1=CQ Modal 1",
+      "parent": "CQ Modal Mobile"
+    },
+    {
+      "id": "710:5976",
+      "name": "Property 1=CQ Modal 3",
+      "parent": "CQ Modal Mobile"
+    },
+    {
+      "id": "710:6004",
+      "name": "Property 1=CQ Modal 5",
+      "parent": "CQ Modal Mobile"
+    },
+    {
+      "id": "710:6032",
+      "name": "Property 1=CQ Modal 2",
+      "parent": "CQ Modal Mobile"
+    },
+    {
+      "id": "710:6060",
+      "name": "Property 1=CQ Modal 4",
+      "parent": "CQ Modal Mobile"
+    },
+    {
+      "id": "180:732",
+      "name": "Text Cursor",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "180:731",
+      "name": "State=Visible",
+      "parent": "Text Cursor"
+    },
+    {
+      "id": "180:733",
+      "name": "State=Invisible",
+      "parent": "Text Cursor"
+    },
+    {
+      "id": "181:811",
+      "name": "Input Field",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "181:810",
+      "name": "Property 1=Primary, Property 2=Default",
+      "parent": "Input Field"
+    },
+    {
+      "id": "572:3576",
+      "name": "Property 1=Mobile/Primary, Property 2=Default",
+      "parent": "Input Field"
+    },
+    {
+      "id": "181:807",
+      "name": "Property 1=Primary, Property 2=Clicked",
+      "parent": "Input Field"
+    },
+    {
+      "id": "595:3139",
+      "name": "Property 1=Mobile/Primary, Property 2=Clicked",
+      "parent": "Input Field"
+    },
+    {
+      "id": "181:808",
+      "name": "Property 1=Primary, Property 2=Typing",
+      "parent": "Input Field"
+    },
+    {
+      "id": "595:3147",
+      "name": "Property 1=Mobile/Primary, Property 2=Typing",
+      "parent": "Input Field"
+    },
+    {
+      "id": "181:809",
+      "name": "Property 1=Secondary, Property 2=Default",
+      "parent": "Input Field"
+    },
+    {
+      "id": "595:3156",
+      "name": "Property 1=Mobile/Secondary, Property 2=Default",
+      "parent": "Input Field"
+    },
+    {
+      "id": "181:806",
+      "name": "Property 1=Secondary, Property 2=Clicked",
+      "parent": "Input Field"
+    },
+    {
+      "id": "595:3167",
+      "name": "Property 1=Mobile/Secondary, Property 2=Clicked",
+      "parent": "Input Field"
+    },
+    {
+      "id": "196:612",
+      "name": "Property 1=Secondary, Property 2=Typing",
+      "parent": "Input Field"
+    },
+    {
+      "id": "595:3206",
+      "name": "Property 1=Mobile/Secondary, Property 2=Typing",
+      "parent": "Input Field"
+    },
+    {
+      "id": "333:1871",
+      "name": "Dropdown-Item",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "333:1870",
+      "name": "State=Default",
+      "parent": "Dropdown-Item"
+    },
+    {
+      "id": "333:1872",
+      "name": "State=Hover",
+      "parent": "Dropdown-Item"
+    },
+    {
+      "id": "333:1973",
+      "name": "Dropdown - Menu",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "519:594",
+      "name": "Dropdown",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "519:593",
+      "name": "State=Default",
+      "parent": "Dropdown"
+    },
+    {
+      "id": "519:640",
+      "name": "State=Hover",
+      "parent": "Dropdown"
+    },
+    {
+      "id": "519:1180",
+      "name": "State=Open",
+      "parent": "Dropdown"
+    },
+    {
+      "id": "523:732",
+      "name": "Input Field  Small",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "523:723",
+      "name": "Property 1=Default",
+      "parent": "Input Field  Small"
+    },
+    {
+      "id": "523:733",
+      "name": "Property 1=Variant2",
+      "parent": "Input Field  Small"
+    },
+    {
+      "id": "595:3904",
+      "name": "Dropdown",
+      "parent": "Form Fields"
+    },
+    {
+      "id": "595:3903",
+      "name": "Property 1=Open",
+      "parent": "Dropdown"
+    },
+    {
+      "id": "595:3902",
+      "name": "Property 1=Default",
+      "parent": "Dropdown"
+    }
+  ]
+}

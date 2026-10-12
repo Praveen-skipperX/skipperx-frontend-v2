@@ -1,16 +1,13 @@
 import styles from "./ScrollingTicker.module.css";
 
 const ITEMS = [
-  "Digitalpreneur",
-  "Drone Engineering",
-  "Robot Engineering",
-  "AR/VR Development",
-  "Freelancing Pro",
-  "Stock Market Mastery",
-  "Personal Branding",
-  "Content Creation",
-  "Startup Launchpad",
-  "AI & Machine Learning",
+  "DIGITALPRENEUR",
+  "DRONE ENGINEERING",
+  "ROBOT ENGINEERING",
+  "AR/VR DEVELOPMENT",
+  "STOCK MARKET",
+  "YOUTUBE ACADEMY",
+  "AI/ PROMPT ENGINEERING",
 ];
 
 function Track() {

@@ -1,0 +1,417 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:7988",
+    "name": "Nav+Ticker",
+    "type": "FRAME",
+    "parentId": "1662:7762",
+    "pageId": "612:2880",
+    "depth": 2,
+    "path": "Mobile / Career Paths Mobile / Nav+Ticker",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      }
+    ],
+    "self": {
+      "id": "1662:7988",
+      "name": "Nav+Ticker",
+      "type": "FRAME",
+      "parentId": "1662:7762",
+      "pageId": "612:2880",
+      "depth": 2,
+      "x": 0,
+      "y": 46,
+      "width": 412,
+      "height": 90,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1662:7989",
+        "name": "Announcement Banner",
+        "type": "INSTANCE",
+        "parentId": "1662:7988",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 1440,
+        "height": 33,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7990",
+        "name": "Navbar",
+        "type": "INSTANCE",
+        "parentId": "1662:7988",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 412,
+        "height": 54,
+        "childCount": 1
+      }
+    ]
+  },
+  "layout": {
+    "x": 0,
+    "y": 46,
+    "width": 412,
+    "height": 90,
+    "rotation": 0,
+    "layoutMode": "NONE",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:33:15",
+      "name": "xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 32
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:11",
+      "name": "radius-none",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modes": [
+        {
+          "modeId": "27:4",
+          "name": "Mode 1",
+          "value": 0
+        }
+      ],
+      "scopes": [
+        "CORNER_RADIUS"
+      ]
+    },
+    {
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modes": [
+        {
+          "modeId": "20:4",
+          "name": "Mode 1",
+          "value": 1
+        }
+      ],
+      "scopes": [
+        "STROKE_FLOAT"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:15:3667",
+      "name": "Strokes/Neutral/Soft",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#FFFFFF14"
+        }
+      ],
+      "scopes": [
+        "STROKE_COLOR"
+      ]
+    }
+  ],
+  "variableBindings": [],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:7989",
+      "name": "Announcement Banner",
+      "type": "INSTANCE",
+      "layout": {
+        "width": 1440,
+        "height": 33
+      },
+      "variableBindings": []
+    },
+    {
+      "nodeId": "1662:7990",
+      "name": "Navbar",
+      "type": "INSTANCE",
+      "layout": {
+        "width": 412,
+        "height": 54
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7990",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "topLeftRadius",
+          "variableId": "VariableID:27:11",
+          "variableName": "radius-none",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 0,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "topRightRadius",
+          "variableId": "VariableID:27:11",
+          "variableName": "radius-none",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 0,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "bottomLeftRadius",
+          "variableId": "VariableID:27:11",
+          "variableName": "radius-none",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 0,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "bottomRightRadius",
+          "variableId": "VariableID:27:11",
+          "variableName": "radius-none",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 0,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7990",
+          "property": "strokes",
+          "variableId": "VariableID:15:3667",
+          "variableName": "Strokes/Neutral/Soft",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#FFFFFF14",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:7988",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Nav+Ticker (FRAME)\nSize: 412 × 90\nChildren (2):\n  - Announcement Banner (INSTANCE)\n  - Navbar (INSTANCE)\nScreenshot: NOT_CACHED"
+}

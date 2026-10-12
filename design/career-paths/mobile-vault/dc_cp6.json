@@ -1,0 +1,309 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:8103",
+    "name": "CP 6",
+    "type": "FRAME",
+    "parentId": "1662:7762",
+    "pageId": "612:2880",
+    "depth": 2,
+    "path": "Mobile / Career Paths Mobile / CP 6",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      }
+    ],
+    "self": {
+      "id": "1662:8103",
+      "name": "CP 6",
+      "type": "FRAME",
+      "parentId": "1662:7762",
+      "pageId": "612:2880",
+      "depth": 2,
+      "x": 0,
+      "y": 3909,
+      "width": 412,
+      "height": 1835,
+      "childCount": 1
+    },
+    "children": [
+      {
+        "id": "1662:8104",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8103",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 380,
+        "height": 1771,
+        "childCount": 3
+      }
+    ]
+  },
+  "layout": {
+    "x": 0,
+    "y": 3909,
+    "width": 412,
+    "height": 1835,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 10,
+    "padding": {
+      "top": 32,
+      "right": 16,
+      "bottom": 32,
+      "left": 16
+    },
+    "constraints": {
+      "horizontal": "CENTER",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#0A0A0B",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#0A0A0B",
+        "source": "VARIABLE",
+        "variableId": "VariableID:27:56",
+        "variableName": "Backgrounds/Surface 0"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:15",
+      "name": "xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 32
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:8103",
+      "property": "paddingLeft",
+      "variableId": "VariableID:33:13",
+      "variableName": "md",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 16,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8103",
+      "property": "paddingTop",
+      "variableId": "VariableID:33:15",
+      "variableName": "xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 32,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8103",
+      "property": "paddingRight",
+      "variableId": "VariableID:33:13",
+      "variableName": "md",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 16,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8103",
+      "property": "paddingBottom",
+      "variableId": "VariableID:33:15",
+      "variableName": "xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 32,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8103",
+      "property": "fills",
+      "variableId": "VariableID:27:56",
+      "variableName": "Backgrounds/Surface 0",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#0A0A0B",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:8104",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 1771
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8104",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:8103",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: CP 6 (FRAME)\nSize: 412 × 1835\nVariable bindings:\n  paddingLeft → md [Spacing / Mode 1] = 16\n  paddingTop → xl [Spacing / Mode 1] = 32\n  paddingRight → md [Spacing / Mode 1] = 16\n  paddingBottom → xl [Spacing / Mode 1] = 32\n  fills → Backgrounds/Surface 0 [Color / Mode 1] = \"#0A0A0B\"\nChildren (1):\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

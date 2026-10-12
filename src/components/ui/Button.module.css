@@ -2,33 +2,36 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
+  gap: 12px;
   border: 0;
   border-radius: var(--radius-full);
   font-family: var(--font-body);
-  font-weight: 600;
+  font-weight: 600; /* Body Button — SemiBold */
+  line-height: 1;
+  letter-spacing: 0;
   white-space: nowrap;
   transition:
-    transform var(--duration-base) var(--ease-out),
     color var(--duration-fast) var(--ease-out),
     box-shadow var(--duration-base) var(--ease-out),
-    background var(--duration-base) var(--ease-out);
+    background var(--duration-fast) var(--ease-out);
 }
 
 .sm {
   padding: 8px 20px;
-  font-size: 0.875rem;
+  font-size: var(--text-body);
 }
 
 .md {
-  padding: 10px 24px;
-  font-size: 0.875rem;
+  min-height: 56px;
+  padding: 16px 32px;
+  font-size: var(--text-body);
 }
 
 .lg {
+  height: 56px;
   padding: 16px 32px;
-  font-size: 1rem;
-  gap: 10px;
+  font-size: var(--text-body);
+  gap: 12px;
 }
 
 .primary {
@@ -38,26 +41,59 @@
 }
 
 .primary:hover {
-  transform: translateY(-1px);
+  box-shadow: var(--glow-m);
 }
 
-.lg.primary {
-  box-shadow: var(--glow-cta);
-}
-
-.lg.primary:hover {
-  transform: translateY(-2px);
+.primary:active {
+  box-shadow: var(--glow-s);
 }
 
 .secondary {
-  background: transparent;
-  color: #d1d5db;
-  font-weight: 500;
+  background: #161616;
+  color: #fff;
+  border: 1px solid rgb(255 255 255 / 0.08);
+  font-weight: 600;
   padding-inline: 24px;
 }
 
 .secondary:hover {
   color: #fff;
+  background: rgb(254 131 36 / 0.16);
+  border-color: rgb(254 131 36 / 0.35);
+  box-shadow: 0 0 13px rgb(254 131 36 / 0.16);
+}
+
+.secondary:active {
+  background: #161616;
+}
+
+.text {
+  background: transparent;
+  color: rgb(255 255 255 / 0.6);
+}
+
+.text:hover {
+  color: #fff;
+}
+
+.button > svg {
+  display: block;
+  flex: 0 0 16px;
+  width: 16px;
+  height: 16px;
+}
+
+.button > svg path {
+  vector-effect: non-scaling-stroke;
+  stroke-width: 2px;
+}
+
+.button:disabled {
+  color: rgb(255 255 255 / 0.38);
+  background: #0a0a0b;
+  border: 1px solid rgb(255 255 255 / 0.06);
+  box-shadow: 0 0 8px rgb(255 255 255 / 0.04);
+  cursor: not-allowed;
 }
 
 .ghost {

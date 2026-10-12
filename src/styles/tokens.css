@@ -70,11 +70,13 @@
   --blur-glass-subtle: 12px;
   --blur-glass-tinted: 20px;
 
+  /* Effects — Brand Glow S/M/L (Default CTA / Hover CTA / Hero ambient) */
   --glow-s: 0 0 20px rgb(254 131 36 / 0.35);
   --glow-m: 0 0 32px rgb(254 131 36 / 0.45);
   --glow-l: 0 0 60px rgb(254 131 36 / 0.15);
-  --glow-cta: 0 4px 32px rgb(254 131 36 / 0.38);
+  --glow-cta: var(--glow-s);
   --glow-banner: 0 1px 20px 0 rgb(254 131 36 / 0.45);
+  --shadow-card-depth: 0 8px 32px rgb(0 0 0 / 0.4);
 
   /* Motion — Figma DS docs + live Hero */
   --duration-micro: 150ms;
@@ -87,15 +89,19 @@
   --ease-hero: cubic-bezier(0.16, 1, 0.3, 1);
 
   --header-banner-height: 36px;
+  /* Fixed header bar under the announcement banner (matches Figma Navbar 88) */
+  --header-bar-height: 88px;
+  --header-offset: calc(var(--header-banner-height) + var(--header-bar-height));
   --container-max: 80rem;
   --container-pad: 16px;
   --section-px: var(--container-pad);
   --section-py: var(--space-2xl);
 }
 
-@media (min-width: 640px) {
+@media (max-width: 767px) {
   :root {
-    --container-pad: 24px;
+    /* Mobile header is logo + menu only (no 56px Enquire) */
+    --header-bar-height: 56px;
   }
 }
 

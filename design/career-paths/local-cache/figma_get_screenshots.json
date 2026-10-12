@@ -1,0 +1,292 @@
+{
+  "screenshots": [
+    {
+      "nodeId": "153:161",
+      "name": "Review card Cyan",
+      "category": "tablet",
+      "width": 579,
+      "height": 458,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\153_161_Review card Cyan.png"
+    },
+    {
+      "nodeId": "153:272",
+      "name": "Review card Purple",
+      "category": "tablet",
+      "width": 580,
+      "height": 458,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\153_272_Review card Purple.png"
+    },
+    {
+      "nodeId": "153:269",
+      "name": "Review card Coral",
+      "category": "tablet",
+      "width": 582,
+      "height": 458,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\153_269_Review card Coral.png"
+    },
+    {
+      "nodeId": "12:242",
+      "name": "Container",
+      "category": "tablet",
+      "width": 826,
+      "height": 325.66668701171875,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\12_242_Container.png"
+    },
+    {
+      "nodeId": "12:202",
+      "name": "Container",
+      "category": "tablet",
+      "width": 826,
+      "height": 325.66668701171875,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\12_202_Container.png"
+    },
+    {
+      "nodeId": "1265:964",
+      "name": "Review card Purple-Horizontal",
+      "category": "tablet",
+      "width": 589,
+      "height": 464,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\1265_964_Review card Purple-Horizontal.png"
+    },
+    {
+      "nodeId": "1263:934",
+      "name": "Review card Coral-Horizontal",
+      "category": "tablet",
+      "width": 589,
+      "height": 464,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\1263_934_Review card Coral-Horizontal.png"
+    },
+    {
+      "nodeId": "1257:3509",
+      "name": "Review card Cyan-Horizontal",
+      "category": "tablet",
+      "width": 589,
+      "height": 464,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\1257_3509_Review card Cyan-Horizontal.png"
+    },
+    {
+      "nodeId": "81:168",
+      "name": "Button",
+      "category": "tablet",
+      "width": 881,
+      "height": 312,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\81_168_Button.png"
+    },
+    {
+      "nodeId": "15:3311",
+      "name": "Container",
+      "category": "tablet",
+      "width": 826,
+      "height": 454.0000305175781,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\15_3311_Container.png"
+    },
+    {
+      "nodeId": "612:3046",
+      "name": "Features",
+      "category": "mobile",
+      "width": 412,
+      "height": 1211,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_3046_Features.png"
+    },
+    {
+      "nodeId": "710:4808",
+      "name": "CommunityPreview",
+      "category": "mobile",
+      "width": 412,
+      "height": 1405,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\710_4808_CommunityPreview.png"
+    },
+    {
+      "nodeId": "710:4691",
+      "name": "SuperStack",
+      "category": "mobile",
+      "width": 412,
+      "height": 1795.5,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\710_4691_SuperStack.png"
+    },
+    {
+      "nodeId": "710:4551",
+      "name": "Programs/Entrepreneurs",
+      "category": "mobile",
+      "width": 412,
+      "height": 1893,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\710_4551_Entrepreneurs.png"
+    },
+    {
+      "nodeId": "710:4383",
+      "name": "SkipperX Landing Page Mobile Android",
+      "category": "mobile",
+      "width": 412,
+      "height": 12369,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\710_4383_SkipperX Landing Page Mobile Android.png"
+    },
+    {
+      "nodeId": "612:3352",
+      "name": "CommunityPreview",
+      "category": "mobile",
+      "width": 412,
+      "height": 1405,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_3352_CommunityPreview.png"
+    },
+    {
+      "nodeId": "612:3235",
+      "name": "SuperStack",
+      "category": "mobile",
+      "width": 412,
+      "height": 1795.5,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_3235_SuperStack.png"
+    },
+    {
+      "nodeId": "612:3095",
+      "name": "Programs/Entrepreneurs",
+      "category": "mobile",
+      "width": 412,
+      "height": 1893,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_3095_Entrepreneurs.png"
+    },
+    {
+      "nodeId": "612:2927",
+      "name": "SkipperX Landing Page Mobile Android",
+      "category": "mobile",
+      "width": 412,
+      "height": 12369,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_2927_SkipperX Landing Page Mobile Android.png"
+    },
+    {
+      "nodeId": "612:2882",
+      "name": "Container",
+      "category": "mobile",
+      "width": 380,
+      "height": 1595,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_2882_Container.png"
+    },
+    {
+      "nodeId": "612:2881",
+      "name": "Programs/Innovators",
+      "category": "mobile",
+      "width": 412,
+      "height": 1643,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_2881_Innovators.png"
+    },
+    {
+      "nodeId": "595:3904",
+      "name": "Dropdown",
+      "category": "tablet",
+      "width": 707,
+      "height": 805,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\595_3904_Dropdown.png"
+    },
+    {
+      "nodeId": "710:5947",
+      "name": "CQ Modal Mobile",
+      "category": "mobile",
+      "width": 420,
+      "height": 2296,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\710_5947_CQ Modal Mobile.png"
+    },
+    {
+      "nodeId": "685:832",
+      "name": "CQ Modal",
+      "category": "tablet",
+      "width": 560,
+      "height": 3079.333251953125,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\685_832_CQ Modal.png"
+    },
+    {
+      "nodeId": "612:8069",
+      "name": "ContactForm",
+      "category": "desktop",
+      "width": 1440,
+      "height": 820.125,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_8069_ContactForm.png"
+    },
+    {
+      "nodeId": "612:8037",
+      "name": "Testimonials",
+      "category": "desktop",
+      "width": 1440,
+      "height": 841.9999389648438,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_8037_Testimonials.png"
+    },
+    {
+      "nodeId": "612:8019",
+      "name": "SuperStack",
+      "category": "desktop",
+      "width": 1440,
+      "height": 685.5,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_8019_SuperStack.png"
+    },
+    {
+      "nodeId": "612:7904",
+      "name": "NSDCCertified",
+      "category": "desktop",
+      "width": 1440,
+      "height": 953.5833740234375,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_7904_NSDCCertified.png"
+    },
+    {
+      "nodeId": "612:7879",
+      "name": "Programs/Entrepreneurs",
+      "category": "desktop",
+      "width": 1440,
+      "height": 2221,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_7879_Entrepreneurs.png"
+    },
+    {
+      "nodeId": "612:7830",
+      "name": "Features",
+      "category": "desktop",
+      "width": 1440,
+      "height": 681,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_7830_Features.png"
+    },
+    {
+      "nodeId": "612:7755",
+      "name": "Stats",
+      "category": "desktop",
+      "width": 1440,
+      "height": 460,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_7755_Stats.png"
+    },
+    {
+      "nodeId": "612:7715",
+      "name": "SkipperX Landing Page",
+      "category": "desktop",
+      "width": 1440,
+      "height": 10941,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\612_7715_SkipperX Landing Page.png"
+    },
+    {
+      "nodeId": "298:1341",
+      "name": "Programs/Hustlers",
+      "category": "desktop",
+      "width": 1440,
+      "height": 1392,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\298_1341_Hustlers.png"
+    },
+    {
+      "nodeId": "328:1593",
+      "name": "Programs/Innovators",
+      "category": "desktop",
+      "width": 1440,
+      "height": 1513,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\328_1593_Innovators.png"
+    },
+    {
+      "nodeId": "297:970",
+      "name": "Programs/Innovators",
+      "category": "desktop",
+      "width": 1440,
+      "height": 1938,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\297_970_Innovators.png"
+    },
+    {
+      "nodeId": "63:163",
+      "name": "Typography",
+      "category": "desktop",
+      "width": 1274,
+      "height": 1073,
+      "localPath": "C:\\AA - My Work\\figmaValut\\storage\\projects\\6abdc9c2fafb2d620f44bd47\\screenshots\\63_163_Typography.png"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "nodeId": "1662:7768",
+    "name": "Still not sure which track is right?",
+    "characters": "Still not sure which track is right?",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 378,
+    "height": 82,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7770",
+    "name": "Take our 2-minute career quiz and we'll match you ",
+    "characters": "Take our 2-minute career quiz and we'll match you to the track built for your goals, strengths, and ambition.\nNo sign-up required.",
+    "fontSize": 16,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 362,
+    "height": 96,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7774",
+    "name": "2 minutes · Instant results · Free forever",
+    "characters": "2 minutes · Instant results · Free forever",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 232,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7772;69:11",
+    "name": "Apply for April Cohort",
+    "characters": "Find my Track",
+    "fontSize": 16,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 114,
+    "height": 24,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ]
+  }
+]

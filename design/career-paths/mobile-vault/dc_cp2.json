@@ -1,0 +1,413 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:8019",
+    "name": "CP 2",
+    "type": "FRAME",
+    "parentId": "1662:7762",
+    "pageId": "612:2880",
+    "depth": 2,
+    "path": "Mobile / Career Paths Mobile / CP 2",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      }
+    ],
+    "self": {
+      "id": "1662:8019",
+      "name": "CP 2",
+      "type": "FRAME",
+      "parentId": "1662:7762",
+      "pageId": "612:2880",
+      "depth": 2,
+      "x": 0,
+      "y": 795,
+      "width": 412,
+      "height": 930.4801025390625,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1662:8020",
+        "name": "Body",
+        "type": "FRAME",
+        "parentId": "1662:8019",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 380,
+        "height": 114,
+        "childCount": 1
+      },
+      {
+        "id": "1662:8027",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8019",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 380.75421142578125,
+        "height": 752.4801025390625,
+        "childCount": 5
+      }
+    ]
+  },
+  "layout": {
+    "x": 0,
+    "y": 795,
+    "width": 412,
+    "height": 930.4801025390625,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 16,
+    "padding": {
+      "top": 24,
+      "right": 16,
+      "bottom": 24,
+      "left": 16
+    },
+    "constraints": {
+      "horizontal": "CENTER",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#0A0A0B",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#0A0A0B",
+        "source": "VARIABLE",
+        "variableId": "VariableID:27:56",
+        "variableName": "Backgrounds/Surface 0"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:79:48",
+      "name": "sm",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 12
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modes": [
+        {
+          "modeId": "20:4",
+          "name": "Mode 1",
+          "value": 1
+        }
+      ],
+      "scopes": [
+        "STROKE_FLOAT"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:8019",
+      "property": "itemSpacing",
+      "variableId": "VariableID:33:13",
+      "variableName": "md",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 16,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8019",
+      "property": "paddingLeft",
+      "variableId": "VariableID:33:13",
+      "variableName": "md",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 16,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8019",
+      "property": "paddingTop",
+      "variableId": "VariableID:33:14",
+      "variableName": "lg",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 24,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8019",
+      "property": "paddingRight",
+      "variableId": "VariableID:33:13",
+      "variableName": "md",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 16,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8019",
+      "property": "paddingBottom",
+      "variableId": "VariableID:33:14",
+      "variableName": "lg",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 24,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8019",
+      "property": "fills",
+      "variableId": "VariableID:27:56",
+      "variableName": "Backgrounds/Surface 0",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#0A0A0B",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:8020",
+      "name": "Body",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 114
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8020",
+          "property": "itemSpacing",
+          "variableId": "VariableID:79:48",
+          "variableName": "sm",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8027",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.75421142578125,
+        "height": 752.4801025390625
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8027",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8027",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8027",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8027",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:8019",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: CP 2 (FRAME)\nSize: 412 × 930.4801025390625\nVariable bindings:\n  itemSpacing → md [Spacing / Mode 1] = 16\n  paddingLeft → md [Spacing / Mode 1] = 16\n  paddingTop → lg [Spacing / Mode 1] = 24\n  paddingRight → md [Spacing / Mode 1] = 16\n  paddingBottom → lg [Spacing / Mode 1] = 24\n  fills → Backgrounds/Surface 0 [Color / Mode 1] = \"#0A0A0B\"\nChildren (2):\n  - Body (FRAME)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

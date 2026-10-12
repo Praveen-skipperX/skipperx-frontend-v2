@@ -1,0 +1,349 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:7993",
+    "name": "Header",
+    "type": "FRAME",
+    "parentId": "1662:7992",
+    "pageId": "612:2880",
+    "depth": 4,
+    "path": "Mobile / Career Paths Mobile / CP 1 / Container / Header",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      },
+      {
+        "id": "1662:7991",
+        "name": "CP 1",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 660
+      },
+      {
+        "id": "1662:7992",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7991",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 380,
+        "height": 612
+      }
+    ],
+    "self": {
+      "id": "1662:7993",
+      "name": "Header",
+      "type": "FRAME",
+      "parentId": "1662:7992",
+      "pageId": "612:2880",
+      "depth": 4,
+      "x": 0,
+      "y": 0,
+      "width": 380,
+      "height": 400,
+      "childCount": 3
+    },
+    "children": [
+      {
+        "id": "1662:7994",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7993",
+        "pageId": "612:2880",
+        "depth": 5,
+        "width": 380,
+        "height": 194,
+        "childCount": 2
+      },
+      {
+        "id": "1662:7999",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7993",
+        "pageId": "612:2880",
+        "depth": 5,
+        "width": 380,
+        "height": 78,
+        "childCount": 2
+      },
+      {
+        "id": "1662:8003",
+        "name": "Pills",
+        "type": "FRAME",
+        "parentId": "1662:7993",
+        "pageId": "612:2880",
+        "depth": 5,
+        "width": 374,
+        "height": 80,
+        "childCount": 4
+      }
+    ]
+  },
+  "layout": {
+    "x": 0,
+    "y": 0,
+    "width": 380,
+    "height": 400,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 24,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": false,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:11",
+      "name": "xxs",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 4
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:12",
+      "name": "xs",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 8
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:7993",
+      "property": "itemSpacing",
+      "variableId": "VariableID:33:14",
+      "variableName": "lg",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 24,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:7994",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 194
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7994",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7999",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380,
+        "height": 78
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7999",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:11",
+          "variableName": "xxs",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 4,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8003",
+      "name": "Pills",
+      "type": "FRAME",
+      "layout": {
+        "width": 374,
+        "height": 80
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8003",
+          "property": "gridRowGap",
+          "variableId": "VariableID:33:12",
+          "variableName": "xs",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 8,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8003",
+          "property": "gridColumnGap",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:7993",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Header (FRAME)\nSize: 380 × 400\nVariable bindings:\n  itemSpacing → lg [Spacing / Mode 1] = 24\nChildren (3):\n  - Container (FRAME)\n  - Container (FRAME)\n  - Pills (FRAME)\nScreenshot: NOT_CACHED"
+}

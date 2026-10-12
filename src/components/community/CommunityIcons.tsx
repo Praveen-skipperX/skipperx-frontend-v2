@@ -127,8 +127,8 @@ export function GrowthIcon(props: IconProps) {
 export function ArrowUpRightIcon(props: IconProps) {
   return (
     <Icon {...props}>
-      <path d="M7 7h10v10" />
-      <path d="M7 17 17 7" />
+      <path d="M5 5h14v14" />
+      <path d="M5 19 19 5" />
     </Icon>
   );
 }

@@ -1,0 +1,108 @@
+.page > main {
+  padding-top: var(--header-offset);
+}
+
+.page main > section:not([id="super-stack"]) {
+  --font-body: "Career Poppins", "Poppins", sans-serif;
+  --font-display: "Career Space Grotesk", "Space Grotesk", sans-serif;
+  font-family: var(--font-body);
+  font-weight: 400;
+  max-width: 1440px;
+  margin-inline: auto;
+}
+
+.page [id="super-stack"] {
+  --font-body: "Career Poppins", "Poppins", sans-serif;
+  --font-display: "Career Space Grotesk", "Space Grotesk", sans-serif;
+}
+
+@media (max-width: 1200px) {
+  .page main > section:not([id="super-stack"]) {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+@media (max-width: 640px) {
+  .page main > section:not([id="super-stack"]) {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .page main > section:not([id="super-stack"]) h1,
+  .page main > section:not([id="super-stack"]) h2 {
+    font-size: 32px;
+  }
+}
+
+/* Career Paths Figma navbar — desktop overrides remain in place for ≥901px */
+@media (min-width: 901px) {
+  .page > header {
+    box-shadow: 0 0 4px rgb(255 255 255 / 0.07);
+  }
+
+  .page > header > div:first-child {
+    max-width: 1440px;
+  }
+
+  .page > header > div:first-child > div {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+  }
+
+  .page > header a[aria-label="SkipperX home"] {
+    justify-self: start;
+  }
+
+  .page > header nav[aria-label="Primary"] {
+    justify-self: center;
+  }
+
+  .page > header nav[aria-label="Primary"] a {
+    font-family: var(--font-body);
+  }
+
+  .page > header > div:first-child > div > div:last-of-type {
+    justify-self: end;
+  }
+
+  .page > header a[href="#contact"]:not(nav a) {
+    width: 193px;
+    box-shadow: 0 0 4.3px rgb(254 131 36 / 0.4);
+    transition: box-shadow 200ms ease-in-out;
+  }
+
+  .page > header a[href="#contact"]:not(nav a):hover {
+    box-shadow:
+      inset 0 0 0 1px rgb(254 131 36 / 0.28),
+      0 0 4.3px rgb(254 131 36 / 0.5);
+  }
+
+  .page > header a[href="#contact"]:not(nav a):active {
+    box-shadow: 0 0 4.3px rgb(254 131 36 / 0.4);
+  }
+}
+
+@media (max-width: 900px) {
+  .page > header nav[aria-label="Primary"] {
+    display: none;
+  }
+
+  .page > header button[aria-controls="mobile-nav"] {
+    display: inline-flex;
+  }
+
+  .page > header [id="mobile-nav"] {
+    display: block;
+  }
+
+  .page > header > div:first-child > div {
+    display: flex;
+  }
+}
+
+@media (max-width: 640px) {
+  :global(html):has(.page) { scrollbar-width:none; }
+  .page > div[role="status"] span { letter-spacing:.06em; }
+}

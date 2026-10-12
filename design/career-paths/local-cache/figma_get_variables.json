@@ -1,0 +1,3346 @@
+{
+  "cacheFirst": true,
+  "status": "supported",
+  "variables": [
+    {
+      "_id": "6abdce5ea6406f3e27740939",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3664",
+      "name": "Strokes/Neutral/Subtle",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.05999999865889549
+        }
+      },
+      "contentHash": "77c2c36e0792bdc53eb2732692964cf822ee0cd3387516358fc5316953b888bc",
+      "normalized": {
+        "description": "Dividers, section rules",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.05999999865889549
+          }
+        },
+        "key": "d1e0dbc45459020d303267085ca973842208b41a",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.303Z",
+      "updatedAt": "2026-10-01T03:08:32.101Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774093b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3666",
+      "name": "Strokes/Neutral/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.07000000029802322
+        }
+      },
+      "contentHash": "391ff34c7f7e03a6e92cd21c022fea1e8db6542726da05064fcc4325d8572626",
+      "normalized": {
+        "description": "Surface & elevated cards",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.07000000029802322
+          }
+        },
+        "key": "34fcee62b80690628ed09824fc678237a74c1c57",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.321Z",
+      "updatedAt": "2026-10-01T03:08:32.106Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774093d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3667",
+      "name": "Strokes/Neutral/Soft",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.07999999821186066
+        }
+      },
+      "contentHash": "801d6b7912434640e87af804ce1d38b04e2f2394b6b50940cacea353ef324920",
+      "normalized": {
+        "description": "Glass cards, modals",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.07999999821186066
+          }
+        },
+        "key": "0c4c025f210d64152e69c9dfbd116964c2b25a11",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.337Z",
+      "updatedAt": "2026-10-01T03:08:32.110Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774093f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3668",
+      "name": "Strokes/Neutral/Medium",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.11999999731779099
+        }
+      },
+      "contentHash": "07b91558276d3216a7bd08decb1be35f9b6ab6a60bbaea9581e7162ed9ded8a4",
+      "normalized": {
+        "description": "Nav bar, strong dividers",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.11999999731779099
+          }
+        },
+        "key": "9407aa3b59a8288f5e9e3dffb0546275908d14c9",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.352Z",
+      "updatedAt": "2026-10-01T03:08:32.116Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740941",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3669",
+      "name": "Strokes/Neutral/Strong",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.15000000596046448
+        }
+      },
+      "contentHash": "26024c73a2a95b4c97790291b2855bb9ac6b43022b893ad03a8195c91a0e2e76",
+      "normalized": {
+        "description": "Hover ring, focus state",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.15000000596046448
+          }
+        },
+        "key": "24157e350cd9757e649df0838d69cc853fb98573",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.366Z",
+      "updatedAt": "2026-10-01T03:08:32.120Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740943",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:15:3670",
+      "name": "Strokes/Neutral/Bold",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.20000000298023224
+        }
+      },
+      "contentHash": "c1cf56bef82aac587b3a5c70384ab08e9edaa84e98c34341826256e40ca13468",
+      "normalized": {
+        "description": "Logo divider, emphasis",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.20000000298023224
+          }
+        },
+        "key": "f6edb4fe5a3e70b4ceacbb51caf202fafb5f0cac",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.379Z",
+      "updatedAt": "2026-10-01T03:08:32.123Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740945",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "20:4": 1
+      },
+      "contentHash": "674333dffa7d557b1e853caedc2a053494f15fcabfc787067ccc45f9d2b68016",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "STROKE_FLOAT"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:20:5",
+        "collectionId": "VariableCollectionId:20:5",
+        "valuesByMode": {
+          "20:4": 1
+        },
+        "key": "bcba568c1473a5680187e26e4eb8856ca45bea32",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.394Z",
+      "updatedAt": "2026-10-01T03:08:32.129Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740947",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:26:3",
+      "name": "Stroke-M",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "20:4": 2
+      },
+      "contentHash": "e6136553fb856091d54ba44546a73a52c8d7e2077c72be4cfa5e6de5c993549e",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "STROKE_FLOAT"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:20:5",
+        "collectionId": "VariableCollectionId:20:5",
+        "valuesByMode": {
+          "20:4": 2
+        },
+        "key": "fc064d049477162f8173399da1eb0c20ab83d733",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.412Z",
+      "updatedAt": "2026-10-01T03:08:32.132Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740949",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:11",
+      "name": "radius-none",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 0
+      },
+      "contentHash": "38dbd2a27cf667f36ba7883a0572bd2efd6ba16e939c168ee7f2e5c3955fe8ca",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 0
+        },
+        "key": "a8b88ab9ffb6083dd1956c4c03f196e654aff0fb",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.427Z",
+      "updatedAt": "2026-10-01T03:08:32.136Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774094b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:12",
+      "name": "radius-sm",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 8
+      },
+      "contentHash": "c5a2ed10bb714656ecd153dcf379b65511ec8a3548b5472757494be2ecde363f",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 8
+        },
+        "key": "ce0d0d53214addd896f15ac6e7508247aef95352",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.443Z",
+      "updatedAt": "2026-10-01T03:08:32.139Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774094d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:13",
+      "name": "radius-md",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 12
+      },
+      "contentHash": "31d8ed8fdc61d4a7b0958bbac646debae3463f090fc74156474d4602e0d8193f",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 12
+        },
+        "key": "c7e1a2e424758ee7e6d61dbfd53cb66dbe332bc1",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.461Z",
+      "updatedAt": "2026-10-01T03:08:32.145Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774094f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:14",
+      "name": "radius-lg",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 16
+      },
+      "contentHash": "23c0a9a85d41e06f9f631749298336560a2e21aeba0d3a15c3992d0547c131a6",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 16
+        },
+        "key": "97b3ea9f9f698144a634656aad5767b2fbe5b854",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.476Z",
+      "updatedAt": "2026-10-01T03:08:32.148Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740951",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:15",
+      "name": "radius-xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 20
+      },
+      "contentHash": "8ba7e5318e30683265a0b707753e717ee7f4d18727f3973a6451b3cdf9102231",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 20
+        },
+        "key": "b9302868c08fe52a7b8c3d65362bbf840a15c2a0",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.492Z",
+      "updatedAt": "2026-10-01T03:08:32.153Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740953",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:16",
+      "name": "radius-full",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 40
+      },
+      "contentHash": "ce9a50f53d3987c7f5d31ea4f8c848f92019b62606de667c03515e9202c3aa36",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 40
+        },
+        "key": "5c4a0eac1e31aafd44117b18b7ed051cca148ac7",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.506Z",
+      "updatedAt": "2026-10-01T03:08:32.158Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740955",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:18",
+      "name": "Strokes/Brand-Orange/Soft",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.20000000298023224
+        }
+      },
+      "contentHash": "025f750f771b96b25145fd604a3114d89533def4ef8aee00232ec614a6b6679e",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "STROKE_COLOR"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.20000000298023224
+          }
+        },
+        "key": "c49db99b6611de4fb614e785b660739531c9cf65",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.520Z",
+      "updatedAt": "2026-10-01T03:08:32.161Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740957",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:19",
+      "name": "Strokes/Brand-Orange/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.25
+        }
+      },
+      "contentHash": "781aed4e0a3bb981538263f382afdbc78dd1e7c7023c0a796d435c7161a4716b",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.25
+          }
+        },
+        "key": "8f7b17b48a2093c784c5e7d2ac687c36478ed309",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.539Z",
+      "updatedAt": "2026-10-01T03:08:32.164Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740959",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:20",
+      "name": "Strokes/Brand-Orange/Standard",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.2800000011920929
+        }
+      },
+      "contentHash": "13ca964ae437e93d48d509097e27e8d0455b92475379a19fbce0f6b0d07ffa47",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.2800000011920929
+          }
+        },
+        "key": "94337c80f7934fb864b04b2d14d135e24af0ad32",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.557Z",
+      "updatedAt": "2026-10-01T03:08:32.170Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774095b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:21",
+      "name": "Strokes/Brand-Orange/Hover",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.3499999940395355
+        }
+      },
+      "contentHash": "f9f3fc558ac24fbba034200747d3ccc3a3eb57735b042f9c77d16b5ff5b4cbfe",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.3499999940395355
+          }
+        },
+        "key": "0127eafb4616efb9a792ca676918872a406870b2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.573Z",
+      "updatedAt": "2026-10-01T03:08:32.174Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774095d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:22",
+      "name": "Strokes/Brand-Orange/Focus",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.5
+        }
+      },
+      "contentHash": "4390567c19cee20e68e782647cb6306abedeed6f3eb4b355e4de68da46068222",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.5
+          }
+        },
+        "key": "ff6b9e4c65ea2aa9c6c926cf26260e9383667953",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.587Z",
+      "updatedAt": "2026-10-01T03:08:32.178Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774095f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:35",
+      "name": "Strokes/Entre(Coral)/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085,
+          "a": 0.2800000011920929
+        }
+      },
+      "contentHash": "81dd5dc766e06988d3a0fd0b3cecd0a3fdbd389528d9628aeeb3f707784792b5",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.41960784792900085,
+            "a": 0.2800000011920929
+          }
+        },
+        "key": "3b09e1aee7b14fc746b42295aa30e4409641dbde",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.600Z",
+      "updatedAt": "2026-10-01T03:08:32.185Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740961",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:36",
+      "name": "Strokes/Entre(Coral)/Hover",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085,
+          "a": 0.3499999940395355
+        }
+      },
+      "contentHash": "ff67a7b1b76582ab0e634b9fab997e647e294f6015031cc122b9c03b27604957",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.41960784792900085,
+            "a": 0.3499999940395355
+          }
+        },
+        "key": "d386eefee4bf9a0dfaa40b99702bf4ee04749464",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.617Z",
+      "updatedAt": "2026-10-01T03:08:32.189Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740963",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:37",
+      "name": "Strokes/Entre(Coral)/Focus",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085,
+          "a": 0.5
+        }
+      },
+      "contentHash": "a5a867d1ec42f940e20ad4a854500b45291618c153cb5fb471ade4603c4d4e05",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.41960784792900085,
+            "a": 0.5
+          }
+        },
+        "key": "8ec44b967a212ee2b9ce7e0d83483d52ed89d71b",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.632Z",
+      "updatedAt": "2026-10-01T03:08:32.192Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740965",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:42",
+      "name": "Strokes/Inno(Cyan)/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 0.2199999988079071
+        }
+      },
+      "contentHash": "b3a86fd85c8f245fa672d6878d4c64be6f712d949b346423535666448130aba7",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.2199999988079071
+          }
+        },
+        "key": "39ccf2ae7623132f89abd5a03fe7a082a6a339ee",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.657Z",
+      "updatedAt": "2026-10-01T03:08:32.199Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740967",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:43",
+      "name": "Strokes/Inno(Cyan)/Hover",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 0.30000001192092896
+        }
+      },
+      "contentHash": "dee4c47a51c1475fd05aca7decc39387ea083716c5adb1d1863ec1fd74fd83d3",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.30000001192092896
+          }
+        },
+        "key": "717f28c1ce14d5374fea4c95026cdb4c01eb05ee",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.674Z",
+      "updatedAt": "2026-10-01T03:08:32.203Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740969",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:44",
+      "name": "Strokes/Inno(Cyan)/Focus",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 0.5
+        }
+      },
+      "contentHash": "280ff3abf8b5e99d878475d41293c1295ccfd7dfc07300350091d7c8a27b8a95",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.5
+          }
+        },
+        "key": "474d59f328e9ab41bacb3d1000a2db1a5780f3df",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.694Z",
+      "updatedAt": "2026-10-01T03:08:32.209Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774096b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:49",
+      "name": "Brand/Orange",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 1
+        }
+      },
+      "contentHash": "96deb30a68630f3aaeb2f5960287ee62de0eb12f767abbd5c2b7091b4d5a2de5",
+      "normalized": {
+        "description": "Primary accent, CTA's",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 1
+          }
+        },
+        "key": "71f648842808875e4fa7b077bb3a5b6bca3e89b4",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.711Z",
+      "updatedAt": "2026-10-01T03:08:32.213Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774096d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:50",
+      "name": "Brand/Red",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.25294119119644165,
+          "b": 0.003921568859368563,
+          "a": 1
+        }
+      },
+      "contentHash": "968653d9293301610bacb9386877312f3d76b4adf7b38514c8ee3c769cbe1671",
+      "normalized": {
+        "description": "Gradient end, urgency",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.25294119119644165,
+            "b": 0.003921568859368563,
+            "a": 1
+          }
+        },
+        "key": "e76ff82c24662902f1616de19fc0b0b35e783fca",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.723Z",
+      "updatedAt": "2026-10-01T03:08:32.217Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774096f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:51",
+      "name": "Brand/Inno(Cyan)",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "contentHash": "58212f6cc796af98e8f324fc202ee3e844a4556497b490b0236edb77753a65e6",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 1
+          }
+        },
+        "key": "7ec38ff250928a6caae6ab72a20676b337f4df73",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.741Z",
+      "updatedAt": "2026-10-01T03:08:32.223Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740971",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:52",
+      "name": "Brand/Entre(Coral)",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085,
+          "a": 1
+        }
+      },
+      "contentHash": "f114907ad174b97279476b6f42f4e4f1fedb0ff479f73efa25978493b0c40857",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.41960784792900085,
+            "a": 1
+          }
+        },
+        "key": "2d034b88b86eafc8f2b0d8f67eaf45467e796035",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.757Z",
+      "updatedAt": "2026-10-01T03:08:32.227Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740973",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:53",
+      "name": "Brand/Hust(Purple)",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 1
+        }
+      },
+      "contentHash": "c2f395c3073cf9e738a9dbe72c54d4f41a4c34ef1a9111395c0cd42b64c107a5",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 1
+          }
+        },
+        "key": "3a2faaa9006dc7a6d4b5c60dd9a62c2f6730a66d",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.772Z",
+      "updatedAt": "2026-10-01T03:08:32.231Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740975",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:54",
+      "name": "Accent/Pink",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 1
+        }
+      },
+      "contentHash": "5ec3bfcfea0371c9197193a38999d48fd2dd1e4d19b1b0917b76e49b5ecd1d67",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 1
+          }
+        },
+        "key": "f44b2671212e95ba584eb8be8cf5968496665552",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.788Z",
+      "updatedAt": "2026-10-01T03:08:32.238Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740977",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:55",
+      "name": "Accent/Green",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.003921568859368563,
+          "g": 0.7490196228027344,
+          "b": 0.38823530077934265,
+          "a": 1
+        }
+      },
+      "contentHash": "20d1a67fefdbab43fe7cba4eb1b7c710ab592d04a8da66ed1eb883c57ecf2485",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.003921568859368563,
+            "g": 0.7490196228027344,
+            "b": 0.38823530077934265,
+            "a": 1
+          }
+        },
+        "key": "588e592c44b5d3838fddff7f8b40989f65515664",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.803Z",
+      "updatedAt": "2026-10-01T03:08:32.243Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740979",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.04313725605607033,
+          "a": 1
+        }
+      },
+      "contentHash": "dfa5867e059d57e94253a5a2b56eb98dc5562997187e8ff0e68e0bf439597d48",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.03921568766236305,
+            "g": 0.03921568766236305,
+            "b": 0.04313725605607033,
+            "a": 1
+          }
+        },
+        "key": "c797ab0d3956afe3e8c879fda88fab89da874ea9",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.821Z",
+      "updatedAt": "2026-10-01T03:08:32.248Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774097b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:57",
+      "name": "Backgrounds/Surface 1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.06666667014360428,
+          "g": 0.06666667014360428,
+          "b": 0.07450980693101883,
+          "a": 1
+        }
+      },
+      "contentHash": "f5a76e8710639c01da04fb5d669a7b8bcf18b536e4c2dc706e0f7e056cd1b8f0",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.06666667014360428,
+            "g": 0.06666667014360428,
+            "b": 0.07450980693101883,
+            "a": 1
+          }
+        },
+        "key": "6309d2dbf2c081cdd7e06c8efa6b30f126050418",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.838Z",
+      "updatedAt": "2026-10-01T03:08:32.252Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774097d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:58",
+      "name": "Backgrounds/Surface 2",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.10196078568696976,
+          "g": 0.10196078568696976,
+          "b": 0.10980392247438431,
+          "a": 1
+        }
+      },
+      "contentHash": "f1b3c98b98f9a98888ba7e02d329634b4fcb9e8dd1bf89c92f5bec36aa9f8b94",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.10196078568696976,
+            "g": 0.10196078568696976,
+            "b": 0.10980392247438431,
+            "a": 1
+          }
+        },
+        "key": "2c520f96e0c72271c2b9587abc1df76804281b67",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.862Z",
+      "updatedAt": "2026-10-01T03:08:32.256Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774097f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:59",
+      "name": "Backgrounds/Glass",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.03999999910593033
+        }
+      },
+      "contentHash": "4b02648badc85c6e7be44ea84005a9525af16c4947dfea8211e1dc337f00bfe9",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.03999999910593033
+          }
+        },
+        "key": "a3bd868a0869e11ce5688594000a9a64a3e2473d",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.878Z",
+      "updatedAt": "2026-10-01T03:08:32.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740981",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:60",
+      "name": "Text/Primary",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "contentHash": "56c1c4ab3d070003c8a86fda349433279b29960bbb58540e25f65569974ae5d0",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        },
+        "key": "3536712bd3a9fbe9c2f4ef2dd461093256651de2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.892Z",
+      "updatedAt": "2026-10-01T03:08:32.265Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740983",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:61",
+      "name": "Text/Secondary",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.6000000238418579
+        }
+      },
+      "contentHash": "c2af812b2e7ec436ffeefa0349dfcf529f08e9e9a9290d23f100b9ddecc7edad",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.6000000238418579
+          }
+        },
+        "key": "53372cd5de0cb6d5f5085554167ee40a16fd748c",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.925Z",
+      "updatedAt": "2026-10-01T03:08:32.268Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740985",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:62",
+      "name": "Text/Muted",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.3799999952316284
+        }
+      },
+      "contentHash": "8f9eb668c24fd68a50712f0411e372eda0f68a33a8812f27deb71f8279ed9f58",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.3799999952316284
+          }
+        },
+        "key": "a68703ffd3ed922362f3e8c57f50df27511c3e7e",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.948Z",
+      "updatedAt": "2026-10-01T03:08:32.272Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740987",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:27:63",
+      "name": "Text/Subtle",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.2199999988079071
+        }
+      },
+      "contentHash": "38d14bd31161bd6cd740ab4dbfa963820965991af8e2f8462f8c02958186d5cd",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.2199999988079071
+          }
+        },
+        "key": "dd9bd9ad9075ba9bfb10498fce41c52bb704de2a",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.961Z",
+      "updatedAt": "2026-10-01T03:08:32.279Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740989",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:8",
+      "name": "Gradients/Surface Fade-2",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.04313725605607033,
+          "a": 0
+        }
+      },
+      "contentHash": "5d8b22f69aad3d6ec49bcd57f7833cf9ef94e502a1e41b544d65f354f6fd5a7c",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.03921568766236305,
+            "g": 0.03921568766236305,
+            "b": 0.04313725605607033,
+            "a": 0
+          }
+        },
+        "key": "b7a8077efff390df9c0a9f46c813b65f416b5cd4",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.973Z",
+      "updatedAt": "2026-10-01T03:08:32.283Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774098b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:13",
+      "name": "Gradients/Entre(coral)-1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085,
+          "a": 0.11999999731779099
+        }
+      },
+      "contentHash": "7390545bfd7e948edf0656fea18d70e43d354dfa3139675093abc8563a4f252d",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 0.41960784792900085,
+            "b": 0.41960784792900085,
+            "a": 0.11999999731779099
+          }
+        },
+        "key": "f6df337762535fd8abc8d97cdfd29c5c99da5432",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:50.988Z",
+      "updatedAt": "2026-10-01T03:08:32.289Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774098d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:15",
+      "name": "Gradients/Surface Fade-1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:56"
+        }
+      },
+      "contentHash": "6d472cf04d1b8931bf5786b9bbfea05216675931a9a760e969fabff5559eecf4",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:56"
+          }
+        },
+        "key": "4dd2fc196c2c66c5d8b0b65577bbe90a5e212334",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.012Z",
+      "updatedAt": "2026-10-01T03:08:32.293Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774098f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:17",
+      "name": "Gradients/Entre(coral)-2",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.019999999552965164
+        }
+      },
+      "contentHash": "fd6ded495107e7d397b501851a15980da849efedcf70e9e9ca97ebf8f980f38a",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.019999999552965164
+          }
+        },
+        "key": "d89fa33581bc91453b65c2cb56a179d708123970",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.029Z",
+      "updatedAt": "2026-10-01T03:08:32.296Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740991",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:19",
+      "name": "Gradients/Inno(Cyan)-1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 0.10000000149011612
+        }
+      },
+      "contentHash": "d920b6e9d7dcc4676814deba6e5ade1ed209c393aeff6abdda825dee75163761",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.10000000149011612
+          }
+        },
+        "key": "aa95428d42c3abc5b7828bbece57fdfa1c40da36",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.047Z",
+      "updatedAt": "2026-10-01T03:08:32.302Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740993",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:20",
+      "name": "Gradients/Inno(Cyan)-2",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:30:17"
+        }
+      },
+      "contentHash": "5f5262fd9a695f0d08322d4e158f823d3c7d82f66a1b7b971a39620aacd9b6e0",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:30:17"
+          }
+        },
+        "key": "a27af4e807a258b76bd0007b855944dcf8373b9e",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.077Z",
+      "updatedAt": "2026-10-01T03:08:32.307Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740995",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:21",
+      "name": "Gradients/Hust(Purple)-1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 0.14000000059604645
+        }
+      },
+      "contentHash": "10d3a42849e4b4bf47fe479c97a93f2e7ef0a0aedac9292c3d1fe14cc45f8e2c",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.14000000059604645
+          }
+        },
+        "key": "58d3a5e1edafc5967cda4ee3b3e31761524c6ba6",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.094Z",
+      "updatedAt": "2026-10-01T03:08:32.312Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740997",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:30:22",
+      "name": "Gradients/Hust(Purple)-2",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:30:17"
+        }
+      },
+      "contentHash": "db12481c42864e8deea1c90fc001a6e70e57929c50d94979f0cb485f968de7cc",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:30:17"
+          }
+        },
+        "key": "8a068b88632c1287960beb588698fcfbf17bb14e",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.107Z",
+      "updatedAt": "2026-10-01T03:08:32.316Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e27740999",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:11",
+      "name": "xxs",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 4
+      },
+      "contentHash": "1e394e28353966b48cd8db19c1bf810800bbcd93c29c1e2acd9e0e93abaf889b",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 4
+        },
+        "key": "b3223172b64df497553a277d20a50a02cfcbd159",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.124Z",
+      "updatedAt": "2026-10-01T03:08:32.319Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774099b",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:12",
+      "name": "xs",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 8
+      },
+      "contentHash": "0be7a00796e15790d086f69f46d3863d5c3b57072c7613f2ce09b025bec1fe72",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 8
+        },
+        "key": "454ac468e7c00028be14936191e59c96c6d4e042",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.138Z",
+      "updatedAt": "2026-10-01T03:08:32.322Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774099d",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 16
+      },
+      "contentHash": "16121e8adb084a2d9e1c34518429cac2f0be7df0ec642f46566789ecd7134b30",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 16
+        },
+        "key": "b69dfabe98dd98dc93fde8f1dafc0fac304d6dd2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.155Z",
+      "updatedAt": "2026-10-01T03:08:32.325Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e2774099f",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 24
+      },
+      "contentHash": "5c28b860d409ab6c4be140ef51fc996d9af7339272e1914141660131c676ddc4",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 24
+        },
+        "key": "0182fc348d230709229d44ccf8de63cd5e4780b7",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.173Z",
+      "updatedAt": "2026-10-01T03:08:32.331Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409a1",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:15",
+      "name": "xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 32
+      },
+      "contentHash": "a989c42e6ee1fc65de90e15bc618639dde6132d7950d19f55d62b833d6ec075c",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 32
+        },
+        "key": "60934ae4deb5997267b0f0c34027262d5f82c846",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.185Z",
+      "updatedAt": "2026-10-01T03:08:32.334Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409a3",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:16",
+      "name": "2xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 48
+      },
+      "contentHash": "3f36b68914e08f0607434a3742f2239414f1c401755d36fd8fe6f46cd077a7e4",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 48
+        },
+        "key": "e498896882bba36e5aa82607e9b9a1fbf52053d2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.204Z",
+      "updatedAt": "2026-10-01T03:08:32.338Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409a5",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:17",
+      "name": "3xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 64
+      },
+      "contentHash": "2a4d909f9121ef79b70e1cf21a7ad8be9b0f3bd9d35cfeb37f2974a8d8b34e59",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 64
+        },
+        "key": "c49a448cbe5ff2644ae0580ad0efe91a26f91648",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.219Z",
+      "updatedAt": "2026-10-01T03:08:32.344Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409a7",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:18",
+      "name": "4xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 96
+      },
+      "contentHash": "9f987b00cb7f9ae1163d283a8767a24cb1a4af0dd2636a651d943c5b866bb480",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 96
+        },
+        "key": "1dfaf606de7e061e4e81cdcaef099df4ebeeece8",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.235Z",
+      "updatedAt": "2026-10-01T03:08:32.348Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409a9",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:33:19",
+      "name": "5xl",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 112
+      },
+      "contentHash": "ca6df423d86b00bf5b5d812f0e06239afd47c789af61c129498e8124d78fe826",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 112
+        },
+        "key": "9f5e554f242cfcc89d744494279f3853bef89de0",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.251Z",
+      "updatedAt": "2026-10-01T03:08:32.353Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409ab",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:34:3",
+      "name": "Family/Display",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "Space Grotesk"
+      },
+      "contentHash": "d9074fe1aa4c3cb051ae0f7c141ef5df4eeb0fe1e45e84ac76900e5ae8527564",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_FAMILY"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "Space Grotesk"
+        },
+        "key": "d17220cdead7c62f982654f9dcd7ffc447e0c7bc",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.266Z",
+      "updatedAt": "2026-10-01T03:08:32.357Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409ad",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:34:5",
+      "name": "Family/Body",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "Poppins"
+      },
+      "contentHash": "5bf1c5b5e9ce773fa6fe63e695a038bd973677952fdba635c94797180aa79abf",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_FAMILY"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "Poppins"
+        },
+        "key": "e12bcf9da8b5f90206d3e0dae4da2271334b25f0",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.278Z",
+      "updatedAt": "2026-10-01T03:08:32.359Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409af",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:56:347",
+      "name": "Fill/Neutral/Frost",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.07999999821186066
+        }
+      },
+      "contentHash": "bd6610ed2ceee7dadd47267a9a3c8d319ab948a1723897f6de6eba09b2325b26",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.07999999821186066
+          }
+        },
+        "key": "e86b313d9722f5ef6e6726476ff56cf43b2d6e26",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.293Z",
+      "updatedAt": "2026-10-01T03:08:32.362Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409b1",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:63:162",
+      "name": "radius-xs",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "27:4": 4
+      },
+      "contentHash": "3887795547d27e93ff30c76a53ac094b3a3ca6e05cc2085a63199e9e306b96b9",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "CORNER_RADIUS"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:27:10",
+        "collectionId": "VariableCollectionId:27:10",
+        "valuesByMode": {
+          "27:4": 4
+        },
+        "key": "b330f8a286a312a7a69fb7168e17ca2e8b159754",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.306Z",
+      "updatedAt": "2026-10-01T03:08:32.366Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409b3",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:85",
+      "name": "Font Weight/Regular",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "Regular"
+      },
+      "contentHash": "58f87661d144919a3ee5d81b2df0faa85e4440fb4b943b5cf1ba83d1f971be18",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_STYLE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "Regular"
+        },
+        "key": "8b28fb402b3c5baa87c9ed9e1a164bb29f5316d6",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.318Z",
+      "updatedAt": "2026-10-01T03:08:32.370Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409b5",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:86",
+      "name": "Font Weight/SemiBold",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "SemiBold"
+      },
+      "contentHash": "1f0d8e0a57f6c2b36bf7b1fcc7541b9451e2efb2b53243d5f806c941d2e54576",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_STYLE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "SemiBold"
+        },
+        "key": "8b40af40fb778fe75e6d2a648b9c362c06c831d4",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.333Z",
+      "updatedAt": "2026-10-01T03:08:32.376Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409b7",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:88",
+      "name": "Font Weight/Bold",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "Bold"
+      },
+      "contentHash": "978ef6e521ae4ec41389c13d33326d17da8c4ab3669771786bc80e7d8942ef20",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_STYLE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "Bold"
+        },
+        "key": "06fe435e4ee2df64ac087d339ad8f8580e2ec65a",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.345Z",
+      "updatedAt": "2026-10-01T03:08:32.381Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409b9",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:92",
+      "name": "Font Size/Micro",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 11
+      },
+      "contentHash": "950415be50330c672e82497443e8f63043f6f3b27afe88c8d987d09ddde4550d",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 11
+        },
+        "key": "efb6ca6e08d330f56165d63cab30b07fd7fde51a",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.360Z",
+      "updatedAt": "2026-10-01T03:08:32.384Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409bb",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:93",
+      "name": "Font Size/Label",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 12
+      },
+      "contentHash": "8f643df5bff8651ee87419acaa6f5d228a5afe5687482cb28488e0c2e9a4ba7a",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 12
+        },
+        "key": "add78fff516511489068d75103a5586f9d675e38",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.378Z",
+      "updatedAt": "2026-10-01T03:08:32.388Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409bd",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:94",
+      "name": "Font Size/Body S",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 14
+      },
+      "contentHash": "bf4e7e6962a61de741a3a8be1da836db53d977928fb8e5a96b8d468fc43e0182",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 14
+        },
+        "key": "f16690a29a1526b12ca422f993dd37eb1d36dc34",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.396Z",
+      "updatedAt": "2026-10-01T03:08:32.392Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409bf",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:95",
+      "name": "Font Size/Body",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 16
+      },
+      "contentHash": "ebaf8017f6d1a2f51fa954affc8908def75945224a7d303dbbe02a97c2bb3d94",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 16
+        },
+        "key": "b076d9bf7aa00ee778f5501797581fac3741be7b",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.412Z",
+      "updatedAt": "2026-10-01T03:08:32.396Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409c1",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:96",
+      "name": "Font Size/Body L",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 18
+      },
+      "contentHash": "f79988e8b31abc5ed9f43de8da9a06aa00c5970e6cd5db8986c3c1c020fce876",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 18
+        },
+        "key": "fee9c507bbba06f947e9ab6054944043bfd09092",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.428Z",
+      "updatedAt": "2026-10-01T03:08:32.399Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409c3",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:97",
+      "name": "Font Size/H6",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 16
+      },
+      "contentHash": "33a66d5c8cfadb84344d92fddca1bcc00a9488ec6944aae280cf19e9547ff389",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 16
+        },
+        "key": "1f419ad68838eb8cb08c79cf6b2cefde9e4cdff5",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.442Z",
+      "updatedAt": "2026-10-01T03:08:32.402Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409c5",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:98",
+      "name": "Font Size/H4",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 24
+      },
+      "contentHash": "7fd4a23010226a191ea11803a97dd5bf8f488503244dc66ef8451fe991e2aedc",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 24
+        },
+        "key": "468371ed82646e4ecbf830bcc609e88b0a342bee",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.454Z",
+      "updatedAt": "2026-10-01T03:08:32.405Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409c7",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:99",
+      "name": "Font Size/H2",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 48
+      },
+      "contentHash": "e0d52347f0c1a6a6c0e78e9c29ecd349bae13997b795008774bb131efbe92d7a",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 48
+        },
+        "key": "1f8d6fd5a963194bac6a8654dd3804cb3d595632",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.468Z",
+      "updatedAt": "2026-10-01T03:08:32.411Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409c9",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:66:100",
+      "name": "Font Size/H1",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 64
+      },
+      "contentHash": "cc2db82375f9ee9c6936c4caac18b797f00144c0910535c8415ed69a10d6971c",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 64
+        },
+        "key": "9fc43b49b0c17d276a70a7ea523da87e0b422b88",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.486Z",
+      "updatedAt": "2026-10-01T03:08:32.415Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409cb",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:68:2",
+      "name": "Font Size/Display",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 88
+      },
+      "contentHash": "9b39d76f513b044b20a8d0efe73de470d68f47559e1b3b0221b6f466076a6ede",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 88
+        },
+        "key": "be07c3a24a91c76a7f2d2cdfbebb166400564c13",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.522Z",
+      "updatedAt": "2026-10-01T03:08:32.417Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409cd",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:68:7",
+      "name": "Fill/Neutral/Light",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.029999999329447746
+        }
+      },
+      "contentHash": "eb450dee83c6fe668a679febeac640962041c5088cbde750b813bc9a05fc8054",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.029999999329447746
+          }
+        },
+        "key": "6ff8073edb55850fa9e9b1938b4a55dd6efc2155",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.539Z",
+      "updatedAt": "2026-10-01T03:08:32.422Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409cf",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:79:48",
+      "name": "sm",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "33:1": 12
+      },
+      "contentHash": "c09e6b803ba894ea983f20c16d80ebff92e76eb766ad6d69442f886a97506462",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "GAP"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:33:10",
+        "collectionId": "VariableCollectionId:33:10",
+        "valuesByMode": {
+          "33:1": 12
+        },
+        "key": "842477a8615ee49251b3ae75f307c334f4cb0a5b",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.554Z",
+      "updatedAt": "2026-10-01T03:08:32.425Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409d1",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:79:102",
+      "name": "Fill/Neutral/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 0.05000000074505806
+        }
+      },
+      "contentHash": "d4302610e54eeaa5ada29bf337e15fc12bcf4038a51545af8424c35061a34436",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.05000000074505806
+          }
+        },
+        "key": "e690683d69a66b6ffa3b42b6257f01632bf730cd",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.574Z",
+      "updatedAt": "2026-10-01T03:08:32.428Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409d3",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:128:212",
+      "name": "Font Weight/Medium",
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "34:0": "Medium"
+      },
+      "contentHash": "ebe841407f3200f7e418c555f854bc931689d601f295dc7a5c9010001d59eac6",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_STYLE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": "Medium"
+        },
+        "key": "c37d9839e7cd004ea53daecb70cc5d8b306a9e8f",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.589Z",
+      "updatedAt": "2026-10-01T03:08:32.431Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409d5",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:128:759",
+      "name": "Strokes/Hust(Purple)/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 0.2199999988079071
+        }
+      },
+      "contentHash": "0981a4d6ad7bf35a0cc66de59d3531b39d30668bc989cd749e0b6cf373e2a20a",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.2199999988079071
+          }
+        },
+        "key": "c7f9de2b88f2f95062d130eab4de2e40de1354d9",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.608Z",
+      "updatedAt": "2026-10-01T03:08:32.435Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409d7",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:128:760",
+      "name": "Strokes/Hust(Purple)/Hover",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 0.30000001192092896
+        }
+      },
+      "contentHash": "68177637749a42c7ced9a982a8c783172e6bd54337b5d8c4198022004e0d3b47",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.30000001192092896
+          }
+        },
+        "key": "1871fa136fd58eb2d76a50f32edbef8f822496e5",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.628Z",
+      "updatedAt": "2026-10-01T03:08:32.438Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409d9",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:128:761",
+      "name": "Strokes/Hust(Purple)/Focus",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 0.5
+        }
+      },
+      "contentHash": "15ed38314a1fab16b23b8da20e068d0d03416b67ce630ea32aacf196795594d5",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.5
+          }
+        },
+        "key": "c7fe177d54f038f60996cc9bc7e34ea1709597bd",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.646Z",
+      "updatedAt": "2026-10-01T03:08:32.441Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409db",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:159:1437",
+      "name": "Strokes/Accent Pink/Default",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 0.2800000011920929
+        }
+      },
+      "contentHash": "4e2bc6adddbb97aff338e7aacf235b3c7710c1bbd6707f696b78539875c0a76c",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 0.2800000011920929
+          }
+        },
+        "key": "561a5a34612b1ea1342e0c4a197952455e655345",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.659Z",
+      "updatedAt": "2026-10-01T03:08:32.447Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409dd",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:159:1438",
+      "name": "Strokes/Accent Pink/Hover",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 0.3499999940395355
+        }
+      },
+      "contentHash": "db0cf46e5d8fb499d1cf389705884bd29b035cd6c2e5d7b09fdfa2e9a148affc",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 0.3499999940395355
+          }
+        },
+        "key": "78dc9a91eb2fe3bc8ad26f991cd5a1514dda0955",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.697Z",
+      "updatedAt": "2026-10-01T03:08:32.450Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409df",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:159:1439",
+      "name": "Strokes/Accent Pink/Focus",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 0.5
+        }
+      },
+      "contentHash": "c401f72930d995a6aa9383d756916fd88806dcdbeb1e68259211168f5fe90051",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 0.5
+          }
+        },
+        "key": "b38c92bb0756fccfd60135497407001253429db2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.718Z",
+      "updatedAt": "2026-10-01T03:08:32.453Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409e1",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:163:321",
+      "name": "Fill/Brand",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231,
+          "a": 0.07999999821186066
+        }
+      },
+      "contentHash": "5d6e66326e81fa03e0d5b9886ee5383f0ca88b1bc18bc21d32c9345654801359",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.07999999821186066
+          }
+        },
+        "key": "2680b961174d3ddaa9845429725baec5e2ef823b",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.824Z",
+      "updatedAt": "2026-10-01T03:08:32.456Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409e3",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:170:1682",
+      "name": "Fill/Accent",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 0.07999999821186066
+        }
+      },
+      "contentHash": "8393bd5f65006a728e1a113c4df6dda79e57a172f82b9753ef32435b13a006d9",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 0.07999999821186066
+          }
+        },
+        "key": "ce0eafe4e4e31e8f6a986b24e8e16d2d722990d2",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.841Z",
+      "updatedAt": "2026-10-01T03:08:32.458Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409e5",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:207:819",
+      "name": "Fill/Purple",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418,
+          "a": 0.09000000357627869
+        }
+      },
+      "contentHash": "c74472f70c5f455dc6612e4dbc8c1c7875fba44e8f877e34005050240af5614e",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.09000000357627869
+          }
+        },
+        "key": "25fe4affb61ae3b439e6fd3d150a4be9e042d415",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.863Z",
+      "updatedAt": "2026-10-01T03:08:32.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409e7",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:207:820",
+      "name": "Fill/Cyan",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1,
+          "a": 0.07000000029802322
+        }
+      },
+      "contentHash": "00c6c725543d9143d7199dfd04b71a26ac2c78c21456e722d64380421d89ad36",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.07000000029802322
+          }
+        },
+        "key": "9788b11c587f65afa6657c91892c2fc270498f28",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.879Z",
+      "updatedAt": "2026-10-01T03:08:32.466Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409e9",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:207:838",
+      "name": "Gradients/Accent(Pink)-1",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.95686274766922,
+          "g": 0.4470588266849518,
+          "b": 0.7137255072593689,
+          "a": 0.14000000059604645
+        }
+      },
+      "contentHash": "c4c4d24f103dc0e476c83efd79e2a3d90c903f64be4b6cf07f4c52667e658352",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.95686274766922,
+            "g": 0.4470588266849518,
+            "b": 0.7137255072593689,
+            "a": 0.14000000059604645
+          }
+        },
+        "key": "be3252bf1e76b5c7722e535dfd12eecb617c541c",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.896Z",
+      "updatedAt": "2026-10-01T03:08:32.469Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409eb",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:265:1752",
+      "name": "Font Size/H3",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 32
+      },
+      "contentHash": "3746f904b519f4446b3f39ea420cd2919388f18a3f3cabd3565a88adb7906878",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 32
+        },
+        "key": "764f116ee3818d87e694dc575fb68077ce3ef57b",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.913Z",
+      "updatedAt": "2026-10-01T03:08:32.471Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409ed",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:265:1754",
+      "name": "Font Size/H5",
+      "resolvedType": "FLOAT",
+      "valuesByMode": {
+        "34:0": 18
+      },
+      "contentHash": "1da4a5fa87e45891b3b826632e7ce1bf988b2771e5fca06b84fad07467f1bf5a",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "FONT_SIZE"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:34:2",
+        "collectionId": "VariableCollectionId:34:2",
+        "valuesByMode": {
+          "34:0": 18
+        },
+        "key": "0dc35269ebfb862504b781e221b003f397ca38c4",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.927Z",
+      "updatedAt": "2026-10-01T03:08:32.478Z",
+      "__v": 0
+    },
+    {
+      "_id": "6abdce5ea6406f3e277409ef",
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "variableId": "VariableID:523:715",
+      "name": "Accent/Red Dark",
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "11:0": {
+          "r": 0.6943108439445496,
+          "g": 0.1760224848985672,
+          "b": 0,
+          "a": 1
+        }
+      },
+      "contentHash": "d9793a4e8bd206ee8c5e2003aed0d11a02ff23fda222c44efbfcf0584db57d31",
+      "normalized": {
+        "description": "",
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "remote": false,
+        "hiddenFromPublishing": false,
+        "variableCollectionId": "VariableCollectionId:11:217",
+        "collectionId": "VariableCollectionId:11:217",
+        "valuesByMode": {
+          "11:0": {
+            "r": 0.6943108439445496,
+            "g": 0.1760224848985672,
+            "b": 0,
+            "a": 1
+          }
+        },
+        "key": "eafc6c77acbc0d179cd7d27c0f46393ecbea5b32",
+        "codeSyntax": {}
+      },
+      "createdAt": "2026-10-01T02:35:51.942Z",
+      "updatedAt": "2026-10-01T03:08:32.480Z",
+      "__v": 0
+    }
+  ],
+  "boundVariableNodeCount": 7836,
+  "variablesCapability": {
+    "capability": "variables",
+    "status": "invalid_scope",
+    "scope": "file_variables:read",
+    "message": "Invalid scope(s): current_user:read, file_comments:read, file_comments:write, file_content:read, file_metadata:read, file_versions:read, library_assets:read, library_content:read, team_library_content:read, file_dev_resources:read, file_dev_resources:write, private_sandbox:connect, webhooks:read, webhooks:write, folders:read. This endpoint requires the file_variables:read scope",
+    "reason": "Current Figma token lacks file_variables:read scope",
+    "checkedAt": "2026-10-01T02:54:21.216Z",
+    "httpStatus": 403,
+    "endpoint": "/v1/files/:file_key/variables/local",
+    "publishedEndpoint": "/v1/files/:file_key/variables/published",
+    "publishedHttpStatus": 403,
+    "publishedStatus": "invalid_scope",
+    "requiredScopes": [
+      "file_variables:read"
+    ],
+    "presentScopes": [
+      "current_user:read",
+      "file_comments:read",
+      "file_comments:write",
+      "file_content:read",
+      "file_metadata:read",
+      "file_versions:read",
+      "library_assets:read",
+      "library_content:read",
+      "team_library_content:read",
+      "file_dev_resources:read",
+      "file_dev_resources:write",
+      "private_sandbox:connect",
+      "webhooks:read",
+      "webhooks:write",
+      "folders:read"
+    ],
+    "absentScopes": [
+      "file_variables:read"
+    ],
+    "scopePresent": false,
+    "planNote": "Variables REST API GET endpoints also require Enterprise plan, a Full seat, and View access to the file. Adding the scope alone does not guarantee access.",
+    "boundVariableNodeCount": 7836,
+    "boundVariableReferenceCount": 7836,
+    "definitionCount": 0
+  }
+}

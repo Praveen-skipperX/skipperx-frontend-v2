@@ -1,0 +1,482 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:7764",
+    "name": "Section",
+    "type": "FRAME",
+    "parentId": "1662:7763",
+    "pageId": "612:2880",
+    "depth": 3,
+    "path": "Mobile / Career Paths Mobile / CP 8 / Section",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      },
+      {
+        "id": "1662:7763",
+        "name": "CP 8",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 417
+      }
+    ],
+    "self": {
+      "id": "1662:7764",
+      "name": "Section",
+      "type": "FRAME",
+      "parentId": "1662:7763",
+      "pageId": "612:2880",
+      "depth": 3,
+      "x": 16,
+      "y": 24,
+      "width": 380,
+      "height": 369,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1662:7765",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7764",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 379,
+        "height": 368,
+        "childCount": 0
+      },
+      {
+        "id": "1662:7766",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7764",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 378,
+        "height": 284,
+        "childCount": 4
+      }
+    ]
+  },
+  "layout": {
+    "x": 16,
+    "y": 24,
+    "width": 380,
+    "height": 369,
+    "rotation": 0,
+    "layoutMode": "NONE",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0.800000011920929,
+      "right": 0.800000011920929,
+      "bottom": 0.800000011920929,
+      "left": 0.800000011920929
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "FIXED",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 20,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "property": "fills[0]",
+      "resolved": {
+        "source": "UNKNOWN"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:27:15",
+      "name": "radius-xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modes": [
+        {
+          "modeId": "27:4",
+          "name": "Mode 1",
+          "value": 20
+        }
+      ],
+      "scopes": [
+        "CORNER_RADIUS"
+      ]
+    },
+    {
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modes": [
+        {
+          "modeId": "20:4",
+          "name": "Mode 1",
+          "value": 1
+        }
+      ],
+      "scopes": [
+        "STROKE_FLOAT"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:18",
+      "name": "Strokes/Brand-Orange/Soft",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#FE832433"
+        }
+      ],
+      "scopes": [
+        "STROKE_COLOR"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:12",
+      "name": "xs",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 8
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:7764",
+      "property": "topLeftRadius",
+      "variableId": "VariableID:27:15",
+      "variableName": "radius-xl",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modeId": "27:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 20,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "topRightRadius",
+      "variableId": "VariableID:27:15",
+      "variableName": "radius-xl",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modeId": "27:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 20,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "bottomLeftRadius",
+      "variableId": "VariableID:27:15",
+      "variableName": "radius-xl",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modeId": "27:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 20,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "bottomRightRadius",
+      "variableId": "VariableID:27:15",
+      "variableName": "radius-xl",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modeId": "27:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 20,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "strokeTopWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "strokeBottomWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "strokeLeftWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "strokeRightWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:7764",
+      "property": "strokes",
+      "variableId": "VariableID:27:18",
+      "variableName": "Strokes/Brand-Orange/Soft",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#FE832433",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [
+    {
+      "type": "GRADIENT_LINEAR",
+      "gradientStops": [
+        {
+          "color": {
+            "r": 0.9960784316062927,
+            "g": 0.5137255191802979,
+            "b": 0.1411764770746231,
+            "a": 0.07999999821186066
+          },
+          "position": 0,
+          "boundVariables": {}
+        },
+        {
+          "color": {
+            "r": 0.658823549747467,
+            "g": 0.3333333432674408,
+            "b": 0.9686274528503418,
+            "a": 0.05999999865889549
+          },
+          "position": 0.5,
+          "boundVariables": {}
+        },
+        {
+          "color": {
+            "r": 0,
+            "g": 0.8313725590705872,
+            "b": 1,
+            "a": 0.05999999865889549
+          },
+          "position": 1,
+          "boundVariables": {}
+        }
+      ],
+      "status": "AVAILABLE"
+    }
+  ],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:7765",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 379,
+        "height": 368
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7765",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7765",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7765",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7765",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7766",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 378,
+        "height": 284
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7766",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:12",
+          "variableName": "xs",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 8,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7766",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7766",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7766",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:7766",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:7764",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Section (FRAME)\nSize: 380 × 369\nVariable bindings:\n  topLeftRadius → radius-xl [Border Radius / Mode 1] = 20\n  topRightRadius → radius-xl [Border Radius / Mode 1] = 20\n  bottomLeftRadius → radius-xl [Border Radius / Mode 1] = 20\n  bottomRightRadius → radius-xl [Border Radius / Mode 1] = 20\n  strokeTopWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeBottomWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeLeftWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeRightWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokes → Strokes/Brand-Orange/Soft [Color / Mode 1] = \"#FE832433\"\nChildren (2):\n  - Container (FRAME)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

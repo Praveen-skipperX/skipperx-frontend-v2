@@ -1,0 +1,313 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:8016",
+    "name": "Container",
+    "type": "FRAME",
+    "parentId": "1662:7992",
+    "pageId": "612:2880",
+    "depth": 4,
+    "path": "Mobile / Career Paths Mobile / CP 1 / Container / Container",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      },
+      {
+        "id": "1662:7991",
+        "name": "CP 1",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 660
+      },
+      {
+        "id": "1662:7992",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:7991",
+        "pageId": "612:2880",
+        "depth": 3,
+        "width": 380,
+        "height": 612
+      }
+    ],
+    "self": {
+      "id": "1662:8016",
+      "name": "Container",
+      "type": "FRAME",
+      "parentId": "1662:7992",
+      "pageId": "612:2880",
+      "depth": 4,
+      "x": 0,
+      "y": 416,
+      "width": 380,
+      "height": 196,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1662:8018",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8016",
+        "pageId": "612:2880",
+        "depth": 5,
+        "width": 379,
+        "height": 195,
+        "childCount": 0
+      },
+      {
+        "id": "1662:8017",
+        "name": "ImageWithFallback",
+        "type": "FRAME",
+        "parentId": "1662:8016",
+        "pageId": "612:2880",
+        "depth": 5,
+        "width": 379,
+        "height": 195,
+        "childCount": 0
+      }
+    ]
+  },
+  "layout": {
+    "x": 0,
+    "y": 416,
+    "width": 380,
+    "height": 196,
+    "rotation": 0,
+    "layoutMode": "NONE",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0.800000011920929,
+      "right": 0.800000011920929,
+      "bottom": 0.800000011920929,
+      "left": 0.800000011920929
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "FIXED",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 16,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#FFFFFF",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#FFFFFF",
+        "source": "DIRECT"
+      }
+    }
+  ],
+  "variables": [],
+  "variableBindings": [
+    {
+      "nodeId": "1662:8016",
+      "property": "strokeTopWeight",
+      "variableId": "VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:8016",
+      "property": "strokeBottomWeight",
+      "variableId": "VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:8016",
+      "property": "strokeLeftWeight",
+      "variableId": "VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:8016",
+      "property": "strokeRightWeight",
+      "variableId": "VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    },
+    {
+      "nodeId": "1662:8016",
+      "property": "strokes",
+      "variableId": "VariableID:4f38ae19be6f3fb8b0ab2b303848e32f0b0b51bb/13:1397",
+      "definitionAvailable": false,
+      "status": "NOT_CACHED"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [
+    {
+      "type": "DROP_SHADOW",
+      "visible": true,
+      "radius": 48,
+      "boundVariables": {},
+      "color": {
+        "r": 0.9960784316062927,
+        "g": 0.5137255191802979,
+        "b": 0.1411764770746231,
+        "a": 0.11999999731779099
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "spread": 0,
+      "blendMode": "NORMAL",
+      "showShadowBehindNode": false
+    }
+  ],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:8017",
+      "name": "ImageWithFallback",
+      "type": "FRAME",
+      "layout": {
+        "width": 379,
+        "height": 195
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8017",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8017",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8017",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8017",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8018",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 379,
+        "height": 195
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8018",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8018",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8018",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1662:8018",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:8016",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Container (FRAME)\nSize: 380 × 196\nVariable bindings:\n  strokeTopWeight → VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155 (NOT_CACHED)\n  strokeBottomWeight → VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155 (NOT_CACHED)\n  strokeLeftWeight → VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155 (NOT_CACHED)\n  strokeRightWeight → VariableID:0bd51aaf96f8bc4019057880143ddd6d9ccda151/13:155 (NOT_CACHED)\n  strokes → VariableID:4f38ae19be6f3fb8b0ab2b303848e32f0b0b51bb/13:1397 (NOT_CACHED)\nChildren (2):\n  - ImageWithFallback (FRAME)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

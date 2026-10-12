@@ -1,0 +1,937 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:7762",
+    "name": "Career Paths Mobile",
+    "type": "FRAME",
+    "parentId": "612:2880",
+    "pageId": "612:2880",
+    "depth": 1,
+    "path": "Mobile / Career Paths Mobile",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [],
+    "self": {
+      "id": "1662:7762",
+      "name": "Career Paths Mobile",
+      "type": "FRAME",
+      "parentId": "612:2880",
+      "pageId": "612:2880",
+      "depth": 1,
+      "x": 1141,
+      "y": 13733,
+      "width": 413,
+      "height": 7350,
+      "childCount": 10
+    },
+    "children": [
+      {
+        "id": "1662:7991",
+        "name": "CP 1",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 660,
+        "childCount": 1
+      },
+      {
+        "id": "1662:8019",
+        "name": "CP 2",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 930.4801025390625,
+        "childCount": 2
+      },
+      {
+        "id": "1662:7964",
+        "name": "CP 3",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 306,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7955",
+        "name": "CP 4",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 215,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7814",
+        "name": "CP 5",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 1663,
+        "childCount": 1
+      },
+      {
+        "id": "1662:8103",
+        "name": "CP 6",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 1835,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7775",
+        "name": "CP 7",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 1189,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7763",
+        "name": "CP 8",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 417,
+        "childCount": 1
+      },
+      {
+        "id": "1662:7988",
+        "name": "Nav+Ticker",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 90,
+        "childCount": 2
+      },
+      {
+        "id": "1662:7987",
+        "name": "Status Bar",
+        "type": "INSTANCE",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 413,
+        "height": 48,
+        "childCount": 4
+      }
+    ]
+  },
+  "layout": {
+    "x": 1141,
+    "y": 13733,
+    "width": 413,
+    "height": 7350,
+    "rotation": 0,
+    "layoutMode": "NONE",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": false,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:15",
+      "name": "xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 32
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:7763",
+      "name": "CP 8",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 417
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7763",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7763",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7763",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7763",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7763",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7775",
+      "name": "CP 7",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 1189
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7775",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7775",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7775",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7775",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7775",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7814",
+      "name": "CP 5",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 1663
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7814",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7814",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7814",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7814",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7814",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7955",
+      "name": "CP 4",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 215
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7955",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7955",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7955",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7955",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7955",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7964",
+      "name": "CP 3",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 306
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7964",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7964",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7964",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7964",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7964",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:7987",
+      "name": "Status Bar",
+      "type": "INSTANCE",
+      "layout": {
+        "width": 413,
+        "height": 48
+      },
+      "variableBindings": []
+    },
+    {
+      "nodeId": "1662:7988",
+      "name": "Nav+Ticker",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 90
+      },
+      "variableBindings": []
+    },
+    {
+      "nodeId": "1662:7991",
+      "name": "CP 1",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 660
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:7991",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7991",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7991",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7991",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:7991",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8019",
+      "name": "CP 2",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 930.4801025390625
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8019",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8019",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8019",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8019",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8019",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8019",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8103",
+      "name": "CP 6",
+      "type": "FRAME",
+      "layout": {
+        "width": 412,
+        "height": 1835
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8103",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8103",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8103",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8103",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8103",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:7762",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Career Paths Mobile (FRAME)\nSize: 413 × 7350\nChildren (10):\n  - CP 8 (FRAME)\n  - CP 7 (FRAME)\n  - CP 5 (FRAME)\n  - CP 4 (FRAME)\n  - CP 3 (FRAME)\n  - Status Bar (INSTANCE)\n  - Nav+Ticker (FRAME)\n  - CP 1 (FRAME)\n  - CP 2 (FRAME)\n  - CP 6 (FRAME)\nScreenshot: NOT_CACHED"
+}

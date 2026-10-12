@@ -1,0 +1,253 @@
+{
+  "cacheFirst": true,
+  "note": "Compact raw node from Mongo. Full document tree is in raw snapshot file.json.gz.",
+  "nodeId": "1662:7782",
+  "name": "The world doesn't reward the prepared. It rewards the capable.",
+  "type": "TEXT",
+  "raw": {
+    "id": "1662:7782",
+    "name": "The world doesn't reward the prepared. It rewards the capable.",
+    "type": "TEXT",
+    "parentId": "1662:7781",
+    "pageId": "612:2880",
+    "depth": 8,
+    "path": "Mobile / Career Paths Mobile / CP 7 / Container / Container / Section Content / Container / Title / The world doesn't reward the prepared. It rewards the capable.",
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "x": 0,
+    "y": 0,
+    "width": 380,
+    "height": 123,
+    "rotation": 0,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutGrow": 1,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeCap": "NONE",
+    "strokeJoin": "MITER",
+    "dashPattern": [],
+    "effects": [],
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "characters": "The world doesn't reward the prepared.\nIt rewards the capable.",
+    "fontSize": 32,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "fontWeight": 700,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "paragraphIndent": 0,
+    "paragraphSpacing": 0,
+    "textAlignHorizontal": "LEFT",
+    "textAlignVertical": "TOP",
+    "textAutoResize": "HEIGHT",
+    "textTruncation": "DISABLED",
+    "maxLines": null,
+    "hyperlink": null,
+    "textStyleId": "S:026281db2156926960393e02c421db5524c2f2da,",
+    "strokeStyleId": "",
+    "effectStyleId": "",
+    "openTypeFeatures": {},
+    "componentPropertyReferences": null,
+    "reactions": [],
+    "exportSettings": [],
+    "boundVariables": {
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41"
+        }
+      ],
+      "fontSize": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:265:1752"
+        }
+      ],
+      "fontStyle": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:66:88"
+        }
+      ],
+      "fontFamily": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:34:3"
+        }
+      ],
+      "textRangeFills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:49"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:50"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:51"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:52"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:53"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:60"
+        }
+      ]
+    },
+    "absoluteBoundingBox": {
+      "x": 1157,
+      "y": 19526,
+      "width": 380,
+      "height": 123
+    },
+    "absoluteRenderBounds": {
+      "x": 1157.7679443359375,
+      "y": 19535.15234375,
+      "width": 354.0087890625,
+      "height": 111.248046875
+    },
+    "annotations": [],
+    "size": {
+      "width": 380,
+      "height": 123
+    },
+    "childCount": null
+  },
+  "normalized": {
+    "width": 380,
+    "height": 123,
+    "boundVariables": {
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41"
+        }
+      ],
+      "fontSize": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:265:1752"
+        }
+      ],
+      "fontStyle": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:66:88"
+        }
+      ],
+      "fontFamily": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:34:3"
+        }
+      ],
+      "textRangeFills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:49"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:50"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:51"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:52"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:53"
+        },
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:60"
+        }
+      ]
+    },
+    "boundVariableIds": [
+      "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41",
+      "VariableID:265:1752",
+      "VariableID:66:88",
+      "VariableID:34:3",
+      "VariableID:27:49",
+      "VariableID:27:50",
+      "VariableID:27:51",
+      "VariableID:27:52",
+      "VariableID:27:53",
+      "VariableID:27:60"
+    ],
+    "styles": null,
+    "typography": null
+  },
+  "boundVariableIds": [
+    "VariableID:0e7fbcabbe8d3fbcdcdebdcf6f7d83a9009f93de/11:41",
+    "VariableID:265:1752",
+    "VariableID:66:88",
+    "VariableID:34:3",
+    "VariableID:27:49",
+    "VariableID:27:50",
+    "VariableID:27:51",
+    "VariableID:27:52",
+    "VariableID:27:53",
+    "VariableID:27:60"
+  ]
+}

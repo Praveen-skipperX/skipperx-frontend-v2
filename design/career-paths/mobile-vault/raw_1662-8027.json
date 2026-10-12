@@ -1,0 +1,169 @@
+{
+  "cacheFirst": true,
+  "note": "Compact raw node from Mongo. Full document tree is in raw snapshot file.json.gz.",
+  "nodeId": "1662:8027",
+  "name": "Container",
+  "type": "FRAME",
+  "raw": {
+    "id": "1662:8027",
+    "name": "Container",
+    "type": "FRAME",
+    "parentId": "1662:8019",
+    "pageId": "612:2880",
+    "depth": 3,
+    "path": "Mobile / Career Paths Mobile / CP 2 / Container",
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "x": 16,
+    "y": 154,
+    "width": 380.75421142578125,
+    "height": 752.4801025390625,
+    "rotation": 0,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        16
+      ],
+      [
+        0,
+        1,
+        154
+      ]
+    ],
+    "layoutMode": "VERTICAL",
+    "primaryAxisSizingMode": "AUTO",
+    "counterAxisSizingMode": "FIXED",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "layoutWrap": "NO_WRAP",
+    "itemReverseZIndex": false,
+    "strokesIncludedInLayout": true,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "fills": [],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeCap": "NONE",
+    "strokeJoin": "MITER",
+    "dashPattern": [],
+    "effects": [],
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "clipsContent": false,
+    "cornerRadius": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "cornerSmoothing": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "effectStyleId": "",
+    "gridStyleId": "",
+    "componentPropertyReferences": null,
+    "reactions": [],
+    "overflowDirection": "NONE",
+    "numberOfFixedChildren": 0,
+    "overlayPositionType": "CENTER",
+    "overlayBackground": {
+      "type": "NONE"
+    },
+    "overlayBackgroundInteraction": "NONE",
+    "exportSettings": [],
+    "boundVariables": {
+      "strokeTopWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeBottomWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeLeftWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeRightWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      }
+    },
+    "guides": [],
+    "expanded": false,
+    "backgrounds": [],
+    "backgroundStyleId": "",
+    "absoluteBoundingBox": {
+      "x": 1157,
+      "y": 14682,
+      "width": 380.75421142578125,
+      "height": 752.4801025390625
+    },
+    "absoluteRenderBounds": {
+      "x": 1149,
+      "y": 14674,
+      "width": 389,
+      "height": 760.48046875
+    },
+    "childCount": 5,
+    "annotations": [],
+    "size": {
+      "width": 380.75421142578125,
+      "height": 752.4801025390625
+    }
+  },
+  "normalized": {
+    "width": 380.75421142578125,
+    "height": 752.4801025390625,
+    "boundVariables": {
+      "strokeTopWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeBottomWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeLeftWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeRightWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      }
+    },
+    "boundVariableIds": [
+      "VariableID:26:2"
+    ],
+    "styles": null,
+    "typography": null
+  },
+  "boundVariableIds": [
+    "VariableID:26:2"
+  ]
+}

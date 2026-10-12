@@ -1,0 +1,317 @@
+[
+  {
+    "nodeId": "1662:7960",
+    "name": "Explore Programs",
+    "characters": "Explore Programs",
+    "fontSize": 12,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Medium"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 2
+    },
+    "width": 151,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7962",
+    "name": "Choose your track.",
+    "characters": "Choose your track.",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 295,
+    "height": 41,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:706",
+    "name": "🚀",
+    "characters": "🚀",
+    "fontSize": 16,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 19,
+    "height": 16,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:52"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:708",
+    "name": "Entrepreneurs",
+    "characters": "Entrepreneurs",
+    "fontSize": 14,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Medium"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 99,
+    "height": 21,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:52"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:711",
+    "name": "⚡",
+    "characters": "⚡",
+    "fontSize": 16,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 19.229167938232422,
+    "height": 16,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:713",
+    "name": "Innovators",
+    "characters": "Innovators",
+    "fontSize": 14,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Medium"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 76,
+    "height": 21,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:716",
+    "name": "💎",
+    "characters": "💎",
+    "fontSize": 16,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 19.229167938232422,
+    "height": 16,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7963;128:718",
+    "name": "Hustlers",
+    "characters": "Hustlers",
+    "fontSize": 14,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Medium"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 57,
+    "height": 21,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  }
+]

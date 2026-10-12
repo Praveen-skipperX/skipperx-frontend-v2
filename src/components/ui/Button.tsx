@@ -1,7 +1,7 @@
 import type { ComponentPropsWithoutRef, MouseEvent, ReactNode } from "react";
 import styles from "./Button.module.css";
 
-type ButtonVariant = "primary" | "secondary" | "ghost";
+type ButtonVariant = "primary" | "secondary" | "ghost" | "text";
 type ButtonSize = "sm" | "md" | "lg";
 
 type ButtonProps = {

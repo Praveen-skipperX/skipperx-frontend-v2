@@ -1,0 +1,2600 @@
+{
+  "styles": [
+    {
+      "_id": "6abdca17022306cf4a08ad39",
+      "styleKey": "26029073cd5710bf9fbe49f68e4375635e906139",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "783d3faa0e00bb07def3f890dec72b0418fd011538e8451708122501cebba6e3",
+      "createdAt": "2026-10-01T02:48:55.594Z",
+      "description": "Dividers, section, rules",
+      "name": "Strokes/Neutral/Subtle",
+      "nodeId": "15:3678",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3328",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 3,
+        "usageNodeIds": [
+          "15:3328",
+          "81:158",
+          "81:164"
+        ],
+        "pageIds": [
+          "0:1",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:55.960Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3a",
+      "styleKey": "a734deba0eb9366041a9d7e8f11d136a37439d3e",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "d96dc3f91ca54bc99200de5a6c1a25c4766871dd53e308ba185016c310065c70",
+      "createdAt": "2026-10-01T02:48:55.597Z",
+      "description": "Surface & elevated cards",
+      "name": "Strokes/Neutral/Default",
+      "nodeId": "27:24",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3339",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 8,
+        "usageNodeIds": [
+          "1004:4173",
+          "122:117",
+          "15:3339",
+          "541:2160",
+          "612:2941",
+          "612:7729",
+          "690:6175",
+          "710:4397"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "0:1",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:56.170Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3b",
+      "styleKey": "0a87607c318d52402218b329e5be5022ba2a81f6",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "4d9d3e5d35bf9c9af26de537f275e485671dfe673d79900af72b430f7016201f",
+      "createdAt": "2026-10-01T02:48:55.600Z",
+      "description": "Glass cards, modals",
+      "name": "Strokes/Neutral/Soft",
+      "nodeId": "27:25",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3350",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 54,
+        "usageNodeIds": [
+          "1257:3510",
+          "1257:3522",
+          "1263:935",
+          "1263:948",
+          "1265:965",
+          "1265:978",
+          "1271:3403",
+          "1271:3494",
+          "1271:3540",
+          "153:159",
+          "153:160",
+          "153:267",
+          "153:268",
+          "153:270",
+          "153:271",
+          "15:3350",
+          "298:1337",
+          "298:1364",
+          "328:1616",
+          "612:2904"
+        ],
+        "pageIds": [
+          "3:2",
+          "3:3",
+          "0:1",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:56.454Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3c",
+      "styleKey": "2e1779f461527f8dbbd939fbea00e2a322aa14ca",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "55137bf08fe4d60abe65920a3e9836e375163fbe6a1bc61510e2843a3bdec378",
+      "createdAt": "2026-10-01T02:48:55.602Z",
+      "description": "Navbar, strong dividers",
+      "name": "Strokes/Neutral/Medium",
+      "nodeId": "27:26",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3361",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3361"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:56.727Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3d",
+      "styleKey": "1823596a38bd9d50067660d51632cc96f7523281",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "b6b45ca02a7f7ea3b6298f385d527970c7de4cd6853eea72f9e263a0bc862a1b",
+      "createdAt": "2026-10-01T02:48:55.605Z",
+      "description": "Hover ring, focus state",
+      "name": "Strokes/Neutral/Strong",
+      "nodeId": "27:27",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3372",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3372"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:56.951Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3e",
+      "styleKey": "dd65de32cc88d00b17045e4d03a2d844f6a720aa",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "36a5440cfeafcc80f7bde2eaa8583b12e18a50809d56a92c1791fa41269a7f1d",
+      "createdAt": "2026-10-01T02:48:55.607Z",
+      "description": "Logo divider, emphasis",
+      "name": "Strokes/Neutral/Bold",
+      "nodeId": "27:28",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3383",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ffffff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3383"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:57.162Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad3f",
+      "styleKey": "5a2e722f6f9ac0b86846f3c4304e81e5c2fd4dbd",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "eaa55ed1b448acfaf9dd0048da021432dd0436fe3ec9516a2e1630429e0045aa",
+      "createdAt": "2026-10-01T02:48:55.609Z",
+      "description": "NSDC badge, label chips",
+      "name": "Strokes/Brand/Soft",
+      "nodeId": "27:29",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3426",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#fe8324",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 32,
+        "usageNodeIds": [
+          "1021:4475",
+          "1021:4560",
+          "1418:3813",
+          "1418:3815",
+          "15:3426",
+          "163:498",
+          "170:1484",
+          "207:930",
+          "207:935",
+          "207:940",
+          "207:945",
+          "612:3249",
+          "612:3251",
+          "612:3374",
+          "612:7953",
+          "612:7970",
+          "612:7987",
+          "612:8004",
+          "612:8033",
+          "612:8035"
+        ],
+        "pageIds": [
+          "3:3",
+          "0:1",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:57.375Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad40",
+      "styleKey": "2e4e3e8492c938973e82dd170df02692b691a94f",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "dac046def6720c57490a614ef6f429582b559378acc9d77e88d1be1f6db20aae",
+      "createdAt": "2026-10-01T02:48:55.611Z",
+      "description": "Annoucement banner",
+      "name": "Strokes/Brand/Default",
+      "nodeId": "27:30",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3437",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#fe8324",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 15,
+        "usageNodeIds": [
+          "15:3437",
+          "181:747",
+          "181:769",
+          "181:781",
+          "196:615",
+          "595:3142",
+          "595:3150",
+          "595:3170",
+          "595:3209",
+          "612:3312",
+          "612:8089",
+          "690:6538",
+          "710:4768",
+          "83:186",
+          "83:194"
+        ],
+        "pageIds": [
+          "0:1",
+          "3:2",
+          "612:2880",
+          "3:3"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:57.560Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad41",
+      "styleKey": "28a9d8880f0b3f6cfdae3567d65b007664b88e9c",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "8d6390db8093ea23399943304630b78933bbb3669c181fbffcabd21d2534cde9",
+      "createdAt": "2026-10-01T02:48:55.613Z",
+      "description": "Program card default",
+      "name": "Strokes/Brand/Standard",
+      "nodeId": "27:31",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3448",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8.600000381469727,
+            "color": "#fe8324",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 16,
+        "usageNodeIds": [
+          "115:943",
+          "122:101",
+          "15:3448",
+          "612:3333",
+          "612:3415",
+          "612:8111",
+          "612:8193",
+          "690:6560",
+          "690:6642",
+          "710:4789",
+          "710:4871",
+          "81:160",
+          "81:167",
+          "I1004:4173;115:943",
+          "I612:7729;115:943",
+          "I690:6175;115:943"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1",
+          "612:2880",
+          "3:3"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:57.755Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad42",
+      "styleKey": "ff64da59884d8766c38c4daa4d55f6ebf53c9271",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "1c950a3c54c16b339a0af0279857c9d5e766e68d1689d98b4610ed6fe8681e0a",
+      "createdAt": "2026-10-01T02:48:55.614Z",
+      "description": "Card hover, CTA ring",
+      "name": "Strokes/Brand/Hover",
+      "nodeId": "27:33",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3459",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 13,
+            "color": "#fe8324",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 4,
+        "usageNodeIds": [
+          "15:3459",
+          "170:1483",
+          "170:956",
+          "81:161"
+        ],
+        "pageIds": [
+          "0:1",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:57.951Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad43",
+      "styleKey": "1955bc465b3ee680b0cc244ab621f2784f89cb6d",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "dfc0d68a5d044704fba5f8b286d7f1f8568fa5b3a164c2f84d5f8b077637b70f",
+      "createdAt": "2026-10-01T02:48:55.615Z",
+      "description": "Active tab. focused input",
+      "name": "Strokes/Brand/Focus",
+      "nodeId": "27:34",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3470",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#fe8324",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 2,
+        "usageNodeIds": [
+          "15:3470",
+          "81:159"
+        ],
+        "pageIds": [
+          "0:1",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:58.164Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad44",
+      "styleKey": "bc5577087997bfffd5e2dbf4feb308c7326f809e",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "d6088370417a17b89f939991fc9cad8fb65f63c7136b1f2c76b2a1ac597190a7",
+      "createdAt": "2026-10-01T02:48:55.616Z",
+      "description": "Entrepreneurs card border",
+      "name": "Strokes/Entre(coral)/Default",
+      "nodeId": "27:39",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3510",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ff6b6b",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 8,
+        "usageNodeIds": [
+          "1021:4496",
+          "1021:4936",
+          "15:3510",
+          "612:3465",
+          "612:8244",
+          "690:6693",
+          "710:4921",
+          "I1046:3542;1021:4936"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "0:1",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:58.341Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad45",
+      "styleKey": "cd1831ac410f62d184f453c4d5429a2db3bd4618",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "e900ab10580628d0f4299ae951fa0614180545b587b25dd67e1325cbef7b1938",
+      "createdAt": "2026-10-01T02:48:55.617Z",
+      "description": "Entrepreneurs card hover",
+      "name": "Strokes/Entre(coral)/Hover",
+      "nodeId": "27:40",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3521",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ff6b6b",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3521"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:58.539Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad46",
+      "styleKey": "4d6914ff01e36371575cb5475bbf5609a7c3ebdc",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "de6a7c5a02dc06f9f09bd0e749d3ae908d85ee8d1e46779a6da0416807c21179",
+      "createdAt": "2026-10-01T02:48:55.619Z",
+      "description": "Entrepreneurs active state",
+      "name": "Strokes/Entre(coral)/Focus",
+      "nodeId": "27:41",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3532",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#ff6b6b",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3532"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:58.725Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad47",
+      "styleKey": "fb31b0aac7777eca5992fb6c614d7d588ae72958",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "5a626bf0a6cf4474494eaf4b4f49fbba74229271f03d27b497807119257d816b",
+      "createdAt": "2026-10-01T02:48:55.620Z",
+      "description": "Innovators card border",
+      "name": "Strokes/Inno(Cyan)/Default",
+      "nodeId": "27:45",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3566",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#00d4ff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 5,
+        "usageNodeIds": [
+          "15:3566",
+          "612:3473",
+          "612:8252",
+          "690:6701",
+          "710:4929"
+        ],
+        "pageIds": [
+          "0:1",
+          "612:2880",
+          "3:3"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:58.915Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad48",
+      "styleKey": "925a6762508b4136853c99d667bae6d197fbc0f2",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "daac3fd36b8761088e3795ae3641d15cae4ac2b6c9c3323bd925032c9fb3a2a0",
+      "createdAt": "2026-10-01T02:48:55.622Z",
+      "description": "Innovators crad hover",
+      "name": "Strokes/Hust(Purple)/Hover",
+      "nodeId": "27:46",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3577",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#a855f7",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 2,
+        "usageNodeIds": [
+          "1031:5032",
+          "15:3577"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:59.062Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad49",
+      "styleKey": "a03f775473dbaac679eabc9ebdf511dcd04734cc",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "68e469429bd1eea9861b6a3c8cf226621d720e717dbc88e61ef3ed60b70ac484",
+      "createdAt": "2026-10-01T02:48:55.624Z",
+      "description": "Innovators active state",
+      "name": "Strokes/Hust(Purple)/Focus",
+      "nodeId": "27:47",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:15:3588",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#a855f7",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "15:3588"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:48:59.243Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4a",
+      "styleKey": "0742fdd383b7901fe339723010e2e2ef8a028636",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "19c7730b764f6c8add5b406099a0adc76405e26d6043f9fcf103ab9981186331",
+      "createdAt": "2026-10-01T02:48:55.626Z",
+      "description": "",
+      "name": "Gradients/Brand CTA",
+      "nodeId": "28:3",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:391",
+        "color": "#fe8324",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#fe8324"
+            },
+            {
+              "position": 1,
+              "color": "#ff4101"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #fe8324 0%, #ff4101 100%)",
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1004:4177",
+          "1012:2688",
+          "115:655",
+          "115:943",
+          "122:101",
+          "1257:3499",
+          "1418:3809",
+          "149:714",
+          "149:717",
+          "30:391",
+          "612:2947",
+          "612:2975",
+          "612:3130",
+          "612:3245",
+          "612:3301",
+          "612:3312",
+          "612:3333",
+          "612:3415",
+          "612:3439",
+          "612:3444"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "0:1",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:48:59.408Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4b",
+      "styleKey": "a4eaf663020ea8aa188691b5c8ac486f6aed2399",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "f1d7a83be0d64e07826ed30042a076c6538aef7b3b543c5da6b2995a13595fdf",
+      "createdAt": "2026-10-01T02:48:55.628Z",
+      "description": "",
+      "name": "Gradients/Brand CTA 135°",
+      "nodeId": "28:4",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:400",
+        "color": "#fe8324",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#fe8324"
+            },
+            {
+              "position": 1,
+              "color": "#ff4101"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #fe8324 0%, #ff4101 100%)",
+        "usageCount": 24,
+        "usageNodeIds": [
+          "112:322",
+          "112:337",
+          "30:400",
+          "72:10",
+          "72:13",
+          "72:17",
+          "I1004:4173;115:903;72:10",
+          "I115:903;72:10",
+          "I122:95;72:10",
+          "I1375:3431;72:10",
+          "I541:2142;72:10",
+          "I541:2146;72:10",
+          "I612:2929;112:322",
+          "I612:2941;541:2142;72:10",
+          "I612:3421;72:10",
+          "I612:7729;115:903;72:10",
+          "I612:8194;112:322",
+          "I612:8200;72:10",
+          "I690:6175;115:903;72:10",
+          "I690:6643;112:322"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1",
+          "3:3",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:48:59.610Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4c",
+      "styleKey": "d7d863384fef6e649993fbf9262abaed96dd6b5a",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "6b4bcc97ed215f80cfb5f8f01ba608d1661d880ad9f446e54cccd88242d943df",
+      "createdAt": "2026-10-01T02:48:55.629Z",
+      "description": "",
+      "name": "Gradients/Tritrack",
+      "nodeId": "28:5",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:409",
+        "color": "#ff6b6b",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#ff6b6b"
+            },
+            {
+              "position": 0.5,
+              "color": "#00d4ff"
+            },
+            {
+              "position": 1,
+              "color": "#a855f7"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #ff6b6b 0%, #00d4ff 50%, #a855f7 100%)",
+        "usageCount": 17,
+        "usageNodeIds": [
+          "297:979",
+          "298:1350",
+          "30:409",
+          "612:2890",
+          "612:2914",
+          "612:3104",
+          "612:7888",
+          "637:3087",
+          "646:841",
+          "653:3079",
+          "653:3160",
+          "690:6334",
+          "710:4560",
+          "710:6002",
+          "710:6030",
+          "710:6058",
+          "710:6086"
+        ],
+        "pageIds": [
+          "3:3",
+          "0:1",
+          "612:2880",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:48:59.811Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4d",
+      "styleKey": "aa2c9f78382a82cbca6c6ba7adabc215a218d76a",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "93889100f07c117574a22a3c1173f9b87518c6f18510daf8905191418d68b099",
+      "createdAt": "2026-10-01T02:48:55.631Z",
+      "description": "",
+      "name": "Gradients/Surface Fade",
+      "nodeId": "30:9",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:418",
+        "color": "#0a0a0b00",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#0a0a0b00"
+            },
+            {
+              "position": 1,
+              "color": "#0a0a0b"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #0a0a0b00 0%, #0a0a0b 100%)",
+        "usageCount": 3,
+        "usageNodeIds": [
+          "30:418",
+          "81:158",
+          "81:164"
+        ],
+        "pageIds": [
+          "0:1",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:00.016Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4e",
+      "styleKey": "fe2ff883047236c767d5838fe31fdd7604c3e937",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "ccd31df0a89a62c8aa7670640c0ba96064faf346b07514ae824a627c23bed154",
+      "createdAt": "2026-10-01T02:48:55.634Z",
+      "description": "Entrepreneurs category card",
+      "name": "Gradients/Entrepreneurs",
+      "nodeId": "30:18",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:427",
+        "color": "#ff6b6b1f",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#ff6b6b1f"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #ff6b6b1f 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "138:195",
+          "30:427"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:00.229Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad4f",
+      "styleKey": "e74184e69ace9a3174aa75aeb46f1c83726990d8",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "3ee9d5ed905aba0fafa0aa6e0f261ecbcfa47636b5cd6f54588244a9776202a5",
+      "createdAt": "2026-10-01T02:48:55.636Z",
+      "description": "Innovators category card",
+      "name": "Gradients/Innovators",
+      "nodeId": "30:24",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:436",
+        "color": "#00d4ff1a",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#00d4ff1a"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #00d4ff1a 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "146:549",
+          "30:436"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:00.423Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad50",
+      "styleKey": "0c434a0ac385686f013d1f36b36feff4cc6bac27",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "fb86d315dfc39b30cec5c0dfd2bbd9d821cc350ac7cf35c1682547fb5affbc32",
+      "createdAt": "2026-10-01T02:48:55.640Z",
+      "description": "Hustlers category card",
+      "name": "Gradients/Hustlers",
+      "nodeId": "30:23",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:30:445",
+        "color": "#a855f724",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#a855f724"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #a855f724 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "146:643",
+          "30:445"
+        ],
+        "pageIds": [
+          "3:2",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:00.612Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad51",
+      "styleKey": "056291cdea1fe71f79fdc201f3de2b43bcf08beb",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "7a54b4aa24de8786632b46cb4966f496f78fd2bc2124be986f43edf2e1a1703f",
+      "createdAt": "2026-10-01T02:48:55.642Z",
+      "description": "Hero Headline",
+      "name": "Display/Display",
+      "nodeId": "66:75",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:64:494",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 88,
+          "fontWeight": 700,
+          "lineHeight": 112.29924011230469,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 1,
+        "usageNodeIds": [
+          "64:494"
+        ],
+        "pageIds": [
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:00.796Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad52",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "4b111adddd1db0a2e3c0016098a44e87d7bd3a27",
+      "__v": 0,
+      "contentHash": "12e368d2512586c51b7d77204a3ae64bd2951e963f73979b59e82b2d8e34614b",
+      "createdAt": "2026-10-01T02:48:55.643Z",
+      "description": "Section hero",
+      "name": "Display/H1",
+      "nodeId": "66:76",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:351",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 64,
+          "fontWeight": 700,
+          "lineHeight": 81.66400146484375,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 5,
+        "usageNodeIds": [
+          "612:8106",
+          "612:8107",
+          "63:351",
+          "690:6555",
+          "690:6556"
+        ],
+        "pageIds": [
+          "3:3",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:00.987Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad53",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "ed4a3f976e55f25e476b4e5f06461a2c36b42ea1",
+      "__v": 0,
+      "contentHash": "cf73aa463086c0f10441cae894abb12af1b26990b880e7dbe7fb4c98ef7e7971",
+      "createdAt": "2026-10-01T02:48:55.645Z",
+      "description": "Section titles",
+      "name": "Display/H2",
+      "nodeId": "66:77",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:367",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 48,
+          "fontWeight": 700,
+          "lineHeight": 61.24800109863281,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1004:4172",
+          "1012:2687",
+          "1012:2688",
+          "1021:4793",
+          "1056:2885",
+          "1250:2930",
+          "1252:3445",
+          "1257:3512",
+          "1257:3525",
+          "1263:938",
+          "1263:950",
+          "1265:968",
+          "1265:980",
+          "1418:3807",
+          "1418:3809",
+          "1435:3326",
+          "1439:4488",
+          "151:1041",
+          "153:140",
+          "153:177"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.163Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad54",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "cc65831657ead2a42fe16a8d9981011be23b8eea",
+      "__v": 0,
+      "contentHash": "60ee4385ba3b7fea5cac4449e45c055aa2c9d492576fdec86ecafdffc8864eac",
+      "createdAt": "2026-10-01T02:48:55.646Z",
+      "description": "Card headings",
+      "name": "Display/H3",
+      "nodeId": "66:78",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:383",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 32,
+          "fontWeight": 700,
+          "lineHeight": 40.832000732421875,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "163:301",
+          "170:1020",
+          "170:1248",
+          "170:1434",
+          "170:1602",
+          "170:1796",
+          "177:837",
+          "177:881",
+          "295:839",
+          "295:868",
+          "296:895",
+          "612:2887",
+          "612:2888",
+          "612:2890",
+          "612:2911",
+          "612:2912",
+          "612:2914",
+          "612:2952",
+          "612:2957",
+          "612:2962"
+        ],
+        "pageIds": [
+          "3:2",
+          "612:2880",
+          "3:3",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.273Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad55",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "2f6ad79baaf4a8c65b010ad6fb07d52b46c0f2ae",
+      "__v": 0,
+      "contentHash": "c7d34cc2a33e491afc44399d20d2cfa63174ad243d96d54da543a5707170c3ca",
+      "createdAt": "2026-10-01T02:48:55.649Z",
+      "description": "Sub headings",
+      "name": "Display/H5",
+      "nodeId": "66:79",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:399",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 18,
+          "fontWeight": 700,
+          "lineHeight": 22.968000411987305,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1021:4467",
+          "1021:4489",
+          "1021:4509",
+          "1021:4537",
+          "1021:4548",
+          "149:674",
+          "149:677",
+          "149:684",
+          "149:687",
+          "207:756",
+          "207:766",
+          "207:776",
+          "207:801",
+          "207:812",
+          "207:826",
+          "207:834",
+          "207:844",
+          "295:845",
+          "295:850",
+          "295:855"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.459Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad56",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "2b354f74655d83ce9bfc7fca4cd4f2f78aaf980e",
+      "__v": 0,
+      "contentHash": "ed54578db22befc49a42942f312ec0d8929f0ecde93454d14255e97f18f560e5",
+      "createdAt": "2026-10-01T02:48:55.652Z",
+      "description": "Hero body copy",
+      "name": "Body/Body L",
+      "nodeId": "66:80",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:415",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 18,
+          "fontWeight": 400,
+          "lineHeight": 27,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 30,
+        "usageNodeIds": [
+          "1004:4175",
+          "1418:3811",
+          "179:691",
+          "180:713",
+          "181:746",
+          "181:768",
+          "181:780",
+          "196:614",
+          "297:981",
+          "298:1352",
+          "612:2892",
+          "612:2916",
+          "612:3106",
+          "612:7731",
+          "612:7890",
+          "63:415",
+          "690:6177",
+          "690:6336",
+          "710:4562",
+          "I333:1959;196:662"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.650Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad57",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "b2baa323ce0c4679d67b21928406c469c152e644",
+      "__v": 0,
+      "contentHash": "5a0bd1cdff8821d1454e9dc5b45b586c09b75582045825d33edefde82cea3feb",
+      "createdAt": "2026-10-01T02:48:55.654Z",
+      "description": "General body",
+      "name": "Body/Body",
+      "nodeId": "66:81",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:431",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 16,
+          "fontWeight": 400,
+          "lineHeight": 24,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1021:4469",
+          "1021:4491",
+          "1021:4511",
+          "1021:4539",
+          "1021:4550",
+          "1056:2887",
+          "1250:2933",
+          "1252:3447",
+          "1435:3328",
+          "1438:3770",
+          "1439:4490",
+          "179:694",
+          "179:700",
+          "180:716",
+          "181:749",
+          "181:772",
+          "181:784",
+          "181:787",
+          "196:618",
+          "196:623"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.787Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad58",
+      "styleKey": "b94d391f8c74bedf6cad32ddde2b1b703327c5ea",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "d430885b74672b6ef22a6b9633a0d5999c78602456380da05eb484c928b470af",
+      "createdAt": "2026-10-01T02:48:55.655Z",
+      "description": "Crad descriptions",
+      "name": "Body/Body S/Body S",
+      "nodeId": "66:82",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:447",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 14,
+          "fontWeight": 400,
+          "lineHeight": 21,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1056:2895",
+          "1257:3514",
+          "1257:3527",
+          "1263:940",
+          "1263:952",
+          "1265:970",
+          "1265:982",
+          "136:801",
+          "138:175",
+          "1435:3334",
+          "1439:4496",
+          "146:444",
+          "146:502",
+          "146:590",
+          "146:620",
+          "149:679",
+          "149:689",
+          "151:1043",
+          "153:142",
+          "153:179"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:01.878Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad59",
+      "styleKey": "5ba983868bf03811dbe18442f190c5d428d96bd8",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "ff76545864358dc6187b2796892a906d56a7aa5bf238fa9957f4a9f344ba2071",
+      "createdAt": "2026-10-01T02:48:55.657Z",
+      "description": "UI Labels, nav",
+      "name": "Body/Label/Label Sem",
+      "nodeId": "66:83",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:463",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 12,
+          "fontWeight": 600,
+          "lineHeight": 18,
+          "letterSpacing": 0.6000000000000001,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 49,
+        "usageNodeIds": [
+          "1056:2881",
+          "1435:3322",
+          "1439:4484",
+          "163:299",
+          "170:1018",
+          "170:1246",
+          "170:1432",
+          "170:1600",
+          "170:1794",
+          "177:835",
+          "177:879",
+          "612:3234",
+          "612:3430",
+          "612:7956",
+          "612:7973",
+          "612:7990",
+          "612:8007",
+          "612:8018",
+          "612:8209",
+          "63:463"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:02.077Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5a",
+      "styleKey": "6d33e363ef2bb366097f0a361fb8615d384bc4d5",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "65acb4d05d6321de3f1517a1248523f4305dd2dc0f3e03b7f09d2a2287dfd7fc",
+      "createdAt": "2026-10-01T02:48:55.658Z",
+      "description": "Section numbers",
+      "name": "Body/Micro/Micro Sem",
+      "nodeId": "66:84",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:63:479",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 11,
+          "fontWeight": 600,
+          "lineHeight": 16.5,
+          "letterSpacing": 0.55,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 96,
+        "usageNodeIds": [
+          "1021:4759",
+          "1021:4762",
+          "1021:4763",
+          "1021:4766",
+          "1021:4767",
+          "1021:4916",
+          "1021:4933",
+          "1021:4950",
+          "1031:4995",
+          "1031:5010",
+          "1031:5025",
+          "1031:5046",
+          "1031:5077",
+          "1031:5093",
+          "111:273",
+          "111:285",
+          "112:291",
+          "112:297",
+          "112:303",
+          "112:309"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880",
+          "0:1"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:02.283Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5b",
+      "styleKey": "fc031a935467e4f9bdf47829e8324093ffa03704",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "2fda30edde31d26d589599d6418925dea3bb489e537c7d149a1fb5036715b4ea",
+      "createdAt": "2026-10-01T02:48:55.660Z",
+      "description": "CTA's",
+      "name": "Body/Body Button",
+      "nodeId": "69:13",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I297:983;128:730",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 16,
+          "fontWeight": 600,
+          "lineHeight": 24,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "128:706",
+          "128:708",
+          "128:711",
+          "128:713",
+          "128:716",
+          "128:718",
+          "128:730",
+          "128:732",
+          "128:735",
+          "128:737",
+          "128:740",
+          "128:741",
+          "128:746",
+          "128:748",
+          "128:751",
+          "128:753",
+          "128:756",
+          "128:757",
+          "521:2050",
+          "521:2057"
+        ],
+        "pageIds": [
+          "3:2",
+          "3:3",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:02.424Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5c",
+      "styleKey": "1d1edaacdf8ca81e720c27a1082347830202e920",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "d270f6fbdc106743f061869a9aff96c6092171185ad388c9fb731a3241882543",
+      "createdAt": "2026-10-01T02:48:55.663Z",
+      "description": "Logo",
+      "name": "Body/Logo",
+      "nodeId": "115:877",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I612:7729;115:903;72:9",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 24,
+          "fontWeight": 600,
+          "lineHeight": 36,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 10,
+        "usageNodeIds": [
+          "72:9",
+          "I1004:4173;115:903;72:9",
+          "I115:903;72:9",
+          "I122:95;72:9",
+          "I541:2142;72:9",
+          "I541:2146;72:9",
+          "I612:2941;541:2142;72:9",
+          "I612:7729;115:903;72:9",
+          "I690:6175;115:903;72:9",
+          "I710:4397;541:2142;72:9"
+        ],
+        "pageIds": [
+          "3:2",
+          "3:3",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:02.628Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5d",
+      "styleKey": "b0e498f4754558dbbb203be5cff6ed355ffd0743",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "480d5a144c2ea7f692d688ef3c4f1d98e73d9e0ab78bdb04b13331c0e4561e7f",
+      "createdAt": "2026-10-01T02:48:55.665Z",
+      "description": "Navbar",
+      "name": "Glass",
+      "nodeId": "122:119",
+      "normalized": {
+        "resolved": false,
+        "reason": "Defining node 122:119 not in document tree and no usage nodes reference this style",
+        "source": "missing-node",
+        "usageCount": 0,
+        "usageNodeIds": [],
+        "pageIds": []
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:49:03.120Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5e",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "fd4a436a712083cf42824bea223e4a9e723f2d02",
+      "__v": 0,
+      "contentHash": "0868f784de3958f0dbe0f79e22462737d80095fae0984967068b76bbefaf848c",
+      "createdAt": "2026-10-01T02:48:55.667Z",
+      "description": "",
+      "name": "Body/Label/Label Medium",
+      "nodeId": "128:213",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1021:4791",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 12,
+          "fontWeight": 500,
+          "lineHeight": 18,
+          "letterSpacing": 2,
+          "textAlign": "LEFT",
+          "textCase": "UPPER"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 99,
+        "usageNodeIds": [
+          "1021:4791",
+          "128:219",
+          "128:223",
+          "128:227",
+          "128:231",
+          "128:239",
+          "128:247",
+          "128:255",
+          "128:425",
+          "128:429",
+          "128:433",
+          "128:437",
+          "128:441",
+          "128:445",
+          "128:449",
+          "128:457",
+          "128:461",
+          "128:465",
+          "128:469",
+          "128:473"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:03.298Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad5f",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "228aee2ca54adc396dcd0c86c64149bdb1787bc4",
+      "__v": 0,
+      "contentHash": "03e82961d1a279a71229c3fde9769f3faa3432b8cc17c6274573dec28f497da9",
+      "createdAt": "2026-10-01T02:48:55.669Z",
+      "description": "",
+      "name": "Body/Body S/Body S Medium",
+      "nodeId": "128:720",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:612:8058",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 14,
+          "fontWeight": 500,
+          "lineHeight": 21,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 75,
+        "usageNodeIds": [
+          "612:3281",
+          "612:3283",
+          "612:3285",
+          "612:3287",
+          "612:3289",
+          "612:3291",
+          "612:8058",
+          "612:8060",
+          "612:8062",
+          "612:8064",
+          "612:8066",
+          "612:8068",
+          "653:3249",
+          "653:3254",
+          "669:882",
+          "690:6507",
+          "690:6509",
+          "690:6511",
+          "690:6513",
+          "690:6515"
+        ],
+        "pageIds": [
+          "612:2880",
+          "3:3",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:03.609Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad60",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "fcc72b005945e77e65ad53b0d3f6d119f28a2247",
+      "__v": 0,
+      "contentHash": "1b7e80de56bb3e0d31c99192cc4d045945b303a859acf46a9922744b2d401c55",
+      "createdAt": "2026-10-01T02:48:55.670Z",
+      "description": "Card headings",
+      "name": "Display/H6",
+      "nodeId": "136:817",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1100:4069",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 16,
+          "fontWeight": 500,
+          "lineHeight": 20.416000366210938,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1100:4069",
+          "1100:4099",
+          "1100:4158",
+          "1100:4220",
+          "1100:5020",
+          "1250:2942",
+          "1250:2950",
+          "1250:2958",
+          "136:799",
+          "138:173",
+          "1435:3363",
+          "1437:3573",
+          "1437:3633",
+          "1437:3750",
+          "1439:4525",
+          "1439:4744",
+          "146:442",
+          "146:500",
+          "146:588",
+          "146:618"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:03.756Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad61",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "7305d73404bb1bf089e28dd7c1885167837586c1",
+      "__v": 0,
+      "contentHash": "6ed08bcc50b5184d139e05fd2ffefc4c7d03131a83da4b7206bde8533f68a26b",
+      "createdAt": "2026-10-01T02:48:55.672Z",
+      "description": "",
+      "name": "Body/Micro/Micro Reg",
+      "nodeId": "138:83",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1056:2883",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 11,
+          "fontWeight": 400,
+          "lineHeight": 16.5,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1056:2883",
+          "1056:2901",
+          "1056:2906",
+          "1056:2911",
+          "1435:3324",
+          "1435:3340",
+          "1435:3345",
+          "1435:3350",
+          "1439:4486",
+          "1439:4502",
+          "1439:4507",
+          "1439:4512",
+          "146:522",
+          "146:529",
+          "146:531",
+          "295:847",
+          "295:852",
+          "295:857",
+          "295:876",
+          "295:881"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:03.884Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad62",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "eb48ffe705bbabfb1ed8981a63db8f36774307c5",
+      "__v": 0,
+      "contentHash": "9237dbaa60c75b97caf6ccd37c19d4fe77fb8dc5ddcc65b6f2df241084c03043",
+      "createdAt": "2026-10-01T02:48:55.674Z",
+      "description": "",
+      "name": "Body/Label/Label Reg",
+      "nodeId": "138:84",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1007:4295",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 12,
+          "fontWeight": 400,
+          "lineHeight": 18,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 100,
+        "usageNodeIds": [
+          "1007:4295",
+          "1007:4310",
+          "1008:4320",
+          "1008:4328",
+          "1008:4339",
+          "1021:4756",
+          "1021:4913",
+          "1021:4930",
+          "1021:4947",
+          "1031:4992",
+          "1031:5007",
+          "1031:5022",
+          "1031:5043",
+          "1031:5074",
+          "1031:5090",
+          "1100:4074",
+          "1100:4077",
+          "1100:4104",
+          "1100:4107",
+          "1100:4163"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:03.943Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad63",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "4c0098b8af477bca188e0315cb3b7f20da214eb7",
+      "__v": 0,
+      "contentHash": "988a76e0263cbec3aefc0c13b4102092280e8b4aafd98b34423711f5bb24665b",
+      "createdAt": "2026-10-01T02:48:55.675Z",
+      "description": "",
+      "name": "Gradients/Cyan Gradient Radial",
+      "nodeId": "153:203",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1257:3522",
+        "color": "#00d4ff1a",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_RADIAL",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#00d4ff1a"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "radial-gradient(circle, #00d4ff1a 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "1257:3522",
+          "153:159"
+        ],
+        "pageIds": [
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:04.129Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad64",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "eb566c6fbf65f265c06d195618e876c2cbbf85a7",
+      "__v": 0,
+      "contentHash": "7b0207f8910a95c0f02f62754880bd7875d0eec9b3c23ad62b2f9ed3aa21258c",
+      "createdAt": "2026-10-01T02:48:55.678Z",
+      "description": "",
+      "name": "Gradients/Coral Gradient Radial",
+      "nodeId": "153:262",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1263:935",
+        "color": "#ff6b6b1f",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_RADIAL",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#ff6b6b1f"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "radial-gradient(circle, #ff6b6b1f 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "1263:935",
+          "153:268"
+        ],
+        "pageIds": [
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:04.316Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad65",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "2d7b79b2ce30bcfefa94c008bf4c002f13d9843d",
+      "__v": 0,
+      "contentHash": "2e646b69c6b528c158db21036e59251c2c8f123fff645f663addd123ddffe59c",
+      "createdAt": "2026-10-01T02:48:55.680Z",
+      "description": "",
+      "name": "Gradients/Purple Gradient Radial",
+      "nodeId": "153:263",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1265:965",
+        "color": "#a855f724",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_RADIAL",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#a855f724"
+            },
+            {
+              "position": 1,
+              "color": "#ffffff05"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "radial-gradient(circle, #a855f724 0%, #ffffff05 100%)",
+        "usageCount": 2,
+        "usageNodeIds": [
+          "1265:965",
+          "153:271"
+        ],
+        "pageIds": [
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:04.506Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad66",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "88b87f261575e4d82a13ab8c590d85b369568ce5",
+      "__v": 0,
+      "contentHash": "a292f76b45589e08679ed9e661b6dee16e306b0315591b17ac7b2b2adf776210",
+      "createdAt": "2026-10-01T02:48:55.682Z",
+      "description": "",
+      "name": "Body/Body Section Title",
+      "nodeId": "264:209",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1012:2684",
+        "typography": {
+          "fontFamily": "Poppins",
+          "fontSize": 16,
+          "fontWeight": 400,
+          "lineHeight": 24,
+          "letterSpacing": 0.8,
+          "textAlign": "LEFT",
+          "textCase": "UPPER"
+        },
+        "color": "#ffffff",
+        "previewCss": null,
+        "usageCount": 72,
+        "usageNodeIds": [
+          "1012:2684",
+          "1418:3805",
+          "297:974",
+          "298:1345",
+          "612:2885",
+          "612:2909",
+          "612:2993",
+          "612:3053",
+          "612:3099",
+          "612:3126",
+          "612:3241",
+          "612:3259",
+          "612:3278",
+          "612:3297",
+          "612:3326",
+          "612:3358",
+          "612:3456",
+          "612:3478",
+          "612:3499",
+          "612:7760"
+        ],
+        "pageIds": [
+          "3:3",
+          "612:2880",
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:04.692Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad67",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "0ddb58557dcebd39f983be1d54db0a69fe71430d",
+      "__v": 0,
+      "contentHash": "b458164801221799cbb066b3ae705455d9f250eb18368a5329d20e9662e4784d",
+      "createdAt": "2026-10-01T02:48:55.683Z",
+      "description": "Card headings",
+      "name": "Display/H4",
+      "nodeId": "265:1755",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1021:4465",
+        "typography": {
+          "fontFamily": "Space Grotesk",
+          "fontSize": 24,
+          "fontWeight": 700,
+          "lineHeight": 30.624000549316406,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#fe8324",
+        "previewCss": null,
+        "usageCount": 66,
+        "usageNodeIds": [
+          "1021:4465",
+          "1021:4487",
+          "1021:4507",
+          "1021:4535",
+          "1021:4546",
+          "1021:4754",
+          "1021:4909",
+          "1021:4911",
+          "1021:4926",
+          "1021:4928",
+          "1021:4943",
+          "1021:4945",
+          "1031:4988",
+          "1031:4990",
+          "1031:5003",
+          "1031:5005",
+          "1031:5018",
+          "1031:5020",
+          "1031:5039",
+          "1031:5041"
+        ],
+        "pageIds": [
+          "3:3",
+          "3:2",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:04.870Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad68",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "9e9818cf9f6e31e44a1802669a60bcf708320257",
+      "__v": 0,
+      "contentHash": "e2f24465895767bcb8271fb37403fba0e05c2be876fdd6a32c9f23cc209ae3aa",
+      "createdAt": "2026-10-01T02:48:55.685Z",
+      "description": "Innovators card border",
+      "name": "Strokes/Hust(Purple)/Default",
+      "nodeId": "523:2043",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1021:4570",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#a855f7",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 5,
+        "usageNodeIds": [
+          "1021:4570",
+          "612:3469",
+          "612:8248",
+          "690:6697",
+          "710:4925"
+        ],
+        "pageIds": [
+          "3:3",
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:49:05.046Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad69",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "d94f64618438ea1a68d0f9cf031818f012823d1b",
+      "__v": 0,
+      "contentHash": "7f3942fdd4b722382f1036984aeb7f65a36c77e8a90b11d0700f2a4469dad6c1",
+      "createdAt": "2026-10-01T02:48:55.686Z",
+      "description": "Innovators crad hover",
+      "name": "Strokes/Inno(Cyan)/Hover",
+      "nodeId": "523:2044",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1031:4996",
+        "effects": [
+          {
+            "type": "DROP_SHADOW",
+            "visible": true,
+            "radius": 8,
+            "color": "#00d4ff",
+            "offset": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "usageCount": 1,
+        "usageNodeIds": [
+          "1031:4996"
+        ],
+        "pageIds": [
+          "3:2"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:49:05.242Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6a",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "532cd6f915b79bdb0f3b912726d7020d524f37f5",
+      "__v": 0,
+      "contentHash": "e348a9c999489c46a7760a6fa69b493a658d21cf0f52a8ca2d9a76e2be5414fe",
+      "createdAt": "2026-10-01T02:48:55.688Z",
+      "description": "Innovators active state",
+      "name": "Strokes/Inno(Cyan)/Focus",
+      "nodeId": "523:2045",
+      "normalized": {
+        "resolved": false,
+        "reason": "Defining node 523:2045 not in document tree and no usage nodes reference this style",
+        "source": "missing-node",
+        "usageCount": 0,
+        "usageNodeIds": [],
+        "pageIds": []
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "EFFECT",
+      "updatedAt": "2026-10-01T02:49:05.739Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6b",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "styleKey": "2d4bbea62c98fe9c960d4e55bd931b34a88be4d4",
+      "__v": 0,
+      "contentHash": "7539b834c94e2c6cc86440dbf0e0a3249cf5d365cf657dc7f06879d615812942",
+      "createdAt": "2026-10-01T02:48:55.691Z",
+      "description": "",
+      "name": "Overlay",
+      "nodeId": "1029:4959",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:1021:4904",
+        "color": "#0a0a0bd1",
+        "opacity": null,
+        "gradient": {
+          "kind": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "position": 0,
+              "color": "#0a0a0bd1"
+            },
+            {
+              "position": 1,
+              "color": "#0a0a0b8c"
+            }
+          ]
+        },
+        "imageRef": null,
+        "previewCss": "linear-gradient(90deg, #0a0a0bd1 0%, #0a0a0b8c 100%)",
+        "usageCount": 11,
+        "usageNodeIds": [
+          "1021:4904",
+          "1021:4921",
+          "1031:4983",
+          "1031:5013",
+          "1031:5065",
+          "1031:5081",
+          "1056:2875",
+          "1435:3316",
+          "1439:4478",
+          "I1046:3542;1021:4904",
+          "I1046:3542;1021:4921"
+        ],
+        "pageIds": [
+          "3:2",
+          "3:3"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:05.936Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6c",
+      "styleKey": "0196bd4c7fa4e21d116ce2226599199c75de1755",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "c8ea4d4a831912f628b522185579c87d3418e335b4227e66fd704bafb750f448",
+      "createdAt": "2026-10-01T02:48:55.693Z",
+      "description": "",
+      "name": "material-theme/black",
+      "nodeId": "540:1997",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I612:2928;12337:13278",
+        "color": "#000000",
+        "opacity": null,
+        "gradient": null,
+        "imageRef": null,
+        "previewCss": "#000000",
+        "usageCount": 6,
+        "usageNodeIds": [
+          "I612:2928;12222:54801;12220:51783",
+          "I612:2928;12337:13278",
+          "I612:2928;12337:13292",
+          "I710:4384;12222:54801;12220:51783",
+          "I710:4384;12337:13278",
+          "I710:4384;12337:13292"
+        ],
+        "pageIds": [
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:06.372Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6d",
+      "styleKey": "8ab4bb5d87aee66e54c6f369295ffdaa1b63208b",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "85871f51f0a3e144b690f289904c417f69b3ce9fbb4a695906dac69d5a44a91a",
+      "createdAt": "2026-10-01T02:48:55.694Z",
+      "description": "",
+      "name": "material-theme/sys/light/sys-ui",
+      "nodeId": "540:2065",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I612:2928;19:50",
+        "color": "#000000",
+        "opacity": 0.6000000238418579,
+        "gradient": null,
+        "imageRef": null,
+        "previewCss": "#000000",
+        "usageCount": 14,
+        "usageNodeIds": [
+          "I612:2928;19:50",
+          "I612:2928;461:1;460:1573",
+          "I612:2928;461:1;8512:19302",
+          "I612:2928;461:1;8597:19748;8597:19720",
+          "I612:2928;461:1;8597:19748;8597:21575",
+          "I612:2928;461:1;8597:19748;8597:21867",
+          "I612:2928;8535:17817;8533:24686",
+          "I710:4384;19:50",
+          "I710:4384;461:1;460:1573",
+          "I710:4384;461:1;8512:19302",
+          "I710:4384;461:1;8597:19748;8597:19720",
+          "I710:4384;461:1;8597:19748;8597:21575",
+          "I710:4384;461:1;8597:19748;8597:21867",
+          "I710:4384;8535:17817;8533:24686"
+        ],
+        "pageIds": [
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:06.768Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6e",
+      "styleKey": "7cc849c6595f5698719626d91766b5853d41fbf1",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "17b88b31f11733fde3e511cc962a5bca7e3178fac73d8791e33f31eba3539924",
+      "createdAt": "2026-10-01T02:48:55.696Z",
+      "description": "",
+      "name": "android-text-styles/body-medium/semibold",
+      "nodeId": "540:2032",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I612:2928;19:50",
+        "typography": {
+          "fontFamily": "Roboto",
+          "fontSize": 14,
+          "fontWeight": 500,
+          "lineHeight": 20,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+        },
+        "color": "#000000",
+        "previewCss": null,
+        "usageCount": 2,
+        "usageNodeIds": [
+          "I612:2928;19:50",
+          "I710:4384;19:50"
+        ],
+        "pageIds": [
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "TEXT",
+      "updatedAt": "2026-10-01T02:49:07.197Z"
+    },
+    {
+      "_id": "6abdca17022306cf4a08ad6f",
+      "styleKey": "a62c84c850bff4e4beb894579322ca527a319bd2",
+      "fileId": "6abdc9dffafb2d620f44bd56",
+      "__v": 0,
+      "contentHash": "9fed4c2e5fef764e81eee3ccd924da86b6243449190099b046ca98308cc3d1c3",
+      "createdAt": "2026-10-01T02:48:55.698Z",
+      "description": "",
+      "name": "material-theme/sys/light/on-surface",
+      "nodeId": "540:2000",
+      "normalized": {
+        "resolved": true,
+        "source": "usage:I612:2928;8535:17817;8527:17521;30:780",
+        "color": "#1e1c13",
+        "opacity": null,
+        "gradient": null,
+        "imageRef": null,
+        "previewCss": "#1e1c13",
+        "usageCount": 6,
+        "usageNodeIds": [
+          "I612:2928;8535:17817;8527:17521;30:780",
+          "I612:2928;8535:17817;8527:17522;30:780",
+          "I612:2928;8535:17817;8527:17523;30:780",
+          "I710:4384;8535:17817;8527:17521;30:780",
+          "I710:4384;8535:17817;8527:17522;30:780",
+          "I710:4384;8535:17817;8527:17523;30:780"
+        ],
+        "pageIds": [
+          "612:2880"
+        ]
+      },
+      "projectId": "6abdc9c2fafb2d620f44bd47",
+      "styleType": "FILL",
+      "updatedAt": "2026-10-01T02:49:07.603Z"
+    }
+  ]
+}

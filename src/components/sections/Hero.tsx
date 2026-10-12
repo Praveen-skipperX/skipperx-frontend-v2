@@ -1,4 +1,4 @@
-import { motion, useScroll, useTransform } from "motion/react";
+import { motion } from "motion/react";
 import { AmbientGlow } from "../ui/AmbientGlow";
 import { Badge } from "../ui/Badge";
 import { GradientText } from "../ui/GradientText";
@@ -16,14 +16,10 @@ const STATS = [
 ];
 
 export function Hero() {
-  const { scrollY } = useScroll();
-  const y = useTransform(scrollY, [0, 800], ["0%", "18%"]);
-  const scale = useTransform(scrollY, [0, 800], [1, 1.08]);
-  const imageOpacity = useTransform(scrollY, [0, 700], [1, 0.55]);
-
   return (
     <section className={styles.hero} aria-labelledby="hero-heading">
-      <motion.div className={styles.media} style={{ y, scale, opacity: imageOpacity }}>
+      {/* Static media — Figma Hero has no scroll parallax */}
+      <div className={styles.media}>
         <img
           className={styles.bg}
           src={heroBg}
@@ -33,7 +29,7 @@ export function Hero() {
         <div className={styles.dim} aria-hidden="true" />
         <div className={styles.overlay} aria-hidden="true" />
         <AmbientGlow className={styles.glow} />
-      </motion.div>
+      </div>
 
       <div className={styles.content}>
         <motion.div
@@ -97,7 +93,7 @@ export function Hero() {
               scrollToId("programs");
             }}
           >
-            Explore Programs →
+            Explore Programs <ArrowRight />
           </a>
         </motion.div>
 
@@ -133,7 +129,7 @@ function ArrowRight() {
       aria-hidden="true"
     >
       <path
-        d="M5 12h14M13 6l6 6-6 6"
+        d="M5 12h14M12 5l7 7-7 7"
         stroke="currentColor"
         strokeWidth="2"
         strokeLinecap="round"

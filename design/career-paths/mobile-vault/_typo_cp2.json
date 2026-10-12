@@ -1,0 +1,642 @@
+[
+  {
+    "nodeId": "1662:8023",
+    "name": "The Process",
+    "characters": "The Process",
+    "fontSize": 16,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 5
+    },
+    "width": 112,
+    "height": 24,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:63"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8025",
+    "name": "From zero to",
+    "characters": "From zero to ",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 193,
+    "height": 41,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8026",
+    "name": "unstoppable.",
+    "characters": "unstoppable.",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 206,
+    "height": 41,
+    "fills": [
+      {
+        "type": "GRADIENT_LINEAR",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "gradientStops": [
+          {
+            "color": {
+              "r": 0.9960784316062927,
+              "g": 0.5137255191802979,
+              "b": 0.1411764770746231,
+              "a": 1
+            },
+            "position": 0,
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:27:49"
+              }
+            }
+          },
+          {
+            "color": {
+              "r": 1,
+              "g": 0.2549019753932953,
+              "b": 0.003921568859368563,
+              "a": 1
+            },
+            "position": 1,
+            "boundVariables": {
+              "color": {
+                "type": "VARIABLE_ALIAS",
+                "id": "VariableID:27:50"
+              }
+            }
+          }
+        ],
+        "gradientTransform": [
+          [
+            1,
+            -5.551115123125783e-17,
+            2.7755575615628914e-17
+          ],
+          [
+            5.551115123125783e-17,
+            0.5,
+            0.25
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8043",
+    "name": "Take our 2-minute quiz and pinpoint exactly which ",
+    "characters": "Take our 2-minute quiz and pinpoint exactly which of our 3 tracks matches your goals, strengths, and ambition level.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 291,
+    "height": 63,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8058",
+    "name": "Enroll in your chosen program and get matched with",
+    "characters": "Enroll in your chosen program and get matched with 15–50 driven peers who push you to perform at your highest level.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 291,
+    "height": 63,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8073",
+    "name": "No slide decks and passive lectures. Every week yo",
+    "characters": "No slide decks and passive lectures. Every week you ship something real. A product, a trade, a deployment, a campaign.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 291,
+    "height": 80,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8088",
+    "name": "Get direct access to 50+ industry mentors for 1:1 ",
+    "characters": "Get direct access to 50+ industry mentors for 1:1 sessions, mock interviews, and career reviews throughout the program.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 291,
+    "height": 84,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8102",
+    "name": "Graduate with a verifiable portfolio, NSDC certifi",
+    "characters": "Graduate with a verifiable portfolio, NSDC certification, and an active SkipperX community that keeps opening doors long after.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 291,
+    "height": 84,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8039",
+    "name": "01",
+    "characters": "01",
+    "fontSize": 18,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 20,
+    "height": 23,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.25,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.9960784316062927,
+          "g": 0.5137255191802979,
+          "b": 0.1411764770746231
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:19"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8041",
+    "name": "Find Your Track",
+    "characters": "Find Your Track",
+    "fontSize": 16,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "variationSettings": {
+        "wght": 500
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 117,
+    "height": 20,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8054",
+    "name": "02",
+    "characters": "02",
+    "fontSize": 18,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 23,
+    "height": 23,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.11999999731779099,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:30:13"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8056",
+    "name": "Join a Cohort",
+    "characters": "Join a Cohort",
+    "fontSize": 16,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "variationSettings": {
+        "wght": 500
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 104,
+    "height": 20,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8069",
+    "name": "03",
+    "characters": "03",
+    "fontSize": 18,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 23,
+    "height": 23,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.1899999976158142,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8071",
+    "name": "Learn by Doing",
+    "characters": "Learn by Doing",
+    "fontSize": 16,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "variationSettings": {
+        "wght": 500
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 117,
+    "height": 20,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8084",
+    "name": "04",
+    "characters": "04",
+    "fontSize": 18,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 24,
+    "height": 23,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.2199999988079071,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:128:759"
+          }
+        }
+      }
+    ]
+  }
+]

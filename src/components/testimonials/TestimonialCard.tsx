@@ -56,7 +56,6 @@ export function TestimonialCard({ item, index }: TestimonialCardProps) {
           className={styles.avatar}
           style={{
             color: "#fff",
-            background: color,
           }}
         >
           {item.name[0]}

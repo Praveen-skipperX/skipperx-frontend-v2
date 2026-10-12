@@ -62,7 +62,10 @@ export function Header() {
 
         <div className={styles.desktopCta}>
           <a href="#contact" className={styles.enquire} onClick={onEnquire}>
-            Enquire Now →
+            Enquire Now
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
           </a>
         </div>
 
@@ -115,7 +118,10 @@ export function Header() {
               ),
             )}
             <a href="#contact" className={styles.mobileEnquire} onClick={onEnquire}>
-              Enquire Now →
+              Enquire Now
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </a>
           </nav>
         </div>

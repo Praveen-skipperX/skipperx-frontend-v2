@@ -161,8 +161,18 @@
 .subscribe {
   flex-shrink: 0;
   padding: 10px 16px;
-  font-size: 13px;
+  font-size: var(--text-body);
+  min-height: 40px;
+  border-radius: var(--radius-md);
+  background: var(--color-brand-red);
+  box-shadow: none;
   white-space: nowrap;
+}
+
+.subscribe:hover {
+  background: #db3800;
+  box-shadow: none;
+  transform: none;
 }
 
 .note {
@@ -308,40 +318,35 @@
 .brand {
   position: relative;
   z-index: 0;
-  padding-bottom: 16px;
+  padding-bottom: 0;
+  display: flow-root;
+  container-type: inline-size;
   overflow: hidden;
+  line-height: 0;
 }
 
 .copy {
   position: relative;
   z-index: 1;
-  margin: 0 0 20px;
+  margin: 0 0 12px;
   color: rgb(255 255 255 / 0.28);
   font-family: var(--font-body);
   font-size: 11px;
   letter-spacing: 0.01em;
   text-align: left;
+  line-height: 1.4;
 }
 
-.wordmark {
-  margin: 0;
-  overflow: hidden;
-  height: 0.76em;
-  color: rgb(255 255 255 / 0.1);
-  font-family: var(--font-display);
-  font-size: 16vw;
-  font-weight: 700;
-  letter-spacing: -0.06em;
-  line-height: 1;
-  text-align: center;
+.wordmarkImg {
+  display: block;
+  width: min(100%, 920px);
+  height: auto;
+  /* Original PNG: 1331 × 509; artwork ends at row 337. */
+  margin: 0 auto max(-118.197px, -12.8475cqw);
+  pointer-events: none;
   user-select: none;
-  white-space: nowrap;
-}
-
-.wordmarkX {
-  margin-left: 0.06em;
-  color: rgb(254 131 36 / 0.55);
-  letter-spacing: 0;
+  opacity: 0.22;
+  vertical-align: bottom;
 }
 
 .srOnly {
@@ -403,15 +408,16 @@
   .copy {
     text-align: center;
     font-size: 12px;
-    margin-bottom: 24px;
+    margin-bottom: 8px;
   }
 
-  .wordmark {
-    font-size: 13.2vw;
+  .wordmarkImg {
+    width: min(100%, 1100px);
+    margin-bottom: max(-141.323px, -12.8475cqw);
   }
 
   .legal {
-    margin-bottom: 20px;
+    margin-bottom: 12px;
   }
 }
 

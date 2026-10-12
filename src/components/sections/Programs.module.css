@@ -185,13 +185,16 @@
 .quizButton {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   padding: 14px 32px;
   border-radius: var(--radius-full);
   border: 1px solid rgb(255 255 255 / 0.1);
   background: rgb(255 255 255 / 0.05);
   color: #fff;
-  font-size: 0.875rem;
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  font-weight: 600;
+  line-height: 1;
   backdrop-filter: blur(12px);
   transition:
     background var(--duration-base) var(--ease-out),
@@ -204,12 +207,15 @@
 }
 
 .quizArrow {
-  transition: transform var(--duration-base) var(--ease-out);
+  display: block;
+  flex-shrink: 0;
 }
 
-.quizButton:hover .quizArrow {
-  transform: translateX(4px);
+.quizArrow path {
+  vector-effect: non-scaling-stroke;
+  stroke-width: 2px;
 }
+
 
 @media (max-width: 767px) {
   .intro {

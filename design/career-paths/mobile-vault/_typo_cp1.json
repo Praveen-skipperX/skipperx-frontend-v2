@@ -1,0 +1,293 @@
+[
+  {
+    "nodeId": "1662:7996",
+    "name": "Three tracks. Zero excuses.",
+    "characters": "Three tracks.\nZero excuses.",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 212,
+    "height": 82
+  },
+  {
+    "nodeId": "1662:7998",
+    "name": "Not theory. Not certificates. Not another course y",
+    "characters": "Every program is built around real skills, real mentors, and real outcomes. You don't study here — you build. Pick the path that matches your obsession and we'll handle the rest.",
+    "fontSize": 16,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 380,
+    "height": 96,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.6000000238418579,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:61"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:8000;69:11",
+    "name": "Apply for April Cohort",
+    "characters": "Find my Track",
+    "fontSize": 16,
+    "fontWeight": 600,
+    "fontName": {
+      "family": "Poppins",
+      "style": "SemiBold"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 114,
+    "height": 24,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {}
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8002",
+    "name": "2-min quiz · no sign-up needed",
+    "characters": "2-min quiz · no sign-up needed",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 189,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8006",
+    "name": "11 Total Programs",
+    "characters": "11 Total Programs",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 103,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8009",
+    "name": "2,400+ Active Learners",
+    "characters": "2,400+ Active Learners",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 135,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8012",
+    "name": "4.8 Avg. Rating",
+    "characters": "4.8 Avg. Rating",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 88,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:8015",
+    "name": "NSDC Certified",
+    "characters": "NSDC Certified",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 88,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  }
+]

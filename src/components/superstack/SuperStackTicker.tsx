@@ -4,10 +4,12 @@ import styles from "./SuperStackTicker.module.css";
 type SuperStackTickerProps = {
   items: string;
   color: string;
+  duration?: number;
+  repeatContent?: boolean;
 };
 
-export function SuperStackTicker({ items, color }: SuperStackTickerProps) {
-  const doubled = `${items}   ·   ${items}`;
+export function SuperStackTicker({ items, color, duration = 18, repeatContent = true }: SuperStackTickerProps) {
+  const doubled = repeatContent ? `${items}   ·   ${items}` : items;
 
   return (
     <div
@@ -17,7 +19,7 @@ export function SuperStackTicker({ items, color }: SuperStackTickerProps) {
       <motion.div
         className={styles.track}
         animate={{ x: ["0%", "-50%"] }}
-        transition={{ duration: 18, repeat: Infinity, ease: "linear" }}
+        transition={{ duration, repeat: Infinity, ease: "linear" }}
         style={{ color }}
       >
         <span className={styles.chunk}>{doubled}</span>

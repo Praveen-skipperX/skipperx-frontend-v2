@@ -1,0 +1,586 @@
+[
+  {
+    "nodeId": "1662:7782",
+    "name": "The world doesn't reward the prepared. It rewards the capable.",
+    "characters": "The world doesn't reward the prepared.\nIt rewards the capable.",
+    "fontSize": 32,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 380,
+    "height": 123
+  },
+  {
+    "nodeId": "1662:7784",
+    "name": "Traditional education teaches you to pass exams. S",
+    "characters": "Traditional education teaches you to pass exams. SkipperX teaches you to build companies, ship products, fly drones, trade markets, and grow audiences. These are skills that pay — immediately, tangibly, and for life.",
+    "fontSize": 16,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 380,
+    "height": 120,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7811;1257:3512",
+    "name": "“",
+    "characters": "“",
+    "fontSize": 48,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 25,
+    "height": 39,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:51"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7811;1257:3514",
+    "name": "I used to think drone tech was only for IIT studen",
+    "characters": "I used to think drone tech was only for IIT students. SkipperX changed that. I built my first autonomous drone in week 6, and now I'm consulting for a logistics startup. Absolutely insane.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 348,
+    "height": 105,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7812;1263:950",
+    "name": "“",
+    "characters": "“",
+    "fontSize": 48,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 25,
+    "height": 61,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:52"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7812;1263:952",
+    "name": "I used to think drone tech was only for IIT studen",
+    "characters": "Before SkipperX, I had a business idea and zero idea how to execute it. In 12 weeks, I launched Digitalpreneur, hit ₹3L in revenue, and now I'm building my second product. No degree gave me this.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 348,
+    "height": 105,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7813;1265:980",
+    "name": "“",
+    "characters": "“",
+    "fontSize": 48,
+    "fontWeight": 700,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 25,
+    "height": 24,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:53"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7813;1265:982",
+    "name": "I used to think drone tech was only for IIT studen",
+    "characters": "I was working a 9-5 I hated. SkipperX's Freelancing Pro track changed everything. Within 90 days of finishing, I had replaced my salary — now I work 4 days a week and earn 2x more.",
+    "fontSize": 14,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "width": 348,
+    "height": 84,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7811;1257:3515;146:531",
+    "name": "Most Popular",
+    "characters": "Innovators",
+    "fontSize": 11,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 59,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0,
+          "g": 0.8313725590705872,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:51"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7812;1263:953;146:522",
+    "name": "Most Popular",
+    "characters": "Entrepreneurs",
+    "fontSize": 11,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 77,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 0.41960784792900085,
+          "b": 0.41960784792900085
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:52"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "I1662:7813;1265:983;146:529",
+    "name": "Most Popular",
+    "characters": "Hustlers",
+    "fontSize": 11,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 44,
+    "height": 17,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.658823549747467,
+          "g": 0.3333333432674408,
+          "b": 0.9686274528503418
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:53"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7791",
+    "name": "Real projects, not assignments",
+    "characters": "Real projects, not assignments",
+    "fontSize": 16,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "variationSettings": {
+        "wght": 500
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 239,
+    "height": 20,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7793",
+    "name": "Every week you ship something to the world.",
+    "characters": "Every week you ship something to the world.",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 264,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7799",
+    "name": "Industry mentors, not professors",
+    "characters": "Industry mentors, not professors",
+    "fontSize": 16,
+    "fontWeight": 500,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Medium",
+      "variationSettings": {
+        "wght": 500
+      }
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 362,
+    "height": 20,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:60"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodeId": "1662:7801",
+    "name": "50+ active practitioners guide your path.",
+    "characters": "50+ active practitioners guide your path.",
+    "fontSize": 12,
+    "fontWeight": 400,
+    "fontName": {
+      "family": "Poppins",
+      "style": "Regular"
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "width": 362,
+    "height": 18,
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.3799999952316284,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:62"
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,89 +1,87 @@
-/* Figma Student Voices card — default (no hover) */
+/* Student Voices — Strokes/Neutral/Default + Soft shadow */
 .card {
   --track: #00d4ff;
   --track-rgb: 0 212 255;
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: var(--space-lg); /* 24 */
+  gap: var(--space-lg);
   overflow: hidden;
   flex: 0 0 304px;
   width: 304px;
   height: 397px;
-  padding: var(--space-lg); /* 24 */
-  background: var(--color-surface-1); /* #111113 */
-  border: none;
-  border-top: 1px solid #ffffff12; /* Strokes-Neutral-Default */
+  padding: var(--space-lg);
+  background: var(--color-surface-1);
+  /* Neutral Default rgba(255,255,255,0.07) */
+  border: 1px solid rgb(255 255 255 / 0.07);
   border-radius: var(--radius-lg);
-  box-shadow: 0 0 8px 0 #ffffff14;
+  /* Strokes/Neutral/Default soft shadow */
+  box-shadow: 0 0 8px 0 rgb(255 255 255 / 0.07);
   cursor: default;
+  transform-origin: center center;
   transition:
     box-shadow var(--duration-base) var(--ease-out),
-    background var(--duration-base) var(--ease-out);
+    background var(--duration-base) var(--ease-out),
+    border-color var(--duration-base) var(--ease-out);
 }
 
-/* Soft bloom — light rim wash, kept tight to the top edge */
+/* Soft bloom — track hover glow (Strokes/{Track}/Hover shadow ~0.35) */
 .topBloom {
   position: absolute;
   top: -3px;
-  left: 8%;
-  right: 8%;
+  left: 0;
+  right: 0;
   z-index: 2;
   height: 6px;
   pointer-events: none;
   border-radius: 50%;
   background: radial-gradient(
-    ellipse 80% 100% at 50% 0%,
-    rgb(var(--track-rgb) / 0.7) 0%,
-    rgb(var(--track-rgb) / 0.22) 50%,
+    ellipse 70% 100% at 50% 0%,
+    rgb(var(--track-rgb) / 0.55) 0%,
+    rgb(var(--track-rgb) / 0.2) 50%,
     transparent 75%
   );
-  filter: blur(4px);
+  filter: blur(3px);
   opacity: 0;
   transition: opacity var(--duration-base) var(--ease-out);
 }
 
 /*
-  Figma hover accent — thin smooth rim light at TOP only
-  fades left/right; light kept near the border
+  Top accent line on hover — Stroke-M height (2px) + track Hover intensity
+  (Strokes Coral/Cyan/Purple Hover ≈ 0.30–0.35 rim + 8px glow)
 */
 .topEdge {
   position: absolute;
   top: 0;
-  left: 10%;
-  right: 10%;
+  left: 0;
+  right: 0;
   z-index: 3;
-  height: 1.5px;
+  height: 2px;
   pointer-events: none;
   border-radius: 999px;
   background: linear-gradient(
     90deg,
     transparent 0%,
-    rgb(var(--track-rgb) / 0.35) 15%,
-    rgb(var(--track-rgb) / 1) 50%,
-    rgb(var(--track-rgb) / 0.35) 85%,
+    rgb(var(--track-rgb) / 0.2) 15%,
+    rgb(var(--track-rgb) / 0.9) 40%,
+    rgb(var(--track-rgb) / 0.9) 60%,
+    rgb(var(--track-rgb) / 0.2) 85%,
     transparent 100%
   );
-  box-shadow: 0 0 6px 0 rgb(var(--track-rgb) / 0.5);
+  box-shadow: 0 0 8px 0 rgb(var(--track-rgb) / 0.35);
   opacity: 0;
   transition: opacity var(--duration-base) var(--ease-out);
 }
 
-/*
-  Figma hover card:
-  - radial track wash
-  - border-top stays Neutral #FFFFFF12 (not full colored border)
-  - same soft white shadow
-*/
 .card:hover {
-  border: none;
-  border-top: 1px solid #ffffff12;
-  background: radial-gradient(
-    166.6% 85.74% at 50% 7.66%,
-    rgb(var(--track-rgb) / 0.12) 0%,
-    rgb(255 255 255 / 0.02) 100%
-  );
-  box-shadow: 0 0 8px 0 #ffffff14;
+  border-color: rgb(255 255 255 / 0.07);
+  /* Visual reference: supplied default/hover screenshot, dark fade toward the base. */
+  background: linear-gradient(
+    180deg,
+    rgb(var(--track-rgb) / 0.06) 0%,
+    transparent 100%
+  ), #050505;
+  box-shadow: 0 0 8px 0 rgb(255 255 255 / 0.07);
 }
 
 .card:hover .topBloom,
@@ -100,11 +98,12 @@
 }
 
 .quoteMark {
+  opacity: 0.3;
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 2.5rem;
-  line-height: 0.8;
-  letter-spacing: -0.02em;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 24px;
 }
 
 .quote {
@@ -149,7 +148,8 @@
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  border: none;
+  border: 1px solid rgb(var(--track-rgb) / 0.35);
+  background: rgb(var(--track-rgb) / 0.1);
   font-family: var(--font-body);
   font-size: 14px;
   font-weight: 600;

@@ -1,0 +1,1982 @@
+[
+  {
+    "_id": "6ac9038eb81695060dd62615",
+    "nodeId": "1662:7815",
+    "name": "Entrepreneurs Programs",
+    "normalized": {
+      "width": 380,
+      "height": 1615,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62616",
+    "nodeId": "1662:7816",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 337,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263a",
+    "nodeId": "1662:7852",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 1254,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62617",
+    "nodeId": "1662:7817",
+    "name": "TrackHero",
+    "normalized": {
+      "width": 380,
+      "height": 336,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62618",
+    "nodeId": "1662:7818",
+    "name": "TrackHero",
+    "normalized": {
+      "width": 380,
+      "height": 336,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62619",
+    "nodeId": "1662:7819",
+    "name": "TrackHero",
+    "normalized": {
+      "width": 380,
+      "height": 337,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263b",
+    "nodeId": "1662:7853",
+    "name": "Program Card Button",
+    "normalized": {
+      "width": 380,
+      "height": 238,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62658",
+    "nodeId": "1662:7874",
+    "name": "Program Card Button",
+    "normalized": {
+      "width": 380,
+      "height": 238,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62673",
+    "nodeId": "1662:7894",
+    "name": "Program Card Button",
+    "normalized": {
+      "width": 380,
+      "height": 238,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62690",
+    "nodeId": "1662:7915",
+    "name": "Program Card Button",
+    "normalized": {
+      "width": 380,
+      "height": 238,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ab",
+    "nodeId": "1662:7935",
+    "name": "Program Card Button",
+    "normalized": {
+      "width": 380,
+      "height": 238,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261a",
+    "nodeId": "1662:7820",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 237,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262a",
+    "nodeId": "1662:7836",
+    "name": "Container",
+    "normalized": {
+      "width": 296,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263c",
+    "nodeId": "1662:7854",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62644",
+    "nodeId": "1662:7861",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62659",
+    "nodeId": "1662:7875",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265f",
+    "nodeId": "1662:7881",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62674",
+    "nodeId": "1662:7895",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267c",
+    "nodeId": "1662:7902",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 379,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62691",
+    "nodeId": "1662:7916",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62697",
+    "nodeId": "1662:7922",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 379,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ac",
+    "nodeId": "1662:7936",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b2",
+    "nodeId": "1662:7942",
+    "name": "ProgramCard",
+    "normalized": {
+      "width": 378,
+      "height": 76,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261b",
+    "nodeId": "1662:7821",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 40,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62620",
+    "nodeId": "1662:7826",
+    "name": "Heading 2",
+    "normalized": {
+      "width": 245,
+      "height": 41,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62622",
+    "nodeId": "1662:7828",
+    "name": "Paragraph:margin",
+    "normalized": {
+      "width": 380,
+      "height": 90,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62624",
+    "nodeId": "1662:7830",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 380,
+      "height": 42,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262b",
+    "nodeId": "1662:7837",
+    "name": "Container",
+    "normalized": {
+      "width": 54,
+      "height": 51,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62630",
+    "nodeId": "1662:7842",
+    "name": "Container",
+    "normalized": {
+      "width": 75,
+      "height": 51,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62635",
+    "nodeId": "1662:7847",
+    "name": "Container",
+    "normalized": {
+      "width": 79,
+      "height": 51,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263d",
+    "nodeId": "1662:7855",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263e",
+    "nodeId": "1662:7856",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6263f",
+    "nodeId": "1662:7857",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62642",
+    "nodeId": "1662:7859",
+    "name": "Container",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62645",
+    "nodeId": "1662:7862",
+    "name": "Container",
+    "normalized": {
+      "width": 223.8125,
+      "height": 43.98749923706055,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62655",
+    "nodeId": "1662:7873",
+    "name": "Buuton",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265a",
+    "nodeId": "1662:7876",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265b",
+    "nodeId": "1662:7877",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265c",
+    "nodeId": "1662:7878",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265d",
+    "nodeId": "1662:7879",
+    "name": "Container",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62660",
+    "nodeId": "1662:7882",
+    "name": "Container",
+    "normalized": {
+      "width": 223.8125,
+      "height": 43.98749923706055,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62670",
+    "nodeId": "1662:7893",
+    "name": "Buuton",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62675",
+    "nodeId": "1662:7896",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62676",
+    "nodeId": "1662:7897",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62677",
+    "nodeId": "1662:7898",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267a",
+    "nodeId": "1662:7900",
+    "name": "Container",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267d",
+    "nodeId": "1662:7903",
+    "name": "Container",
+    "normalized": {
+      "width": 223.8125,
+      "height": 43.98749923706055,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268d",
+    "nodeId": "1662:7914",
+    "name": "Buuton",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62692",
+    "nodeId": "1662:7917",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62693",
+    "nodeId": "1662:7918",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62694",
+    "nodeId": "1662:7919",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62695",
+    "nodeId": "1662:7920",
+    "name": "Container",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62698",
+    "nodeId": "1662:7923",
+    "name": "Container",
+    "normalized": {
+      "width": 223.8125,
+      "height": 43.98749923706055,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a8",
+    "nodeId": "1662:7934",
+    "name": "Buuton",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ad",
+    "nodeId": "1662:7937",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ae",
+    "nodeId": "1662:7938",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626af",
+    "nodeId": "1662:7939",
+    "name": "Container",
+    "normalized": {
+      "width": 378,
+      "height": 160,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b0",
+    "nodeId": "1662:7940",
+    "name": "Container",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b3",
+    "nodeId": "1662:7943",
+    "name": "Container",
+    "normalized": {
+      "width": 223.8125,
+      "height": 43.98749923706055,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c3",
+    "nodeId": "1662:7954",
+    "name": "Buuton",
+    "normalized": {
+      "width": 44,
+      "height": 44,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261c",
+    "nodeId": "1662:7822",
+    "name": "Text",
+    "normalized": {
+      "width": 119,
+      "height": 28,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261e",
+    "nodeId": "1662:7824",
+    "name": "Text",
+    "normalized": {
+      "width": 119,
+      "height": 17,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62621",
+    "nodeId": "1662:7827",
+    "name": "Entrepreneurs",
+    "normalized": {
+      "width": 221,
+      "height": 41,
+      "typography": null
+    },
+    "textContent": "Entrepreneurs",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62623",
+    "nodeId": "1662:7829",
+    "name": "The Entrepreneurs track is for those who refuse to",
+    "normalized": {
+      "width": 356,
+      "height": 90,
+      "typography": null
+    },
+    "textContent": "The Entrepreneurs track is for those who refuse to work for someone else's dream. You'll learn how to identify market gaps, build products people love, market them without burning cash, and scale to 7-figure revenues — all before anyone says you're \"qualified.\"",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62625",
+    "nodeId": "1662:7831",
+    "name": "Container",
+    "normalized": {
+      "width": 356,
+      "height": 42,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262c",
+    "nodeId": "1662:7838",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 54,
+      "height": 31,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262e",
+    "nodeId": "1662:7840",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 54,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62631",
+    "nodeId": "1662:7843",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 68,
+      "height": 31,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62633",
+    "nodeId": "1662:7845",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 75,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62636",
+    "nodeId": "1662:7848",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 79,
+      "height": 31,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62638",
+    "nodeId": "1662:7850",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 39,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62640",
+    "nodeId": "1662:7858",
+    "name": "Program Tags",
+    "normalized": {
+      "width": 88,
+      "height": 25,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62643",
+    "nodeId": "1662:7860",
+    "name": "💻",
+    "normalized": {
+      "width": 24,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "💻",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62646",
+    "nodeId": "1662:7863",
+    "name": "Heading 3",
+    "normalized": {
+      "width": 223.8125,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62648",
+    "nodeId": "1662:7865",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 223.8125,
+      "height": 23.987499237060547,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62656",
+    "nodeId": "I1662:7873;163:318",
+    "name": "Arrow right",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6265e",
+    "nodeId": "1662:7880",
+    "name": "📦",
+    "normalized": {
+      "width": 24,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "📦",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62661",
+    "nodeId": "1662:7883",
+    "name": "Heading 3",
+    "normalized": {
+      "width": 223.8125,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62663",
+    "nodeId": "1662:7885",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 223.8125,
+      "height": 23.987499237060547,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62671",
+    "nodeId": "I1662:7893;163:318",
+    "name": "Arrow right",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62678",
+    "nodeId": "1662:7899",
+    "name": "Program Tags",
+    "normalized": {
+      "width": 40,
+      "height": 25,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267b",
+    "nodeId": "1662:7901",
+    "name": "📊",
+    "normalized": {
+      "width": 24,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "📊",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267e",
+    "nodeId": "1662:7904",
+    "name": "Heading 3",
+    "normalized": {
+      "width": 223.8125,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62680",
+    "nodeId": "1662:7906",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 223.8125,
+      "height": 23.987499237060547,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268e",
+    "nodeId": "I1662:7914;163:318",
+    "name": "Arrow right",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62696",
+    "nodeId": "1662:7921",
+    "name": "🌐",
+    "normalized": {
+      "width": 24,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "🌐",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62699",
+    "nodeId": "1662:7924",
+    "name": "Heading 3",
+    "normalized": {
+      "width": 223.8125,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269b",
+    "nodeId": "1662:7926",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 223.8125,
+      "height": 23.987499237060547,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a9",
+    "nodeId": "I1662:7934;163:318",
+    "name": "Arrow right",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b1",
+    "nodeId": "1662:7941",
+    "name": "🧠",
+    "normalized": {
+      "width": 24,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "🧠",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b4",
+    "nodeId": "1662:7944",
+    "name": "Heading 3",
+    "normalized": {
+      "width": 223.8125,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b6",
+    "nodeId": "1662:7946",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 223.8125,
+      "height": 23.987499237060547,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c4",
+    "nodeId": "I1662:7954;163:318",
+    "name": "Arrow right",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261d",
+    "nodeId": "1662:7823",
+    "name": "BUILD EMPIRES",
+    "normalized": {
+      "width": 93,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "BUILD EMPIRES",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6261f",
+    "nodeId": "1662:7825",
+    "name": "5 programs available",
+    "normalized": {
+      "width": 119,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "5 programs available",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62626",
+    "nodeId": "1662:7832",
+    "name": "Icon",
+    "normalized": {
+      "width": 13.333333015441895,
+      "height": 13.333984375,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62628",
+    "nodeId": "1662:7834",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 338.6666564941406,
+      "height": 42,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262d",
+    "nodeId": "1662:7839",
+    "name": "5",
+    "normalized": {
+      "width": 15,
+      "height": 31,
+      "typography": null
+    },
+    "textContent": "5",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6262f",
+    "nodeId": "1662:7841",
+    "name": "Programs",
+    "normalized": {
+      "width": 54,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Programs",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62632",
+    "nodeId": "1662:7844",
+    "name": "₹12L+",
+    "normalized": {
+      "width": 68,
+      "height": 31,
+      "typography": null
+    },
+    "textContent": "₹12L+",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62634",
+    "nodeId": "1662:7846",
+    "name": "Avg. Package",
+    "normalized": {
+      "width": 75,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Avg. Package",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62637",
+    "nodeId": "1662:7849",
+    "name": "1,200+",
+    "normalized": {
+      "width": 79,
+      "height": 31,
+      "typography": null
+    },
+    "textContent": "1,200+",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62639",
+    "nodeId": "1662:7851",
+    "name": "Alumni",
+    "normalized": {
+      "width": 39,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Alumni",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62641",
+    "nodeId": "I1662:7858;146:522",
+    "name": "Most Popular",
+    "normalized": {
+      "width": 72,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Most Popular",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62647",
+    "nodeId": "1662:7864",
+    "name": "Digitalpreneur",
+    "normalized": {
+      "width": 111,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Digitalpreneur",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62649",
+    "nodeId": "1662:7866",
+    "name": "Container",
+    "normalized": {
+      "width": 222,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62657",
+    "nodeId": "I1662:7873;163:318;69:28",
+    "name": "Icon",
+    "normalized": {
+      "width": 9.333333015441895,
+      "height": 9.333333015441895,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62662",
+    "nodeId": "1662:7884",
+    "name": "Product Management",
+    "normalized": {
+      "width": 168,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Product Management",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62664",
+    "nodeId": "1662:7886",
+    "name": "Container",
+    "normalized": {
+      "width": 178,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62672",
+    "nodeId": "I1662:7893;163:318;69:28",
+    "name": "Icon",
+    "normalized": {
+      "width": 9.333333015441895,
+      "height": 9.333333015441895,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62679",
+    "nodeId": "I1662:7899;146:522",
+    "name": "Most Popular",
+    "normalized": {
+      "width": 24,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "New",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6267f",
+    "nodeId": "1662:7905",
+    "name": "Data Science & Analytics",
+    "normalized": {
+      "width": 196,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Data Science  & Analytics",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62681",
+    "nodeId": "1662:7907",
+    "name": "Container",
+    "normalized": {
+      "width": 246,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268f",
+    "nodeId": "I1662:7914;163:318;69:28",
+    "name": "Icon",
+    "normalized": {
+      "width": 9.333333015441895,
+      "height": 9.333333015441895,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269a",
+    "nodeId": "1662:7925",
+    "name": "Web Development",
+    "normalized": {
+      "width": 144,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Web  Development",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269c",
+    "nodeId": "1662:7927",
+    "name": "Container",
+    "normalized": {
+      "width": 237,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626aa",
+    "nodeId": "I1662:7934;163:318;69:28",
+    "name": "Icon",
+    "normalized": {
+      "width": 9.333333015441895,
+      "height": 9.333333015441895,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b5",
+    "nodeId": "1662:7945",
+    "name": "Psychology",
+    "normalized": {
+      "width": 91,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Psychology",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b7",
+    "nodeId": "1662:7947",
+    "name": "Container",
+    "normalized": {
+      "width": 150,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c5",
+    "nodeId": "I1662:7954;163:318;69:28",
+    "name": "Icon",
+    "normalized": {
+      "width": 9.333333015441895,
+      "height": 9.333333015441895,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62627",
+    "nodeId": "1662:7833",
+    "name": "Vector",
+    "normalized": {
+      "width": 13.333333015441895,
+      "height": 13.333984375,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62629",
+    "nodeId": "1662:7835",
+    "name": "Every company you admire started as someone's craz",
+    "normalized": {
+      "width": 326,
+      "height": 42,
+      "typography": null
+    },
+    "textContent": "Every company you admire started as someone's crazy idea. You're the next one.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264a",
+    "nodeId": "1662:7867",
+    "name": "Text",
+    "normalized": {
+      "width": 69,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264f",
+    "nodeId": "1662:7870",
+    "name": "Text",
+    "normalized": {
+      "width": 141,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62665",
+    "nodeId": "1662:7887",
+    "name": "Text",
+    "normalized": {
+      "width": 70,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266a",
+    "nodeId": "1662:7890",
+    "name": "Text",
+    "normalized": {
+      "width": 96,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62682",
+    "nodeId": "1662:7908",
+    "name": "Text",
+    "normalized": {
+      "width": 70,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62687",
+    "nodeId": "1662:7911",
+    "name": "Text",
+    "normalized": {
+      "width": 164,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269d",
+    "nodeId": "1662:7928",
+    "name": "Text",
+    "normalized": {
+      "width": 69,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a2",
+    "nodeId": "1662:7931",
+    "name": "Text",
+    "normalized": {
+      "width": 156,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b8",
+    "nodeId": "1662:7948",
+    "name": "Text",
+    "normalized": {
+      "width": 66,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626bd",
+    "nodeId": "1662:7951",
+    "name": "Text",
+    "normalized": {
+      "width": 72,
+      "height": 15.987500190734863,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264b",
+    "nodeId": "1662:7868",
+    "name": "Clock",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264e",
+    "nodeId": "1662:7869",
+    "name": "12 Weeks",
+    "normalized": {
+      "width": 53,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "12 Weeks",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62650",
+    "nodeId": "1662:7871",
+    "name": "Level",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62654",
+    "nodeId": "1662:7872",
+    "name": "Beginner–Advanced",
+    "normalized": {
+      "width": 123,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Beginner–Advanced",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62666",
+    "nodeId": "1662:7888",
+    "name": "Clock",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62669",
+    "nodeId": "1662:7889",
+    "name": "10 Weeks",
+    "normalized": {
+      "width": 54,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "10 Weeks",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266b",
+    "nodeId": "1662:7891",
+    "name": "Level",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266f",
+    "nodeId": "1662:7892",
+    "name": "Intermediate",
+    "normalized": {
+      "width": 78,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Intermediate",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62683",
+    "nodeId": "1662:7909",
+    "name": "Clock",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62686",
+    "nodeId": "1662:7910",
+    "name": "14 Weeks",
+    "normalized": {
+      "width": 54,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "14 Weeks",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62688",
+    "nodeId": "1662:7912",
+    "name": "Level",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268c",
+    "nodeId": "1662:7913",
+    "name": "Intermediate-Advanced",
+    "normalized": {
+      "width": 146,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Intermediate-Advanced",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269e",
+    "nodeId": "1662:7929",
+    "name": "Clock",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a1",
+    "nodeId": "1662:7930",
+    "name": "12 Weeks",
+    "normalized": {
+      "width": 53,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "12 Weeks",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a3",
+    "nodeId": "1662:7932",
+    "name": "Level",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a7",
+    "nodeId": "1662:7933",
+    "name": "Beginner-Intermediate",
+    "normalized": {
+      "width": 138,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Beginner-Intermediate",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626b9",
+    "nodeId": "1662:7949",
+    "name": "Clock",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626bc",
+    "nodeId": "1662:7950",
+    "name": "8 Weeks",
+    "normalized": {
+      "width": 50,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "8 Weeks",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626be",
+    "nodeId": "1662:7952",
+    "name": "Level",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c2",
+    "nodeId": "1662:7953",
+    "name": "Beginner",
+    "normalized": {
+      "width": 54,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Beginner",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264c",
+    "nodeId": "I1662:7868;138:86",
+    "name": "Vector",
+    "normalized": {
+      "width": 10,
+      "height": 10,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6264d",
+    "nodeId": "I1662:7868;138:87",
+    "name": "Vector",
+    "normalized": {
+      "width": 2,
+      "height": 4,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62651",
+    "nodeId": "I1662:7871;138:95",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62652",
+    "nodeId": "I1662:7871;138:96",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 8,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62653",
+    "nodeId": "I1662:7871;138:97",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 3,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62667",
+    "nodeId": "I1662:7888;138:86",
+    "name": "Vector",
+    "normalized": {
+      "width": 10,
+      "height": 10,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62668",
+    "nodeId": "I1662:7888;138:87",
+    "name": "Vector",
+    "normalized": {
+      "width": 2,
+      "height": 4,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266c",
+    "nodeId": "I1662:7891;138:95",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266d",
+    "nodeId": "I1662:7891;138:96",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 8,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6266e",
+    "nodeId": "I1662:7891;138:97",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 3,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62684",
+    "nodeId": "I1662:7909;138:86",
+    "name": "Vector",
+    "normalized": {
+      "width": 10,
+      "height": 10,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62685",
+    "nodeId": "I1662:7909;138:87",
+    "name": "Vector",
+    "normalized": {
+      "width": 2,
+      "height": 4,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62689",
+    "nodeId": "I1662:7912;138:95",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268a",
+    "nodeId": "I1662:7912;138:96",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 8,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6268b",
+    "nodeId": "I1662:7912;138:97",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 3,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6269f",
+    "nodeId": "I1662:7929;138:86",
+    "name": "Vector",
+    "normalized": {
+      "width": 10,
+      "height": 10,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a0",
+    "nodeId": "I1662:7929;138:87",
+    "name": "Vector",
+    "normalized": {
+      "width": 2,
+      "height": 4,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a4",
+    "nodeId": "I1662:7932;138:95",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a5",
+    "nodeId": "I1662:7932;138:96",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 8,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626a6",
+    "nodeId": "I1662:7932;138:97",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 3,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626ba",
+    "nodeId": "I1662:7949;138:86",
+    "name": "Vector",
+    "normalized": {
+      "width": 10,
+      "height": 10,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626bb",
+    "nodeId": "I1662:7949;138:87",
+    "name": "Vector",
+    "normalized": {
+      "width": 2,
+      "height": 4,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626bf",
+    "nodeId": "I1662:7952;138:95",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c0",
+    "nodeId": "I1662:7952;138:96",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 8,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd626c1",
+    "nodeId": "I1662:7952;138:97",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 3,
+      "typography": null
+    },
+    "type": "VECTOR"
+  }
+]

@@ -43,6 +43,11 @@ button {
   cursor: pointer;
 }
 
+/* Clear fixed announcement banner + header */
+.page > main {
+  padding-top: var(--header-offset);
+}
+
 h1,
 h2,
 h3,

@@ -1,0 +1,181 @@
+{
+  "cacheFirst": true,
+  "note": "Compact raw node from Mongo. Full document tree is in raw snapshot file.json.gz.",
+  "nodeId": "1662:7996",
+  "name": "Three tracks. Zero excuses.",
+  "type": "TEXT",
+  "raw": {
+    "id": "1662:7996",
+    "name": "Three tracks. Zero excuses.",
+    "type": "TEXT",
+    "parentId": "1662:7995",
+    "pageId": "612:2880",
+    "depth": 7,
+    "path": "Mobile / Career Paths Mobile / CP 1 / Container / Header / Container / Display Heading / Three tracks. Zero excuses.",
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "x": 0,
+    "y": 0,
+    "width": 212,
+    "height": 82,
+    "rotation": 0,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ]
+    ],
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "layoutSizingHorizontal": "HUG",
+    "layoutSizingVertical": "HUG",
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "OUTSIDE",
+    "strokeCap": "NONE",
+    "strokeJoin": "MITER",
+    "dashPattern": [],
+    "effects": [],
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "characters": "Three tracks.\nZero excuses.",
+    "fontSize": 32,
+    "fontName": {
+      "family": "Space Grotesk",
+      "style": "Bold",
+      "variationSettings": {
+        "wght": 700
+      }
+    },
+    "fontWeight": 700,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    },
+    "paragraphIndent": 0,
+    "paragraphSpacing": 0,
+    "textAlignHorizontal": "LEFT",
+    "textAlignVertical": "CENTER",
+    "textAutoResize": "WIDTH_AND_HEIGHT",
+    "textTruncation": "DISABLED",
+    "maxLines": null,
+    "hyperlink": null,
+    "textStyleId": "S:026281db2156926960393e02c421db5524c2f2da,",
+    "strokeStyleId": "",
+    "effectStyleId": "",
+    "openTypeFeatures": {},
+    "componentPropertyReferences": null,
+    "reactions": [],
+    "exportSettings": [],
+    "boundVariables": {
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:60"
+        }
+      ],
+      "fontSize": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:265:1752"
+        }
+      ],
+      "fontStyle": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:66:88"
+        }
+      ],
+      "fontFamily": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:34:3"
+        }
+      ]
+    },
+    "absoluteBoundingBox": {
+      "x": 1157,
+      "y": 13892,
+      "width": 212,
+      "height": 82
+    },
+    "absoluteRenderBounds": {
+      "x": 1157.7679443359375,
+      "y": 13901.599609375,
+      "width": 209.3837890625,
+      "height": 63.8486328125
+    },
+    "annotations": [],
+    "size": {
+      "width": 212,
+      "height": 82
+    },
+    "childCount": null
+  },
+  "normalized": {
+    "width": 212,
+    "height": 82,
+    "boundVariables": {
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:60"
+        }
+      ],
+      "fontSize": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:265:1752"
+        }
+      ],
+      "fontStyle": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:66:88"
+        }
+      ],
+      "fontFamily": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:34:3"
+        }
+      ]
+    },
+    "boundVariableIds": [
+      "VariableID:27:60",
+      "VariableID:265:1752",
+      "VariableID:66:88",
+      "VariableID:34:3"
+    ],
+    "styles": null,
+    "typography": null
+  },
+  "boundVariableIds": [
+    "VariableID:27:60",
+    "VariableID:265:1752",
+    "VariableID:66:88",
+    "VariableID:34:3"
+  ]
+}

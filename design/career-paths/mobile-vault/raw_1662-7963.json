@@ -1,0 +1,341 @@
+{
+  "cacheFirst": true,
+  "note": "Compact raw node from Mongo. Full document tree is in raw snapshot file.json.gz.",
+  "nodeId": "1662:7963",
+  "name": "Track",
+  "type": "INSTANCE",
+  "raw": {
+    "id": "1662:7963",
+    "name": "Track",
+    "type": "INSTANCE",
+    "parentId": "1662:7956",
+    "pageId": "612:2880",
+    "depth": 4,
+    "path": "Mobile / Career Paths Mobile / CP 4 / Section / Track",
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "x": 0,
+    "y": 112,
+    "width": 380,
+    "height": 55,
+    "rotation": 0,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        112
+      ]
+    ],
+    "layoutMode": "HORIZONTAL",
+    "primaryAxisSizingMode": "FIXED",
+    "counterAxisSizingMode": "AUTO",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "paddingLeft": 8,
+    "paddingRight": 8,
+    "paddingTop": 8,
+    "paddingBottom": 8,
+    "itemSpacing": 8,
+    "counterAxisSpacing": 0,
+    "layoutWrap": "NO_WRAP",
+    "itemReverseZIndex": false,
+    "strokesIncludedInLayout": true,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.029999999329447746,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:68:7"
+          }
+        }
+      }
+    ],
+    "strokes": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.07000000029802322,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:15:3666"
+          }
+        }
+      }
+    ],
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeAlign": "INSIDE",
+    "strokeCap": "NONE",
+    "strokeJoin": "MITER",
+    "dashPattern": [],
+    "effects": [],
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "maskType": "ALPHA",
+    "clipsContent": false,
+    "cornerRadius": 16,
+    "topLeftRadius": 16,
+    "topRightRadius": 16,
+    "bottomLeftRadius": 16,
+    "bottomRightRadius": 16,
+    "cornerSmoothing": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "effectStyleId": "",
+    "gridStyleId": "",
+    "mainComponent": {
+      "resolved": false,
+      "reason": "in get_mainComponent: Cannot call with documentAccess: dynamic-page. Use node.getMainComponentAsync instead."
+    },
+    "componentProperties": {
+      "Active": {
+        "value": "Entrepreneurs",
+        "type": "VARIANT",
+        "boundVariables": {}
+      }
+    },
+    "componentPropertyReferences": null,
+    "variantProperties": {
+      "Active": "Entrepreneurs"
+    },
+    "reactions": [],
+    "overflowDirection": "NONE",
+    "numberOfFixedChildren": 0,
+    "overlayPositionType": "CENTER",
+    "overlayBackground": {
+      "type": "NONE"
+    },
+    "overlayBackgroundInteraction": "NONE",
+    "exportSettings": [],
+    "boundVariables": {
+      "itemSpacing": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingLeft": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingTop": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingRight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingBottom": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "topLeftRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "topRightRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "bottomLeftRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "bottomRightRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "strokeTopWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeBottomWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeLeftWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeRightWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:68:7"
+        }
+      ],
+      "strokes": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:15:3666"
+        }
+      ]
+    },
+    "guides": [],
+    "expanded": false,
+    "backgrounds": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 0.029999999329447746,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:68:7"
+          }
+        }
+      }
+    ],
+    "backgroundStyleId": "",
+    "absoluteBoundingBox": {
+      "x": 1157,
+      "y": 15900,
+      "width": 380,
+      "height": 55
+    },
+    "absoluteRenderBounds": {
+      "x": 1157,
+      "y": 15900,
+      "width": 380,
+      "height": 55
+    },
+    "childCount": 3,
+    "annotations": [],
+    "size": {
+      "width": 380,
+      "height": 55
+    }
+  },
+  "normalized": {
+    "width": 380,
+    "height": 55,
+    "boundVariables": {
+      "itemSpacing": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingLeft": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingTop": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingRight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "paddingBottom": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:12"
+      },
+      "topLeftRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "topRightRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "bottomLeftRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "bottomRightRadius": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:27:14"
+      },
+      "strokeTopWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeBottomWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeLeftWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "strokeRightWeight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:26:2"
+      },
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:68:7"
+        }
+      ],
+      "strokes": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:15:3666"
+        }
+      ]
+    },
+    "boundVariableIds": [
+      "VariableID:33:12",
+      "VariableID:27:14",
+      "VariableID:26:2",
+      "VariableID:68:7",
+      "VariableID:15:3666"
+    ],
+    "styles": null,
+    "typography": null
+  },
+  "boundVariableIds": [
+    "VariableID:33:12",
+    "VariableID:27:14",
+    "VariableID:26:2",
+    "VariableID:68:7",
+    "VariableID:15:3666"
+  ]
+}

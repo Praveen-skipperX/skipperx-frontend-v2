@@ -1,0 +1,254 @@
+.section {
+  padding: 35px 48px 76px;
+  background: var(--color-surface-0);
+}
+
+.inner {
+  max-width: 1334px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 445px minmax(0, 697px);
+  gap: 182px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 445px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.276;
+  letter-spacing: 0;
+  color: white;
+}
+
+.titleLine2 {
+  display: block;
+}
+
+.gradZero {
+  background-image: linear-gradient(90deg, #ff6b6b 0%, #a855f7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.gradExcuses {
+  background-image: linear-gradient(90deg, #00d4ff 0%, #a855f7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: rgb(255 255 255 / 0.45);
+}
+
+.ctaBlock,
+.ctaRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 56px;
+  padding: 16px 32px;
+  border: 0;
+  border-radius: 40px;
+  background: var(--gradient-brand);
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  box-shadow: 0 0 32px 2px rgb(254 131 36 / 0.3);
+  transition: box-shadow 200ms ease-in-out;
+}
+
+.cta:is(:hover, :active, :focus-within) {
+  box-shadow:
+    inset 0 0 0 1px rgb(254 131 36 / 0.28),
+    0 0 32px 3px rgb(254 131 36 / 0.34);
+}
+
+.cta:active {
+  box-shadow: 0 0 32px 2px rgb(254 131 36 / 0.3);
+}
+
+.hint {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: var(--text-label);
+  line-height: 18px;
+  color: var(--color-text-muted);
+}
+
+.pills {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 179px);
+  gap: 8px 16px;
+  max-width: 374px;
+}
+
+.pill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 36px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid rgb(255 255 255 / 0.07);
+  background: var(--color-glass);
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+
+.media {
+  position: relative;
+  width: 100%;
+  max-width: 697px;
+  justify-self: end;
+  aspect-ratio: 697 / 456;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 0.8px solid rgb(255 255 255 / 0.08);
+  box-shadow: 0 0 48px 0 var(--glow, rgb(254 131 36 / 0.12));
+}
+
+.heroImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mediaFade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgb(10 10 11 / 0) 55%,
+    rgb(10 10 11 / 0.6) 100%
+  );
+  pointer-events: none;
+}
+
+@media (min-width: 1201px) {
+  .title {
+    width: 318px;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1300px) {
+  .inner {
+    gap: 48px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .inner {
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+
+  .copy {
+    max-width: none;
+  }
+
+  .media {
+    max-width: none;
+    justify-self: stretch;
+  }
+}
+
+@media (max-width: 640px) {
+  .section {
+    padding: 24px 16px;
+  }
+
+  .inner {
+    gap: 16px;
+  }
+
+  .copy {
+    gap: 24px;
+    align-items: stretch;
+  }
+
+  .title {
+    width: auto;
+    font-size: 32px;
+    line-height: 1.276;
+  }
+
+  .body {
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(255 255 255 / 0.6);
+  }
+
+  .ctaBlock {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  .cta {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .hint {
+    text-align: center;
+    color: rgb(255 255 255 / 0.38);
+  }
+
+  .pills {
+    max-width: none;
+    width: 100%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .pill {
+    justify-content: flex-start;
+    padding: 8px 12px;
+  }
+
+  .media {
+    aspect-ratio: 380 / 196;
+    border-radius: 16px;
+  }
+}
+
+/* Mobile layout from the 412px Figma frame. */
+@media (max-width: 640px) {
+  .copy { gap:24px; } .title { margin-bottom:-8px; } .ctaBlock { align-items:center; gap:4px; } .cta { max-width:324px; } .pills { max-width:374px; align-self:center; gap:8px 16px; } .pill { justify-content:center; }
+}

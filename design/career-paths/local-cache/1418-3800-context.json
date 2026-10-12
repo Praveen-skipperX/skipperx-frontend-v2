@@ -1,0 +1,363 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "BOTH",
+  "lastImportedAt": null,
+  "lastSyncAt": "Thu Oct 01 2026 08:21:16 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6abdc9dffafb2d620f44bd56",
+    "name": "SkipperX V2 Abbas",
+    "fileKey": "5bayKUVnMbYFUcZ9vLft8B",
+    "source": "BOTH"
+  },
+  "page": {
+    "id": "3:3",
+    "name": "Website"
+  },
+  "node": {
+    "id": "1418:3800",
+    "name": "Container",
+    "type": "FRAME",
+    "parentId": "1418:3799",
+    "pageId": "3:3",
+    "depth": 3,
+    "path": "Container",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1438:3772",
+        "name": "Career Paths Page",
+        "type": "FRAME",
+        "parentId": "3:3",
+        "pageId": "3:3",
+        "depth": 1,
+        "x": -2224,
+        "y": 12622,
+        "width": 1440,
+        "height": 5658
+      },
+      {
+        "id": "1418:3799",
+        "name": "CP 6",
+        "type": "FRAME",
+        "parentId": "1438:3772",
+        "pageId": "3:3",
+        "depth": 2,
+        "x": -2224,
+        "y": 16424,
+        "width": 1440,
+        "height": 685.5
+      }
+    ],
+    "self": {
+      "id": "1418:3800",
+      "name": "Container",
+      "type": "FRAME",
+      "parentId": "1418:3799",
+      "pageId": "3:3",
+      "depth": 3,
+      "x": -2160,
+      "y": 16488,
+      "width": 1312,
+      "height": 557.5,
+      "childCount": 3
+    },
+    "children": [
+      {
+        "id": "1418:3801",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1418:3800",
+        "pageId": "3:3",
+        "depth": 4,
+        "x": -2160,
+        "y": 16488,
+        "width": 1312,
+        "height": 1,
+        "childCount": 0
+      },
+      {
+        "id": "1418:3802",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1418:3800",
+        "pageId": "3:3",
+        "depth": 4,
+        "x": -2160,
+        "y": 16537,
+        "width": 1312,
+        "height": 82.5,
+        "childCount": 2
+      },
+      {
+        "id": "1418:3812",
+        "name": "Stack",
+        "type": "FRAME",
+        "parentId": "1418:3800",
+        "pageId": "3:3",
+        "depth": 4,
+        "x": -2160,
+        "y": 16667.5,
+        "width": 1312,
+        "height": 378,
+        "childCount": 4
+      }
+    ]
+  },
+  "layout": {
+    "x": -2160,
+    "y": 16488,
+    "width": 1312,
+    "height": 557.5,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "CENTER",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 48,
+    "padding": {
+      "top": null,
+      "right": null,
+      "bottom": null,
+      "left": null
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "layoutSizingHorizontal": "FILL",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": false,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:33:16",
+      "name": "2xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 48
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:56:347",
+      "name": "Fill/Neutral/Frost",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#FFFFFF14"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:14",
+      "name": "lg",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 24
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1418:3800",
+      "property": "itemSpacing",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE",
+    "message": "No prototype interactions on this node"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [
+    {
+      "nodeId": "12:202",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "tablet",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "12:242",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "tablet",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "15:3311",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "tablet",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "1435:3314",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "desktop",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "1435:3351",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "desktop",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "1439:4476",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "desktop",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "1439:4513",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "desktop",
+      "evidence": "viewportCategory field"
+    },
+    {
+      "nodeId": "1439:3796",
+      "name": "Container",
+      "kind": "EXPLICIT_DESIGN",
+      "viewportCategory": "desktop",
+      "evidence": "viewportCategory field"
+    }
+  ],
+  "children": [
+    {
+      "nodeId": "1418:3801",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 1312,
+        "height": 1
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1418:3801",
+          "property": "fills",
+          "variableId": "VariableID:56:347",
+          "variableName": "Fill/Neutral/Frost",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#FFFFFF14",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1418:3802",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 1312,
+        "height": 82.5
+      },
+      "variableBindings": []
+    },
+    {
+      "nodeId": "1418:3812",
+      "name": "Stack",
+      "type": "FRAME",
+      "layout": {
+        "width": 1312,
+        "height": 378
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1418:3812",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:14",
+          "variableName": "lg",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 24,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6abdc9dffafb2d620f44bd56",
+    "nodeId": "1418:3800",
+    "pageId": "3:3",
+    "projectId": "6abdc9c2fafb2d620f44bd47"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX V2 Abbas\nPage: Website\nNode: Container (FRAME)\nSize: 1312 × 557.5\nVariable bindings:\n  itemSpacing → 2xl [Spacing / Mode 1] = 48\nChildren (3):\n  - Container (FRAME)\n  - Container (FRAME)\n  - Stack (FRAME)\nScreenshot: NOT_CACHED"
+}

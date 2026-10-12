@@ -1,0 +1,872 @@
+[
+  {
+    "_id": "6ac9038eb81695060dd625c7",
+    "nodeId": "1662:7776",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 1141,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625c8",
+    "nodeId": "1662:7777",
+    "name": "Divider",
+    "normalized": {
+      "width": 380,
+      "height": 1,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625c9",
+    "nodeId": "1662:7778",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 1116,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ca",
+    "nodeId": "1662:7779",
+    "name": "Section Content",
+    "normalized": {
+      "width": 380,
+      "height": 430,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e9",
+    "nodeId": "1662:7810",
+    "name": "Reviews",
+    "normalized": {
+      "width": 380,
+      "height": 662,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625cb",
+    "nodeId": "1662:7780",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 251,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d0",
+    "nodeId": "1662:7785",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 155,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ea",
+    "nodeId": "1662:7811",
+    "name": "Review card Cyan-Horizontal",
+    "normalized": {
+      "width": 380,
+      "height": 217,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f8",
+    "nodeId": "1662:7812",
+    "name": "Review card Coral-Horizontal",
+    "normalized": {
+      "width": 380,
+      "height": 217,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62606",
+    "nodeId": "1662:7813",
+    "name": "Review card Purple-Horizontal",
+    "normalized": {
+      "width": 380,
+      "height": 196,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625cc",
+    "nodeId": "1662:7781",
+    "name": "Title",
+    "normalized": {
+      "width": 380,
+      "height": 123,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ce",
+    "nodeId": "1662:7783",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 380,
+      "height": 120,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d1",
+    "nodeId": "1662:7786",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d9",
+    "nodeId": "1662:7794",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e1",
+    "nodeId": "1662:7802",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625eb",
+    "nodeId": "I1662:7811;1257:3511",
+    "name": "div",
+    "normalized": {
+      "width": 25,
+      "height": 24,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ed",
+    "nodeId": "I1662:7811;1257:3513",
+    "name": "p",
+    "normalized": {
+      "width": 348,
+      "height": 105,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ef",
+    "nodeId": "I1662:7811;1257:3537",
+    "name": "Container",
+    "normalized": {
+      "width": 348,
+      "height": 40,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f9",
+    "nodeId": "I1662:7812;1263:949",
+    "name": "div",
+    "normalized": {
+      "width": 25,
+      "height": 24,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625fb",
+    "nodeId": "I1662:7812;1263:951",
+    "name": "p",
+    "normalized": {
+      "width": 348,
+      "height": 105,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625fd",
+    "nodeId": "I1662:7812;1264:962",
+    "name": "Container",
+    "normalized": {
+      "width": 348,
+      "height": 40,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62607",
+    "nodeId": "I1662:7813;1265:979",
+    "name": "div",
+    "normalized": {
+      "width": 25,
+      "height": 24,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62609",
+    "nodeId": "I1662:7813;1265:981",
+    "name": "p",
+    "normalized": {
+      "width": 348,
+      "height": 84,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260b",
+    "nodeId": "I1662:7813;1265:992",
+    "name": "Container",
+    "normalized": {
+      "width": 348,
+      "height": 40,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625cd",
+    "nodeId": "1662:7782",
+    "name": "The world doesn't reward the prepared. It rewards the capable.",
+    "normalized": {
+      "width": 380,
+      "height": 123,
+      "typography": null
+    },
+    "textContent": "The world doesn't reward the prepared.\nIt rewards the capable.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625cf",
+    "nodeId": "1662:7784",
+    "name": "Traditional education teaches you to pass exams. S",
+    "normalized": {
+      "width": 380,
+      "height": 120,
+      "typography": null
+    },
+    "textContent": "Traditional education teaches you to pass exams. SkipperX teaches you to build companies, ship products, fly drones, trade markets, and grow audiences. These are skills that pay — immediately, tangibly, and for life.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d2",
+    "nodeId": "1662:7787",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 6,
+      "height": 14,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d4",
+    "nodeId": "1662:7789",
+    "name": "Container",
+    "normalized": {
+      "width": 263.6750183105469,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625da",
+    "nodeId": "1662:7795",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 6,
+      "height": 14,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625dc",
+    "nodeId": "1662:7797",
+    "name": "Container",
+    "normalized": {
+      "width": 362,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e2",
+    "nodeId": "1662:7803",
+    "name": "Container:margin",
+    "normalized": {
+      "width": 6,
+      "height": 14,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e4",
+    "nodeId": "1662:7805",
+    "name": "Container",
+    "normalized": {
+      "width": 362,
+      "height": 38,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ec",
+    "nodeId": "I1662:7811;1257:3512",
+    "name": "“",
+    "normalized": {
+      "width": 25,
+      "height": 39,
+      "typography": null
+    },
+    "textContent": "“",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ee",
+    "nodeId": "I1662:7811;1257:3514",
+    "name": "I used to think drone tech was only for IIT studen",
+    "normalized": {
+      "width": 348,
+      "height": 105,
+      "typography": null
+    },
+    "textContent": "I used to think drone tech was only for IIT students. SkipperX changed that. I built my first autonomous drone in week 6, and now I'm consulting for a logistics startup. Absolutely insane.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f0",
+    "nodeId": "I1662:7811;1257:3516",
+    "name": "div",
+    "normalized": {
+      "width": 122,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f6",
+    "nodeId": "I1662:7811;1257:3515",
+    "name": "Program Tags",
+    "normalized": {
+      "width": 83,
+      "height": 33,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625fa",
+    "nodeId": "I1662:7812;1263:950",
+    "name": "“",
+    "normalized": {
+      "width": 25,
+      "height": 61,
+      "typography": null
+    },
+    "textContent": "“",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625fc",
+    "nodeId": "I1662:7812;1263:952",
+    "name": "I used to think drone tech was only for IIT studen",
+    "normalized": {
+      "width": 348,
+      "height": 105,
+      "typography": null
+    },
+    "textContent": "Before SkipperX, I had a business idea and zero idea how to execute it. In 12 weeks, I launched Digitalpreneur, hit ₹3L in revenue, and now I'm building my second product. No degree gave me this.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625fe",
+    "nodeId": "I1662:7812;1263:954",
+    "name": "div",
+    "normalized": {
+      "width": 196,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62604",
+    "nodeId": "I1662:7812;1263:953",
+    "name": "Program Tags",
+    "normalized": {
+      "width": 101,
+      "height": 33,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62608",
+    "nodeId": "I1662:7813;1265:980",
+    "name": "“",
+    "normalized": {
+      "width": 25,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "“",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260a",
+    "nodeId": "I1662:7813;1265:982",
+    "name": "I used to think drone tech was only for IIT studen",
+    "normalized": {
+      "width": 348,
+      "height": 84,
+      "typography": null
+    },
+    "textContent": "I was working a 9-5 I hated. SkipperX's Freelancing Pro track changed everything. Within 90 days of finishing, I had replaced my salary — now I work 4 days a week and earn 2x more.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260c",
+    "nodeId": "I1662:7813;1265:984",
+    "name": "div",
+    "normalized": {
+      "width": 196,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62612",
+    "nodeId": "I1662:7813;1265:983",
+    "name": "Program Tags",
+    "normalized": {
+      "width": 68,
+      "height": 33,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d3",
+    "nodeId": "1662:7788",
+    "name": "Container",
+    "normalized": {
+      "width": 6,
+      "height": 6,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d5",
+    "nodeId": "1662:7790",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 263.6750183105469,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d7",
+    "nodeId": "1662:7792",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 263.6750183105469,
+      "height": 18,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625db",
+    "nodeId": "1662:7796",
+    "name": "Container",
+    "normalized": {
+      "width": 6,
+      "height": 6,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625dd",
+    "nodeId": "1662:7798",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 362,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625df",
+    "nodeId": "1662:7800",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 362,
+      "height": 18,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e3",
+    "nodeId": "1662:7804",
+    "name": "Container",
+    "normalized": {
+      "width": 6,
+      "height": 6,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e5",
+    "nodeId": "1662:7806",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 253.83750915527344,
+      "height": 20,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e7",
+    "nodeId": "1662:7808",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 362,
+      "height": 18,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f1",
+    "nodeId": "I1662:7811;1257:3517",
+    "name": "Container",
+    "normalized": {
+      "width": 36,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f3",
+    "nodeId": "I1662:7811;1257:3519",
+    "name": "Container",
+    "normalized": {
+      "width": 78,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f7",
+    "nodeId": "I1662:7811;1257:3515;146:531",
+    "name": "Most Popular",
+    "normalized": {
+      "width": 59,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Innovators",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625ff",
+    "nodeId": "I1662:7812;1263:955",
+    "name": "Container",
+    "normalized": {
+      "width": 36,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62601",
+    "nodeId": "I1662:7812;1263:957",
+    "name": "Container",
+    "normalized": {
+      "width": 148,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62605",
+    "nodeId": "I1662:7812;1263:953;146:522",
+    "name": "Most Popular",
+    "normalized": {
+      "width": 77,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Entrepreneurs",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260d",
+    "nodeId": "I1662:7813;1265:985",
+    "name": "Container",
+    "normalized": {
+      "width": 36,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260f",
+    "nodeId": "I1662:7813;1265:987",
+    "name": "Container",
+    "normalized": {
+      "width": 148,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62613",
+    "nodeId": "I1662:7813;1265:983;146:529",
+    "name": "Most Popular",
+    "normalized": {
+      "width": 44,
+      "height": 17,
+      "typography": null
+    },
+    "textContent": "Hustlers",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d6",
+    "nodeId": "1662:7791",
+    "name": "Real projects, not assignments",
+    "normalized": {
+      "width": 239,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Real projects, not assignments",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625d8",
+    "nodeId": "1662:7793",
+    "name": "Every week you ship something to the world.",
+    "normalized": {
+      "width": 264,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "Every week you ship something to the world.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625de",
+    "nodeId": "1662:7799",
+    "name": "Industry mentors, not professors",
+    "normalized": {
+      "width": 362,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Industry mentors, not professors",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e0",
+    "nodeId": "1662:7801",
+    "name": "50+ active practitioners guide your path.",
+    "normalized": {
+      "width": 362,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "50+ active practitioners guide your path.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e6",
+    "nodeId": "1662:7807",
+    "name": "Community, not classrooms",
+    "normalized": {
+      "width": 253.83750915527344,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "Community, not classrooms",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625e8",
+    "nodeId": "1662:7809",
+    "name": "2,400+ peers who push you to your ceiling.",
+    "normalized": {
+      "width": 362,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "2,400+ peers who push you to your ceiling.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f2",
+    "nodeId": "I1662:7811;1257:3518",
+    "name": "P",
+    "normalized": {
+      "width": 9,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "P",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f4",
+    "nodeId": "I1662:7811;1257:3520",
+    "name": "Container",
+    "normalized": {
+      "width": 78,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62600",
+    "nodeId": "I1662:7812;1263:956",
+    "name": "A",
+    "normalized": {
+      "width": 11,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "A",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62602",
+    "nodeId": "I1662:7812;1263:958",
+    "name": "Container",
+    "normalized": {
+      "width": 148,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6260e",
+    "nodeId": "I1662:7813;1265:986",
+    "name": "R",
+    "normalized": {
+      "width": 9,
+      "height": 20,
+      "typography": null
+    },
+    "textContent": "R",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62610",
+    "nodeId": "I1662:7813;1265:988",
+    "name": "Container",
+    "normalized": {
+      "width": 148,
+      "height": 21,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd625f5",
+    "nodeId": "I1662:7811;1257:3521",
+    "name": "Priya Nair",
+    "normalized": {
+      "width": 65,
+      "height": 21,
+      "typography": null
+    },
+    "textContent": "Priya Nair",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62603",
+    "nodeId": "I1662:7812;1263:959",
+    "name": "Arjun Mehta",
+    "normalized": {
+      "width": 83,
+      "height": 21,
+      "typography": null
+    },
+    "textContent": "Arjun Mehta",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62611",
+    "nodeId": "I1662:7813;1265:989",
+    "name": "Rahul Sharma",
+    "normalized": {
+      "width": 93,
+      "height": 21,
+      "typography": null
+    },
+    "textContent": "Rahul Sharma",
+    "type": "TEXT"
+  }
+]

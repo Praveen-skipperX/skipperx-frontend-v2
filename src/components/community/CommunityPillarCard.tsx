@@ -1,3 +1,4 @@
+import type { CSSProperties } from "react";
 import type { CommunityPillar } from "../../data/community";
 import {
   AllianceIcon,
@@ -24,10 +25,13 @@ export function CommunityPillarCard({ pillar }: CommunityPillarCardProps) {
   return (
     <article
       className={styles.card}
-      style={{
-        borderColor: `${pillar.color}22`,
-        background: `linear-gradient(180deg, ${pillar.color}0A 0%, rgb(17 17 19 / 0.92) 42%)`,
-      }}
+      style={
+        {
+          "--pillar-border": `${pillar.color}38`,
+          "--pillar-border-hover": `${pillar.color}59`,
+          background: `linear-gradient(180deg, ${pillar.color}0A 0%, rgb(17 17 19 / 0.92) 42%)`,
+        } as CSSProperties
+      }
     >
       <div
         className={styles.icon}

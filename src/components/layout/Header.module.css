@@ -53,20 +53,29 @@
 .enquire {
   display: inline-flex;
   align-items: center;
-  padding: 8px 20px;
+  gap: 12px;
+  height: 56px;
+  padding: 0 32px;
   border-radius: var(--radius-full);
   color: #fff;
   background: var(--gradient-brand);
-  box-shadow: 0 0 20px rgb(254 131 36 / 0.35);
+  /* Effects — Brand Glow S (Default CTA) / M (Hover CTA) */
+  box-shadow: var(--glow-s);
   font-family: var(--font-body);
-  font-size: 0.875rem;
+  font-size: var(--text-body);
   font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0;
   text-decoration: none;
-  transition: transform var(--duration-base);
+  transition: box-shadow var(--duration-base) var(--ease-out);
 }
 
 .enquire:hover {
-  transform: translateY(-1px);
+  box-shadow: var(--glow-m);
+}
+
+.enquire:active {
+  box-shadow: var(--glow-s);
 }
 
 .menuButton {
@@ -110,15 +119,21 @@
 }
 
 .mobileEnquire {
-  display: inline-block;
+  display: inline-flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
   align-self: flex-start;
   margin-top: 8px;
-  padding: 10px 24px;
+  height: 48px;
+  padding: 0 24px;
   border-radius: var(--radius-full);
   color: #fff;
   background: var(--gradient-brand);
   font-family: var(--font-body);
   font-weight: 600;
+  font-size: var(--text-body);
+  line-height: 1;
   text-decoration: none;
 }
 

@@ -1,0 +1,1368 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "BOTH",
+  "lastImportedAt": null,
+  "lastSyncAt": "Thu Oct 01 2026 08:21:16 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6abdc9dffafb2d620f44bd56",
+    "name": "SkipperX V2 Abbas",
+    "fileKey": "5bayKUVnMbYFUcZ9vLft8B",
+    "source": "BOTH"
+  },
+  "page": {
+    "id": "3:3",
+    "name": "Website"
+  },
+  "node": {
+    "id": "1277:3560",
+    "name": "CP 7",
+    "type": "FRAME",
+    "parentId": "1438:3772",
+    "pageId": "3:3",
+    "depth": 2,
+    "path": "CP 7",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1438:3772",
+        "name": "Career Paths Page",
+        "type": "FRAME",
+        "parentId": "3:3",
+        "pageId": "3:3",
+        "depth": 1,
+        "x": -2224,
+        "y": 12622,
+        "width": 1440,
+        "height": 5658
+      }
+    ],
+    "self": {
+      "id": "1277:3560",
+      "name": "CP 7",
+      "type": "FRAME",
+      "parentId": "1438:3772",
+      "pageId": "3:3",
+      "depth": 2,
+      "x": -2224,
+      "y": 17110,
+      "width": 1440,
+      "height": 729,
+      "childCount": 1
+    },
+    "children": [
+      {
+        "id": "1277:3559",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1277:3560",
+        "pageId": "3:3",
+        "depth": 3,
+        "x": -2139.5,
+        "y": 17158,
+        "width": 1271,
+        "height": 633,
+        "childCount": 2,
+        "children": [
+          {
+            "id": "1277:3558",
+            "name": "Container",
+            "type": "FRAME",
+            "parentId": "1277:3559",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2139.5,
+            "y": 17207,
+            "width": 1271,
+            "height": 584,
+            "childCount": 2,
+            "children": [
+              {
+                "id": "1271:3555",
+                "name": "Reviews",
+                "type": "FRAME",
+                "parentId": "1277:3558",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1417.5,
+                "y": 17207,
+                "width": 549,
+                "height": 584,
+                "childCount": 3,
+                "children": [
+                  {
+                    "id": "1271:3494",
+                    "name": "Review card Coral-Horizontal",
+                    "type": "INSTANCE",
+                    "parentId": "1271:3555",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1417.5,
+                    "y": 17407,
+                    "width": 549,
+                    "height": 184,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "id": "I1271:3494;1264:962",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1271:3494",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17539,
+                        "width": 501,
+                        "height": 40,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "I1271:3494;1263:953",
+                            "name": "Program Tags",
+                            "type": "INSTANCE",
+                            "parentId": "I1271:3494;1264:962",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1104.5,
+                            "y": 17540.5,
+                            "width": 212,
+                            "height": 33,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1271:3494;1263:953;146:522",
+                                "name": "Most Popular",
+                                "type": "TEXT",
+                                "parentId": "I1271:3494;1263:953",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1092.5,
+                                "y": 17548.5,
+                                "width": 188,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "I1271:3494;1263:954",
+                            "name": "div",
+                            "type": "FRAME",
+                            "parentId": "I1271:3494;1264:962",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17539,
+                            "width": 196,
+                            "height": 36,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "I1271:3494;1263:955",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3494;1263:954",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1393.5,
+                                "y": 17539,
+                                "width": 36,
+                                "height": 36,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3494;1263:956",
+                                    "name": "A",
+                                    "type": "TEXT",
+                                    "parentId": "I1271:3494;1263:955",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1381,
+                                    "y": 17547,
+                                    "width": 11,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "I1271:3494;1263:957",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3494;1263:954",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1345.5,
+                                "y": 17546.5,
+                                "width": 148,
+                                "height": 21,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3494;1263:958",
+                                    "name": "Container",
+                                    "type": "FRAME",
+                                    "parentId": "I1271:3494;1263:957",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1345.5,
+                                    "y": 17546.5,
+                                    "width": 148,
+                                    "height": 21,
+                                    "childCount": 1,
+                                    "children": [
+                                      {
+                                        "id": "I1271:3494;1263:959",
+                                        "name": "Arjun Mehta",
+                                        "type": "TEXT",
+                                        "parentId": "I1271:3494;1263:958",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1345.5,
+                                        "y": 17546.833984375,
+                                        "width": 83,
+                                        "height": 21,
+                                        "childCount": 0
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3494;1263:949",
+                        "name": "div",
+                        "type": "FRAME",
+                        "parentId": "1271:3494",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17419,
+                        "width": 25,
+                        "height": 24,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3494;1263:950",
+                            "name": "“",
+                            "type": "TEXT",
+                            "parentId": "I1271:3494;1263:949",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17419,
+                            "width": 25,
+                            "height": 61,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3494;1263:951",
+                        "name": "p",
+                        "type": "FRAME",
+                        "parentId": "1271:3494",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17455,
+                        "width": 501,
+                        "height": 72,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3494;1263:952",
+                            "name": "I used to think drone tech was only for IIT studen",
+                            "type": "TEXT",
+                            "parentId": "I1271:3494;1263:951",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17459.5,
+                            "width": 501,
+                            "height": 63,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1271:3403",
+                    "name": "Review card Cyan-Horizontal",
+                    "type": "INSTANCE",
+                    "parentId": "1271:3555",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1417.5,
+                    "y": 17207,
+                    "width": 549,
+                    "height": 184,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "id": "I1271:3403;1257:3537",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1271:3403",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17339,
+                        "width": 501,
+                        "height": 40,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "I1271:3403;1257:3515",
+                            "name": "Program Tags",
+                            "type": "INSTANCE",
+                            "parentId": "I1271:3403;1257:3537",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1086.5,
+                            "y": 17340.5,
+                            "width": 194,
+                            "height": 33,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1271:3403;1257:3515;146:531",
+                                "name": "Most Popular",
+                                "type": "TEXT",
+                                "parentId": "I1271:3403;1257:3515",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1074.5,
+                                "y": 17348.5,
+                                "width": 170,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "I1271:3403;1257:3516",
+                            "name": "div",
+                            "type": "FRAME",
+                            "parentId": "I1271:3403;1257:3537",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17339,
+                            "width": 122,
+                            "height": 36,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "I1271:3403;1257:3517",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3403;1257:3516",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1393.5,
+                                "y": 17339,
+                                "width": 36,
+                                "height": 36,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3403;1257:3518",
+                                    "name": "P",
+                                    "type": "TEXT",
+                                    "parentId": "I1271:3403;1257:3517",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1380,
+                                    "y": 17347,
+                                    "width": 9,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "I1271:3403;1257:3519",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3403;1257:3516",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1349.5,
+                                "y": 17346.5,
+                                "width": 78,
+                                "height": 21,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3403;1257:3520",
+                                    "name": "Container",
+                                    "type": "FRAME",
+                                    "parentId": "I1271:3403;1257:3519",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1349.5,
+                                    "y": 17346.5,
+                                    "width": 78,
+                                    "height": 21,
+                                    "childCount": 1,
+                                    "children": [
+                                      {
+                                        "id": "I1271:3403;1257:3521",
+                                        "name": "Priya Nair",
+                                        "type": "TEXT",
+                                        "parentId": "I1271:3403;1257:3520",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1349.5,
+                                        "y": 17346.833984375,
+                                        "width": 65,
+                                        "height": 21,
+                                        "childCount": 0
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3403;1257:3511",
+                        "name": "div",
+                        "type": "FRAME",
+                        "parentId": "1271:3403",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17219,
+                        "width": 25,
+                        "height": 24,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3403;1257:3512",
+                            "name": "“",
+                            "type": "TEXT",
+                            "parentId": "I1271:3403;1257:3511",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17219,
+                            "width": 25,
+                            "height": 39,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3403;1257:3513",
+                        "name": "p",
+                        "type": "FRAME",
+                        "parentId": "1271:3403",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17255,
+                        "width": 501,
+                        "height": 72,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3403;1257:3514",
+                            "name": "I used to think drone tech was only for IIT studen",
+                            "type": "TEXT",
+                            "parentId": "I1271:3403;1257:3513",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17259.5,
+                            "width": 501,
+                            "height": 63,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1271:3540",
+                    "name": "Review card Purple-Horizontal",
+                    "type": "INSTANCE",
+                    "parentId": "1271:3555",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1417.5,
+                    "y": 17607,
+                    "width": 549,
+                    "height": 184,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "id": "I1271:3540;1265:992",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1271:3540",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17739,
+                        "width": 501,
+                        "height": 40,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "I1271:3540;1265:983",
+                            "name": "Program Tags",
+                            "type": "INSTANCE",
+                            "parentId": "I1271:3540;1265:992",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1068.5,
+                            "y": 17740.5,
+                            "width": 176,
+                            "height": 33,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1271:3540;1265:983;146:529",
+                                "name": "Most Popular",
+                                "type": "TEXT",
+                                "parentId": "I1271:3540;1265:983",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1056.5,
+                                "y": 17748.5,
+                                "width": 152,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "I1271:3540;1265:984",
+                            "name": "div",
+                            "type": "FRAME",
+                            "parentId": "I1271:3540;1265:992",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17739,
+                            "width": 196,
+                            "height": 36,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "I1271:3540;1265:985",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3540;1265:984",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1393.5,
+                                "y": 17739,
+                                "width": 36,
+                                "height": 36,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3540;1265:986",
+                                    "name": "R",
+                                    "type": "TEXT",
+                                    "parentId": "I1271:3540;1265:985",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1380,
+                                    "y": 17747,
+                                    "width": 9,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "I1271:3540;1265:987",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "I1271:3540;1265:984",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1345.5,
+                                "y": 17746.5,
+                                "width": 148,
+                                "height": 21,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "I1271:3540;1265:988",
+                                    "name": "Container",
+                                    "type": "FRAME",
+                                    "parentId": "I1271:3540;1265:987",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1345.5,
+                                    "y": 17746.5,
+                                    "width": 148,
+                                    "height": 21,
+                                    "childCount": 1,
+                                    "children": [
+                                      {
+                                        "id": "I1271:3540;1265:989",
+                                        "name": "Rahul Sharma",
+                                        "type": "TEXT",
+                                        "parentId": "I1271:3540;1265:988",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1345.5,
+                                        "y": 17746.833984375,
+                                        "width": 93,
+                                        "height": 21,
+                                        "childCount": 0
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3540;1265:979",
+                        "name": "div",
+                        "type": "FRAME",
+                        "parentId": "1271:3540",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17619,
+                        "width": 25,
+                        "height": 24,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3540;1265:980",
+                            "name": "“",
+                            "type": "TEXT",
+                            "parentId": "I1271:3540;1265:979",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17619,
+                            "width": 25,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "I1271:3540;1265:981",
+                        "name": "p",
+                        "type": "FRAME",
+                        "parentId": "1271:3540",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1393.5,
+                        "y": 17655,
+                        "width": 501,
+                        "height": 72,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1271:3540;1265:982",
+                            "name": "I used to think drone tech was only for IIT studen",
+                            "type": "TEXT",
+                            "parentId": "I1271:3540;1265:981",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1393.5,
+                            "y": 17659.5,
+                            "width": 501,
+                            "height": 63,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1277:3557",
+                "name": "Section Content",
+                "type": "FRAME",
+                "parentId": "1277:3558",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2139.5,
+                "y": 17207,
+                "width": 674,
+                "height": 490,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1277:3556",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1277:3557",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2139.5,
+                    "y": 17207,
+                    "width": 674,
+                    "height": 287,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1250:2935",
+                        "name": "Paragraph",
+                        "type": "FRAME",
+                        "parentId": "1277:3556",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2139.5,
+                        "y": 17398,
+                        "width": 528,
+                        "height": 96,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1250:2933",
+                            "name": "Traditional education teaches you to pass exams. S",
+                            "type": "TEXT",
+                            "parentId": "1250:2935",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5,
+                            "y": 17398,
+                            "width": 528,
+                            "height": 96,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1250:2934",
+                        "name": "Title",
+                        "type": "FRAME",
+                        "parentId": "1277:3556",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2139.5,
+                        "y": 17207,
+                        "width": 674,
+                        "height": 183,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1250:2930",
+                            "name": "The world doesn't reward the prepared. It rewards the capable.",
+                            "type": "TEXT",
+                            "parentId": "1250:2934",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5,
+                            "y": 17207,
+                            "width": 674,
+                            "height": 183,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1250:2936",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1277:3557",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2139.5,
+                    "y": 17542,
+                    "width": 528,
+                    "height": 155,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "id": "1250:2937",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1250:2936",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2139.5,
+                        "y": 17542,
+                        "width": 528,
+                        "height": 38,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1250:2940",
+                            "name": "Container",
+                            "type": "FRAME",
+                            "parentId": "1250:2937",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121.5,
+                            "y": 17542,
+                            "width": 263.6750183105469,
+                            "height": 38,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "1250:2941",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2940",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17542,
+                                "width": 263.6750183105469,
+                                "height": 20,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2942",
+                                    "name": "Real projects, not assignments",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2941",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17542,
+                                    "width": 239,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "1250:2943",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2940",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17562,
+                                "width": 263.6750183105469,
+                                "height": 18,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2944",
+                                    "name": "Every week you ship something to the world.",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2943",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17562,
+                                    "width": 264,
+                                    "height": 18,
+                                    "childCount": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1250:2938",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1250:2937",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5,
+                            "y": 17542,
+                            "width": 6,
+                            "height": 14,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1250:2939",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1250:2938",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2139.5,
+                                "y": 17550,
+                                "width": 6,
+                                "height": 6,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1250:2945",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1250:2936",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2139.5,
+                        "y": 17596,
+                        "width": 528,
+                        "height": 38,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1250:2948",
+                            "name": "Container",
+                            "type": "FRAME",
+                            "parentId": "1250:2945",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121.5,
+                            "y": 17596,
+                            "width": 510,
+                            "height": 38,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "1250:2949",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2948",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17596,
+                                "width": 510,
+                                "height": 20,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2950",
+                                    "name": "Industry mentors, not professors",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2949",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17596,
+                                    "width": 510,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "1250:2951",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2948",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17616,
+                                "width": 510,
+                                "height": 18,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2952",
+                                    "name": "50+ active practitioners guide your path.",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2951",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17616,
+                                    "width": 510,
+                                    "height": 18,
+                                    "childCount": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1250:2946",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1250:2945",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5,
+                            "y": 17596,
+                            "width": 6,
+                            "height": 14,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1250:2947",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1250:2946",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2139.5,
+                                "y": 17604,
+                                "width": 6,
+                                "height": 6,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1250:2953",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1250:2936",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2139.5,
+                        "y": 17650,
+                        "width": 528,
+                        "height": 38,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1250:2956",
+                            "name": "Container",
+                            "type": "FRAME",
+                            "parentId": "1250:2953",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121.5,
+                            "y": 17650,
+                            "width": 510,
+                            "height": 38,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "1250:2957",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2956",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17650,
+                                "width": 253.83750915527344,
+                                "height": 20,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2958",
+                                    "name": "Community, not classrooms",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2957",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17650,
+                                    "width": 253.83750915527344,
+                                    "height": 20,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "1250:2959",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1250:2956",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2121.5,
+                                "y": 17670,
+                                "width": 510,
+                                "height": 18,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1250:2960",
+                                    "name": "2,400+ peers who push you to your ceiling.",
+                                    "type": "TEXT",
+                                    "parentId": "1250:2959",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2121.5,
+                                    "y": 17670,
+                                    "width": 510,
+                                    "height": 18,
+                                    "childCount": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1250:2954",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1250:2953",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5,
+                            "y": 17650,
+                            "width": 6,
+                            "height": 14,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1250:2955",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1250:2954",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2139.5,
+                                "y": 17658,
+                                "width": 6,
+                                "height": 6,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1250:2931",
+            "name": "Divider",
+            "type": "FRAME",
+            "parentId": "1277:3559",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2139.5,
+            "y": 17158,
+            "width": 1271,
+            "height": 1,
+            "childCount": 0
+          }
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "x": -2224,
+    "y": 17110,
+    "width": 1440,
+    "height": 729,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 48,
+      "right": 48,
+      "bottom": 48,
+      "left": 48
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#0a0a0b",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#0A0A0B",
+        "source": "VARIABLE",
+        "variableId": "VariableID:27:56",
+        "variableName": "Backgrounds/Surface 0"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:33:16",
+      "name": "2xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 48
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1277:3560",
+      "property": "paddingLeft",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1277:3560",
+      "property": "paddingTop",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1277:3560",
+      "property": "paddingRight",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1277:3560",
+      "property": "paddingBottom",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1277:3560",
+      "property": "fills",
+      "variableId": "VariableID:27:56",
+      "variableName": "Backgrounds/Surface 0",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#0A0A0B",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE",
+    "message": "No prototype interactions on this node"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1277:3559",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 1271,
+        "height": 633
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1277:3559",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:16",
+          "variableName": "2xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 48,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6abdc9dffafb2d620f44bd56",
+    "nodeId": "1277:3560",
+    "pageId": "3:3",
+    "projectId": "6abdc9c2fafb2d620f44bd47"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX V2 Abbas\nPage: Website\nNode: CP 7 (FRAME)\nSize: 1440 × 729\nVariable bindings:\n  paddingLeft → 2xl [Spacing / Mode 1] = 48\n  paddingTop → 2xl [Spacing / Mode 1] = 48\n  paddingRight → 2xl [Spacing / Mode 1] = 48\n  paddingBottom → 2xl [Spacing / Mode 1] = 48\n  fills → Backgrounds/Surface 0 [Color / Mode 1] = \"#0A0A0B\"\nChildren (1):\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

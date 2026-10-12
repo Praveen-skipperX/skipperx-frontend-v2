@@ -21,6 +21,8 @@ export type Track = {
   color: string;
   colorDim: string;
   colorBorder: string;
+  /** Figma Strokes/{Track}/Hover — program card hover rim + glow */
+  colorBorderHover: string;
   colorGlow: string;
   colorText: string;
   badgeBg: string;
@@ -42,16 +44,18 @@ export const TRACKS: Record<TrackKey, Track> = {
     description:
       "Turn ideas into income. Master the art of business in the digital age.",
     color: "#FF6B6B",
+    /* Effects Gradients/Entrepreneurs — rgba(255,107,107,0.12) */
     colorDim: "rgba(255,107,107,0.12)",
     colorBorder: "rgba(255,107,107,0.28)",
+    colorBorderHover: "rgba(255,107,107,0.35)",
     colorGlow: "rgba(255,107,107,0.06)",
     colorText: "#FF6B6B",
     badgeBg: "rgba(255,107,107,0.15)",
     icon: "🚀",
     stats: [
       { value: "5", label: "Programs" },
-      { value: "₹12L+", label: "Avg. Starting Package" },
-      { value: "1,200+", label: "Alumni Entrepreneurs" },
+      { value: "₹12L+", label: "Avg. Package" },
+      { value: "1,200+", label: "Alumni" },
     ],
     programs: [
       {
@@ -81,20 +85,20 @@ export const TRACKS: Record<TrackKey, Track> = {
         tag: "New",
       },
       {
-        name: "Psychology",
-        description:
-          "Understand human behaviour to influence, lead, and design better experiences.",
-        duration: "8 Weeks",
-        level: "Beginner",
-        icon: "🧠",
-      },
-      {
         name: "Web Development",
         description:
           "Build professional, production-ready websites and web apps from the ground up.",
         duration: "12 Weeks",
         level: "Beginner–Intermediate",
         icon: "🌐",
+      },
+      {
+        name: "Psychology",
+        description:
+          "Understand human behaviour to influence, lead, and design better experiences.",
+        duration: "8 Weeks",
+        level: "Beginner",
+        icon: "🧠",
       },
     ],
   },
@@ -104,16 +108,18 @@ export const TRACKS: Record<TrackKey, Track> = {
     description:
       "Build the future with bleeding-edge tech — from autonomous drones to immersive worlds.",
     color: "#00D4FF",
-    colorDim: "rgba(0,212,255,0.10)",
+    /* Effects — Innovators category wash */
+    colorDim: "rgba(0,212,255,0.18)",
     colorBorder: "rgba(0,212,255,0.22)",
+    colorBorderHover: "rgba(0,212,255,0.30)",
     colorGlow: "rgba(0,212,255,0.05)",
     colorText: "#00D4FF",
     badgeBg: "rgba(0,212,255,0.12)",
     icon: "⚡",
     stats: [
       { value: "4", label: "Programs" },
-      { value: "₹15L+", label: "Avg. Starting Package" },
-      { value: "850+", label: "Alumni Innovators" },
+      { value: "₹15L+", label: "Avg. Package" },
+      { value: "850+", label: "Alumni" },
     ],
     programs: [
       {
@@ -159,16 +165,18 @@ export const TRACKS: Record<TrackKey, Track> = {
     description:
       "No shortcuts, only skills. Stack income streams and own your financial destiny.",
     color: "#A855F7",
-    colorDim: "rgba(168,85,247,0.10)",
+    /* Effects — Hustlers category wash */
+    colorDim: "rgba(168,85,247,0.18)",
     colorBorder: "rgba(168,85,247,0.22)",
+    colorBorderHover: "rgba(168,85,247,0.30)",
     colorGlow: "rgba(168,85,247,0.05)",
     colorText: "#A855F7",
     badgeBg: "rgba(168,85,247,0.14)",
     icon: "💎",
     stats: [
       { value: "2", label: "Programs" },
-      { value: "₹10L+", label: "Avg. Starting Package" },
-      { value: "1,050+", label: "Alumni Hustlers" },
+      { value: "₹10L+", label: "Avg. Package" },
+      { value: "1,050+", label: "Alumni" },
     ],
     programs: [
       {

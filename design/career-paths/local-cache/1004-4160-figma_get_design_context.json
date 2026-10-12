@@ -1,0 +1,1453 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "BOTH",
+  "lastImportedAt": null,
+  "lastSyncAt": "Thu Oct 01 2026 08:21:16 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6abdc9dffafb2d620f44bd56",
+    "name": "SkipperX V2 Abbas",
+    "fileKey": "5bayKUVnMbYFUcZ9vLft8B",
+    "source": "BOTH"
+  },
+  "page": {
+    "id": "3:3",
+    "name": "Website"
+  },
+  "node": {
+    "id": "1004:4160",
+    "name": "CP 1",
+    "type": "FRAME",
+    "parentId": "1438:3772",
+    "pageId": "3:3",
+    "depth": 2,
+    "path": "CP 1",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1438:3772",
+        "name": "Career Paths Page",
+        "type": "FRAME",
+        "parentId": "3:3",
+        "pageId": "3:3",
+        "depth": 1,
+        "x": -2224,
+        "y": 12622,
+        "width": 1440,
+        "height": 5658
+      }
+    ],
+    "self": {
+      "id": "1004:4160",
+      "name": "CP 1",
+      "type": "FRAME",
+      "parentId": "1438:3772",
+      "pageId": "3:3",
+      "depth": 2,
+      "x": -2224,
+      "y": 12622,
+      "width": 1440,
+      "height": 655,
+      "childCount": 2
+    },
+    "children": [
+      {
+        "id": "1021:4458",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1004:4160",
+        "pageId": "3:3",
+        "depth": 3,
+        "x": -2176,
+        "y": 12745,
+        "width": 1334,
+        "height": 456,
+        "childCount": 2,
+        "children": [
+          {
+            "id": "1008:4344",
+            "name": "Container",
+            "type": "FRAME",
+            "parentId": "1021:4458",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -1539,
+            "y": 12745,
+            "width": 697,
+            "height": 456,
+            "childCount": 2,
+            "children": [
+              {
+                "id": "1008:4346",
+                "name": "Container",
+                "type": "FRAME",
+                "parentId": "1008:4344",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1538,
+                "y": 12746,
+                "width": 696,
+                "height": 455,
+                "childCount": 0
+              },
+              {
+                "id": "1008:4345",
+                "name": "ImageWithFallback",
+                "type": "FRAME",
+                "parentId": "1008:4344",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1538,
+                "y": 12746,
+                "width": 696,
+                "height": 455,
+                "childCount": 0
+              }
+            ]
+          },
+          {
+            "id": "1007:4304",
+            "name": "Header",
+            "type": "FRAME",
+            "parentId": "1021:4458",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2176,
+            "y": 12750,
+            "width": 445,
+            "height": 446,
+            "childCount": 3,
+            "children": [
+              {
+                "id": "1007:4303",
+                "name": "Container",
+                "type": "FRAME",
+                "parentId": "1007:4304",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2176,
+                "y": 12750,
+                "width": 445,
+                "height": 246,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1004:4171",
+                    "name": "Display Heading",
+                    "type": "FRAME",
+                    "parentId": "1007:4303",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2176,
+                    "y": 12750,
+                    "width": 318,
+                    "height": 122,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "id": "1004:4172",
+                        "name": "Three tracks. Zero excuses.",
+                        "type": "TEXT",
+                        "parentId": "1004:4171",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2176,
+                        "y": 12750,
+                        "width": 318,
+                        "height": 122,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1004:4174",
+                    "name": "Paragraph",
+                    "type": "FRAME",
+                    "parentId": "1007:4303",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2176,
+                    "y": 12888,
+                    "width": 445,
+                    "height": 108,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "id": "1004:4175",
+                        "name": "Not theory. Not certificates. Not another course y",
+                        "type": "TEXT",
+                        "parentId": "1004:4174",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2176,
+                        "y": 12888,
+                        "width": 445,
+                        "height": 108,
+                        "childCount": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1007:4302",
+                "name": "Container",
+                "type": "FRAME",
+                "parentId": "1007:4304",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2176,
+                "y": 13028,
+                "width": 407,
+                "height": 56,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1004:4177",
+                    "name": "Hero button",
+                    "type": "INSTANCE",
+                    "parentId": "1007:4302",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2176,
+                    "y": 13028,
+                    "width": 202,
+                    "height": 56,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4177;69:11",
+                        "name": "Apply for April Cohort",
+                        "type": "TEXT",
+                        "parentId": "1004:4177",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2144,
+                        "y": 13044,
+                        "width": 114,
+                        "height": 24,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4177;71:30",
+                        "name": "Shine",
+                        "type": "INSTANCE",
+                        "parentId": "1004:4177",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2022,
+                        "y": 13048,
+                        "width": 16,
+                        "height": 16,
+                        "childCount": 5,
+                        "children": [
+                          {
+                            "id": "I1004:4177;71:30;1007:4288",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4177;71:30",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2020.6656494140625,
+                            "y": 13049.3330078125,
+                            "width": 13.333683013916016,
+                            "height": 13.333666801452637,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1004:4177;71:30;1007:4289",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4177;71:30",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2008.6666259765625,
+                            "y": 13050,
+                            "width": 0,
+                            "height": 2.6666667461395264,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1004:4177;71:30;1007:4290",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4177;71:30",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2010,
+                            "y": 13051.3330078125,
+                            "width": 2.6666667461395264,
+                            "height": 0,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1004:4177;71:30;1007:4291",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4177;71:30",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2019.3333740234375,
+                            "y": 13059.3330078125,
+                            "width": 0,
+                            "height": 1.3333333730697632,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1004:4177;71:30;1007:4292",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4177;71:30",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2020,
+                            "y": 13060,
+                            "width": 1.3333333730697632,
+                            "height": 0,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1007:4301",
+                    "name": "Text",
+                    "type": "FRAME",
+                    "parentId": "1007:4302",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1958,
+                    "y": 13047,
+                    "width": 189,
+                    "height": 18,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "id": "1007:4295",
+                        "name": "2-min quiz · no sign-up needed",
+                        "type": "TEXT",
+                        "parentId": "1007:4301",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1958,
+                        "y": 13047,
+                        "width": 189,
+                        "height": 18,
+                        "childCount": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1008:4343",
+                "name": "Pills",
+                "type": "FRAME",
+                "parentId": "1007:4304",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2176,
+                "y": 13116,
+                "width": 374,
+                "height": 80,
+                "childCount": 4,
+                "children": [
+                  {
+                    "id": "1007:4305",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1008:4343",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2176,
+                    "y": 13116,
+                    "width": 179,
+                    "height": 36,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1007:4310",
+                        "name": "11 Total Programs",
+                        "type": "TEXT",
+                        "parentId": "1007:4305",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2127,
+                        "y": 13125,
+                        "width": 103,
+                        "height": 18,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1008:4315",
+                        "name": "Career",
+                        "type": "INSTANCE",
+                        "parentId": "1007:4305",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2149,
+                        "y": 13127,
+                        "width": 14,
+                        "height": 14,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1008:4315;1007:4312",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4315",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2147.833251953125,
+                            "y": 13128.75,
+                            "width": 11.666666984558105,
+                            "height": 10.5,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1008:4318",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1008:4343",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1981,
+                    "y": 13116,
+                    "width": 179,
+                    "height": 36,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1008:4320",
+                        "name": "2,400+ Active Learners",
+                        "type": "TEXT",
+                        "parentId": "1008:4318",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1948,
+                        "y": 13125,
+                        "width": 135,
+                        "height": 18,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1008:4319",
+                        "name": "Users",
+                        "type": "INSTANCE",
+                        "parentId": "1008:4318",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1970,
+                        "y": 13127,
+                        "width": 14,
+                        "height": 14,
+                        "childCount": 4,
+                        "children": [
+                          {
+                            "id": "I1008:4319;207:911",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4319",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1968.8333740234375,
+                            "y": 13135.75,
+                            "width": 8.166666030883789,
+                            "height": 3.5,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1008:4319;207:912",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4319",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1967.0833740234375,
+                            "y": 13128.75,
+                            "width": 4.666666507720947,
+                            "height": 4.666666507720947,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1008:4319;207:913",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4319",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1958.9166259765625,
+                            "y": 13135.826171875,
+                            "width": 1.75,
+                            "height": 3.424166440963745,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1008:4319;207:914",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4319",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1960.6666259765625,
+                            "y": 13128.826171875,
+                            "width": 1.7545750141143799,
+                            "height": 4.5208330154418945,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1008:4326",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1008:4343",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2176,
+                    "y": 13160,
+                    "width": 179,
+                    "height": 36,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1008:4328",
+                        "name": "4.8 Avg. Rating",
+                        "type": "TEXT",
+                        "parentId": "1008:4326",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2120.5,
+                        "y": 13169,
+                        "width": 88,
+                        "height": 18,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1008:4327",
+                        "name": "Star",
+                        "type": "INSTANCE",
+                        "parentId": "1008:4326",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2140.5,
+                        "y": 13172,
+                        "width": 12,
+                        "height": 12,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1008:4327;1008:4333",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4327",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2139.5009765625,
+                            "y": 13173,
+                            "width": 10.000901222229004,
+                            "height": 9.536033630371094,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1008:4337",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1008:4343",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1981,
+                    "y": 13160,
+                    "width": 179,
+                    "height": 36,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1008:4339",
+                        "name": "NSDC Certified",
+                        "type": "TEXT",
+                        "parentId": "1008:4337",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1925.5,
+                        "y": 13169,
+                        "width": 88,
+                        "height": 18,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1008:4338",
+                        "name": "Partner",
+                        "type": "INSTANCE",
+                        "parentId": "1008:4337",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1945.5,
+                        "y": 13172,
+                        "width": 12,
+                        "height": 12,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "I1008:4338;207:947",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4338",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1941.9989013671875,
+                            "y": 13179,
+                            "width": 4.998395919799805,
+                            "height": 4.55466365814209,
+                            "childCount": 0
+                          },
+                          {
+                            "id": "I1008:4338;207:948",
+                            "name": "Vector",
+                            "type": "VECTOR",
+                            "parentId": "1008:4338",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1942.5,
+                            "y": 13173,
+                            "width": 6,
+                            "height": 6,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1004:4173",
+        "name": "Navbar",
+        "type": "INSTANCE",
+        "parentId": "1004:4160",
+        "pageId": "3:3",
+        "depth": 3,
+        "x": -2233,
+        "y": 12621,
+        "width": 1458,
+        "height": 88,
+        "childCount": 1,
+        "children": [
+          {
+            "id": "I1004:4173;115:879",
+            "name": "Container",
+            "type": "FRAME",
+            "parentId": "1004:4173",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2201,
+            "y": 12637,
+            "width": 1394,
+            "height": 56,
+            "childCount": 3,
+            "children": [
+              {
+                "id": "I1004:4173;115:943",
+                "name": "Button",
+                "type": "INSTANCE",
+                "parentId": "I1004:4173;115:879",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1000,
+                "y": 12637,
+                "width": 193,
+                "height": 56,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "I1004:4173;115:943;69:4",
+                    "name": "Apply Now",
+                    "type": "TEXT",
+                    "parentId": "I1004:4173;115:943",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -968,
+                    "y": 12653,
+                    "width": 101,
+                    "height": 24,
+                    "childCount": 0
+                  },
+                  {
+                    "id": "I1004:4173;115:943;79:87",
+                    "name": "Arrow right",
+                    "type": "INSTANCE",
+                    "parentId": "I1004:4173;115:943",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -855,
+                    "y": 12657,
+                    "width": 16,
+                    "height": 16,
+                    "childCount": 1,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:943;79:87;69:28",
+                        "name": "Icon",
+                        "type": "VECTOR",
+                        "parentId": "I1004:4173;115:943;79:87",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -851.6666870117188,
+                        "y": 12660.3330078125,
+                        "width": 9.333333015441895,
+                        "height": 9.333333015441895,
+                        "childCount": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1004:4173;115:903",
+                "name": "Logo",
+                "type": "INSTANCE",
+                "parentId": "I1004:4173;115:879",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2201,
+                "y": 12639,
+                "width": 136.13067626953125,
+                "height": 52,
+                "childCount": 1,
+                "children": [
+                  {
+                    "id": "I1004:4173;115:903;72:8",
+                    "name": "Logo",
+                    "type": "GROUP",
+                    "parentId": "I1004:4173;115:903",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2189,
+                    "y": 12647,
+                    "width": 112.13067626953125,
+                    "height": 36,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:903;72:9",
+                        "name": "SKIPPER",
+                        "type": "TEXT",
+                        "parentId": "I1004:4173;115:903;72:8",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2189,
+                        "y": 12647,
+                        "width": 95,
+                        "height": 36,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4173;115:903;72:10",
+                        "name": "X",
+                        "type": "VECTOR",
+                        "parentId": "I1004:4173;115:903;72:8",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2094,
+                        "y": 12651,
+                        "width": 17.13067626953125,
+                        "height": 22.43126106262207,
+                        "childCount": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "I1004:4173;115:886",
+                "name": "Navigation",
+                "type": "FRAME",
+                "parentId": "I1004:4173;115:879",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1792.4346923828125,
+                "y": 12649,
+                "width": 520,
+                "height": 32,
+                "childCount": 4,
+                "children": [
+                  {
+                    "id": "I1004:4173;115:907",
+                    "name": "Button",
+                    "type": "INSTANCE",
+                    "parentId": "I1004:4173;115:886",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1792.4346923828125,
+                    "y": 12649,
+                    "width": 122,
+                    "height": 32,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:907;79:118",
+                        "name": "Apply Now",
+                        "type": "TEXT",
+                        "parentId": "I1004:4173;115:907",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1784.4346923828125,
+                        "y": 12653,
+                        "width": 106,
+                        "height": 24,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4173;115:907;79:119",
+                        "name": "Arrow right",
+                        "type": "INSTANCE",
+                        "parentId": "I1004:4173;115:907",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1689.4346923828125,
+                        "y": 12657,
+                        "width": 16,
+                        "height": 16,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1004:4173;115:907;79:119;69:28",
+                            "name": "Icon",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4173;115:907;79:119",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1686.101318359375,
+                            "y": 12660.3330078125,
+                            "width": 9.333333015441895,
+                            "height": 9.333333015441895,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1004:4173;115:911",
+                    "name": "Button",
+                    "type": "INSTANCE",
+                    "parentId": "I1004:4173;115:886",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1646.4346923828125,
+                    "y": 12649,
+                    "width": 130,
+                    "height": 32,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:911;79:118",
+                        "name": "Apply Now",
+                        "type": "TEXT",
+                        "parentId": "I1004:4173;115:911",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1638.4346923828125,
+                        "y": 12653,
+                        "width": 114,
+                        "height": 24,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4173;115:911;79:119",
+                        "name": "Arrow right",
+                        "type": "INSTANCE",
+                        "parentId": "I1004:4173;115:911",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1543.4346923828125,
+                        "y": 12657,
+                        "width": 16,
+                        "height": 16,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1004:4173;115:911;79:119;69:28",
+                            "name": "Icon",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4173;115:911;79:119",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1540.101318359375,
+                            "y": 12660.3330078125,
+                            "width": 9.333333015441895,
+                            "height": 9.333333015441895,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1004:4173;115:915",
+                    "name": "Button",
+                    "type": "INSTANCE",
+                    "parentId": "I1004:4173;115:886",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1492.4346923828125,
+                    "y": 12649,
+                    "width": 114,
+                    "height": 32,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:915;79:118",
+                        "name": "Apply Now",
+                        "type": "TEXT",
+                        "parentId": "I1004:4173;115:915",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1484.4346923828125,
+                        "y": 12653,
+                        "width": 98,
+                        "height": 24,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4173;115:915;79:119",
+                        "name": "Arrow right",
+                        "type": "INSTANCE",
+                        "parentId": "I1004:4173;115:915",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1389.4346923828125,
+                        "y": 12657,
+                        "width": 16,
+                        "height": 16,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1004:4173;115:915;79:119;69:28",
+                            "name": "Icon",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4173;115:915;79:119",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1386.101318359375,
+                            "y": 12660.3330078125,
+                            "width": 9.333333015441895,
+                            "height": 9.333333015441895,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "I1004:4173;115:940",
+                    "name": "Button",
+                    "type": "INSTANCE",
+                    "parentId": "I1004:4173;115:886",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1354.4346923828125,
+                    "y": 12649,
+                    "width": 82,
+                    "height": 32,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "I1004:4173;115:940;79:118",
+                        "name": "Apply Now",
+                        "type": "TEXT",
+                        "parentId": "I1004:4173;115:940",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1346.4346923828125,
+                        "y": 12653,
+                        "width": 66,
+                        "height": 24,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "I1004:4173;115:940;79:119",
+                        "name": "Arrow right",
+                        "type": "INSTANCE",
+                        "parentId": "I1004:4173;115:940",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1251.4346923828125,
+                        "y": 12657,
+                        "width": 16,
+                        "height": 16,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1004:4173;115:940;79:119;69:28",
+                            "name": "Icon",
+                            "type": "VECTOR",
+                            "parentId": "I1004:4173;115:940;79:119",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1248.101318359375,
+                            "y": 12660.3330078125,
+                            "width": 9.333333015441895,
+                            "height": 9.333333015441895,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "x": -2224,
+    "y": 12622,
+    "width": 1440,
+    "height": 655,
+    "rotation": 0,
+    "layoutMode": "NONE",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "FIXED",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#0a0a0b",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#0A0A0B",
+        "source": "VARIABLE",
+        "variableId": "VariableID:27:56",
+        "variableName": "Backgrounds/Surface 0"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:15",
+      "name": "xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 32
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modes": [
+        {
+          "modeId": "20:4",
+          "name": "Mode 1",
+          "value": 1
+        }
+      ],
+      "scopes": [
+        "STROKE_FLOAT"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:13",
+      "name": "radius-md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:27:10",
+      "collectionName": "Border Radius",
+      "modes": [
+        {
+          "modeId": "27:4",
+          "name": "Mode 1",
+          "value": 12
+        }
+      ],
+      "scopes": [
+        "CORNER_RADIUS"
+      ]
+    },
+    {
+      "variableId": "VariableID:15:3667",
+      "name": "Strokes/Neutral/Soft",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#FFFFFF14"
+        }
+      ],
+      "scopes": [
+        "STROKE_COLOR"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1004:4160",
+      "property": "fills",
+      "variableId": "VariableID:27:56",
+      "variableName": "Backgrounds/Surface 0",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#0A0A0B",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE",
+    "message": "No prototype interactions on this node"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1004:4173",
+      "name": "Navbar",
+      "type": "INSTANCE",
+      "layout": {
+        "width": 1458,
+        "height": 88
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1004:4173",
+          "property": "paddingLeft",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "paddingTop",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "paddingRight",
+          "variableId": "VariableID:33:15",
+          "variableName": "xl",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 32,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "paddingBottom",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "individualStrokeWeights.BORDER_BOTTOM_WEIGHT",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "rectangleCornerRadii.RECTANGLE_TOP_LEFT_CORNER_RADIUS",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "rectangleCornerRadii.RECTANGLE_TOP_RIGHT_CORNER_RADIUS",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "rectangleCornerRadii.RECTANGLE_BOTTOM_LEFT_CORNER_RADIUS",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "rectangleCornerRadii.RECTANGLE_BOTTOM_RIGHT_CORNER_RADIUS",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "fills",
+          "variableId": "VariableID:27:56",
+          "variableName": "Backgrounds/Surface 0",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#0A0A0B",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "strokes",
+          "variableId": "VariableID:15:3667",
+          "variableName": "Strokes/Neutral/Soft",
+          "collectionId": "VariableCollectionId:11:217",
+          "collectionName": "Color",
+          "modeId": "11:0",
+          "modeName": "Mode 1",
+          "resolvedValue": "#FFFFFF14",
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "topLeftRadius",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "topRightRadius",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "bottomLeftRadius",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "bottomRightRadius",
+          "variableId": "VariableID:27:13",
+          "variableName": "radius-md",
+          "collectionId": "VariableCollectionId:27:10",
+          "collectionName": "Border Radius",
+          "modeId": "27:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 12,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1004:4173",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1021:4458",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 1334,
+        "height": 456
+      },
+      "variableBindings": []
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6abdc9dffafb2d620f44bd56",
+    "nodeId": "1004:4160",
+    "pageId": "3:3",
+    "projectId": "6abdc9c2fafb2d620f44bd47"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX V2 Abbas\nPage: Website\nNode: CP 1 (FRAME)\nSize: 1440 × 655\nVariable bindings:\n  fills → Backgrounds/Surface 0 [Color / Mode 1] = \"#0A0A0B\"\nChildren (2):\n  - Navbar (INSTANCE)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

@@ -1,0 +1,2850 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "BOTH",
+  "lastImportedAt": null,
+  "lastSyncAt": "Thu Oct 01 2026 08:21:16 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6abdc9dffafb2d620f44bd56",
+    "name": "SkipperX V2 Abbas",
+    "fileKey": "5bayKUVnMbYFUcZ9vLft8B",
+    "source": "BOTH"
+  },
+  "page": {
+    "id": "3:3",
+    "name": "Website"
+  },
+  "node": {
+    "id": "1250:2874",
+    "name": "CP 5",
+    "type": "FRAME",
+    "parentId": "1438:3772",
+    "pageId": "3:3",
+    "depth": 2,
+    "path": "CP 5",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1438:3772",
+        "name": "Career Paths Page",
+        "type": "FRAME",
+        "parentId": "3:3",
+        "pageId": "3:3",
+        "depth": 1,
+        "x": -2224,
+        "y": 12622,
+        "width": 1440,
+        "height": 5658
+      }
+    ],
+    "self": {
+      "id": "1250:2874",
+      "name": "CP 5",
+      "type": "FRAME",
+      "parentId": "1438:3772",
+      "pageId": "3:3",
+      "depth": 2,
+      "x": -2224,
+      "y": 15208,
+      "width": 1440,
+      "height": 1216,
+      "childCount": 1
+    },
+    "children": [
+      {
+        "id": "1056:2872",
+        "name": "Entrepreneurs Programs",
+        "type": "FRAME",
+        "parentId": "1250:2874",
+        "pageId": "3:3",
+        "depth": 3,
+        "x": -2148,
+        "y": 15256,
+        "width": 1288,
+        "height": 1120,
+        "childCount": 2,
+        "children": [
+          {
+            "id": "1056:2873",
+            "name": "Container",
+            "type": "FRAME",
+            "parentId": "1056:2872",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2148,
+            "y": 15256,
+            "width": 1288,
+            "height": 300,
+            "childCount": 4,
+            "children": [
+              {
+                "id": "1056:2874",
+                "name": "ImageWithFallback",
+                "type": "FRAME",
+                "parentId": "1056:2873",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15256,
+                "width": 1288,
+                "height": 301,
+                "childCount": 0
+              },
+              {
+                "id": "1056:2875",
+                "name": "TrackHero",
+                "type": "FRAME",
+                "parentId": "1056:2873",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15256,
+                "width": 1288,
+                "height": 302,
+                "childCount": 0
+              },
+              {
+                "id": "1056:2876",
+                "name": "TrackHero",
+                "type": "FRAME",
+                "parentId": "1056:2873",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15256,
+                "width": 1288,
+                "height": 302,
+                "childCount": 0
+              },
+              {
+                "id": "1056:2877",
+                "name": "TrackHero",
+                "type": "FRAME",
+                "parentId": "1056:2873",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15256,
+                "width": 1288,
+                "height": 302,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1056:2878",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1056:2877",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2100,
+                    "y": 15304,
+                    "width": 706,
+                    "height": 206,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1056:2879",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1056:2878",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2100,
+                        "y": 15304,
+                        "width": 706,
+                        "height": 28,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1056:2880",
+                            "name": "Text",
+                            "type": "FRAME",
+                            "parentId": "1056:2879",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2100,
+                            "y": 15304,
+                            "width": 119,
+                            "height": 28,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2881",
+                                "name": "BUILD EMPIRES",
+                                "type": "TEXT",
+                                "parentId": "1056:2880",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2087,
+                                "y": 15309,
+                                "width": 93,
+                                "height": 18,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1056:2882",
+                            "name": "Text",
+                            "type": "FRAME",
+                            "parentId": "1056:2879",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1969,
+                            "y": 15309.5,
+                            "width": 119,
+                            "height": 17,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2883",
+                                "name": "5 programs available",
+                                "type": "TEXT",
+                                "parentId": "1056:2882",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1969,
+                                "y": 15309.5,
+                                "width": 119,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1056:2888",
+                        "name": "Container:margin",
+                        "type": "FRAME",
+                        "parentId": "1056:2878",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2100,
+                        "y": 15489,
+                        "width": 706,
+                        "height": 21,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1056:2889",
+                            "name": "Container",
+                            "type": "FRAME",
+                            "parentId": "1056:2888",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2100,
+                            "y": 15489,
+                            "width": 581.3333129882812,
+                            "height": 21,
+                            "childCount": 2,
+                            "children": [
+                              {
+                                "id": "1100:2801",
+                                "name": "Icon",
+                                "type": "FRAME",
+                                "parentId": "1056:2889",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2100.000081062317,
+                                "y": 15489,
+                                "width": 13.333333015441895,
+                                "height": 13.333984375,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1100:2800",
+                                    "name": "Vector",
+                                    "type": "VECTOR",
+                                    "parentId": "1100:2801",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2100.000081062317,
+                                    "y": 15489,
+                                    "width": 13.333333015441895,
+                                    "height": 13.333984375,
+                                    "childCount": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "1056:2894",
+                                "name": "Paragraph",
+                                "type": "FRAME",
+                                "parentId": "1056:2889",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2082.666748046875,
+                                "y": 15489,
+                                "width": 564,
+                                "height": 21,
+                                "childCount": 1,
+                                "children": [
+                                  {
+                                    "id": "1056:2895",
+                                    "name": "Every company you admire started as someone's craz",
+                                    "type": "TEXT",
+                                    "parentId": "1056:2894",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2082.666748046875,
+                                    "y": 15489,
+                                    "width": 564,
+                                    "height": 21,
+                                    "childCount": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1056:2884",
+                        "name": "Heading 2",
+                        "type": "FRAME",
+                        "parentId": "1056:2878",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2100,
+                        "y": 15340,
+                        "width": 331,
+                        "height": 61,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1056:2885",
+                            "name": "Entrepreneurs",
+                            "type": "TEXT",
+                            "parentId": "1056:2884",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2100,
+                            "y": 15340,
+                            "width": 331,
+                            "height": 61,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1056:2886",
+                        "name": "Paragraph:margin",
+                        "type": "FRAME",
+                        "parentId": "1056:2878",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2100,
+                        "y": 15409,
+                        "width": 706,
+                        "height": 72,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1056:2887",
+                            "name": "The Entrepreneurs track is for those who refuse to",
+                            "type": "TEXT",
+                            "parentId": "1056:2886",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2100,
+                            "y": 15409,
+                            "width": 706,
+                            "height": 72,
+                            "childCount": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1056:2896",
+                    "name": "Container",
+                    "type": "FRAME",
+                    "parentId": "1056:2877",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -985.2125244140625,
+                    "y": 15314.5,
+                    "width": 77.2125015258789,
+                    "height": 185,
+                    "childCount": 3,
+                    "children": [
+                      {
+                        "id": "1056:2897",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1056:2896",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -985.2125244140625,
+                        "y": 15314.5,
+                        "width": 77.2125015258789,
+                        "height": 51,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1056:2898",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2897",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15314.5,
+                            "width": 77.2125015258789,
+                            "height": 31,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2899",
+                                "name": "5",
+                                "type": "TEXT",
+                                "parentId": "1056:2898",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -923,
+                                "y": 15314.5,
+                                "width": 15,
+                                "height": 31,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1056:2900",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2897",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15345.5,
+                            "width": 77.2125015258789,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2901",
+                                "name": "Programs",
+                                "type": "TEXT",
+                                "parentId": "1056:2900",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -962,
+                                "y": 15348.5,
+                                "width": 54,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1056:2902",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1056:2896",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -985.2125244140625,
+                        "y": 15381.5,
+                        "width": 77.2125015258789,
+                        "height": 51,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1056:2903",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2902",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15381.5,
+                            "width": 77.2125015258789,
+                            "height": 31,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2904",
+                                "name": "₹12L+",
+                                "type": "TEXT",
+                                "parentId": "1056:2903",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -976,
+                                "y": 15381.5,
+                                "width": 68,
+                                "height": 31,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1056:2905",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2902",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15412.5,
+                            "width": 77.2125015258789,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2906",
+                                "name": "Avg. Package",
+                                "type": "TEXT",
+                                "parentId": "1056:2905",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -983,
+                                "y": 15415.5,
+                                "width": 75,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1056:2907",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1056:2896",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -985.2125244140625,
+                        "y": 15448.5,
+                        "width": 77.2125015258789,
+                        "height": 51,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1056:2908",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2907",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15448.5,
+                            "width": 77.2125015258789,
+                            "height": 31,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2909",
+                                "name": "1,200+",
+                                "type": "TEXT",
+                                "parentId": "1056:2908",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -987,
+                                "y": 15448.5,
+                                "width": 79,
+                                "height": 31,
+                                "childCount": 0
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1056:2910",
+                            "name": "Paragraph",
+                            "type": "FRAME",
+                            "parentId": "1056:2907",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -985.2125244140625,
+                            "y": 15479.5,
+                            "width": 77.2125015258789,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1056:2911",
+                                "name": "Alumni",
+                                "type": "TEXT",
+                                "parentId": "1056:2910",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -947,
+                                "y": 15482.5,
+                                "width": 39,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1235:3437",
+            "name": "Container",
+            "type": "FRAME",
+            "parentId": "1056:2872",
+            "pageId": "3:3",
+            "depth": 4,
+            "x": -2148,
+            "y": 15572,
+            "width": 1288,
+            "height": 804,
+            "childCount": 5,
+            "children": [
+              {
+                "id": "1100:4058",
+                "name": "Program Card Button",
+                "type": "FRAME",
+                "parentId": "1235:3437",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15572,
+                "width": 632,
+                "height": 252,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1100:4059",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4058",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 15573,
+                    "width": 630,
+                    "height": 160,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1100:4061",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4059",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4062",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4059",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4063",
+                            "name": "Program Tags",
+                            "type": "INSTANCE",
+                            "parentId": "1100:4062",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1617,
+                            "y": 15581.2001953125,
+                            "width": 88,
+                            "height": 25,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:4063;146:522",
+                                "name": "Most Popular",
+                                "type": "TEXT",
+                                "parentId": "1100:4063",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1609,
+                                "y": 15585.2001953125,
+                                "width": 72,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4064",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4059",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2131,
+                        "y": 15677,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4065",
+                            "name": "💻",
+                            "type": "TEXT",
+                            "parentId": "1100:4064",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121,
+                            "y": 15687,
+                            "width": 24,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4060",
+                        "name": "ImageWithFallback",
+                        "type": "FRAME",
+                        "parentId": "1100:4059",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1100:4066",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4058",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 15733,
+                    "width": 630,
+                    "height": 90,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1100:4992",
+                        "name": "Buuton",
+                        "type": "INSTANCE",
+                        "parentId": "1100:4066",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1581,
+                        "y": 15753,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1100:4992;163:318",
+                            "name": "Arrow right",
+                            "type": "INSTANCE",
+                            "parentId": "1100:4992",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1567,
+                            "y": 15767,
+                            "width": 16,
+                            "height": 16,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:4992;163:318;69:28",
+                                "name": "Icon",
+                                "type": "VECTOR",
+                                "parentId": "I1100:4992;163:318",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1563.6666259765625,
+                                "y": 15770.3330078125,
+                                "width": 9.333333015441895,
+                                "height": 9.333333015441895,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4067",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4066",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2127,
+                        "y": 15753,
+                        "width": 223.8125,
+                        "height": 43.98749923706055,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1100:4070",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1100:4067",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 15773,
+                            "width": 223.8125,
+                            "height": 23.987499237060547,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4071",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1100:4070",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 15781,
+                                "width": 222,
+                                "height": 15.987500190734863,
+                                "childCount": 2,
+                                "children": [
+                                  {
+                                    "id": "1100:4072",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4071",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2127,
+                                    "y": 15781,
+                                    "width": 69,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4074",
+                                        "name": "12 Weeks",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4072",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2111,
+                                        "y": 15779.994140625,
+                                        "width": 53,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4073",
+                                        "name": "Clock",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4072",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2127,
+                                        "y": 15782.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 2,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4073;138:86",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4073",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2126,
+                                            "y": 15783.994140625,
+                                            "width": 10,
+                                            "height": 10,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4073;138:87",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4073",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2121,
+                                            "y": 15785.994140625,
+                                            "width": 2,
+                                            "height": 4,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1100:4075",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4071",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2046,
+                                    "y": 15781,
+                                    "width": 141,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4077",
+                                        "name": "Beginner–Advanced",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4075",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2028,
+                                        "y": 15779.994140625,
+                                        "width": 123,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4076",
+                                        "name": "Level",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4075",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2046,
+                                        "y": 15782.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 3,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4076;138:95",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4076",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2037,
+                                            "y": 15787.994140625,
+                                            "width": 0,
+                                            "height": 5,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4076;138:96",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4076",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2040,
+                                            "y": 15784.994140625,
+                                            "width": 0,
+                                            "height": 8,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4076;138:97",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4076",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2043,
+                                            "y": 15789.994140625,
+                                            "width": 0,
+                                            "height": 3,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1100:4068",
+                            "name": "Heading 3",
+                            "type": "FRAME",
+                            "parentId": "1100:4067",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 15753,
+                            "width": 223.8125,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4069",
+                                "name": "Digitalpreneur",
+                                "type": "TEXT",
+                                "parentId": "1100:4068",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 15753,
+                                "width": 111,
+                                "height": 20,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1100:4088",
+                "name": "Program Card Button",
+                "type": "FRAME",
+                "parentId": "1235:3437",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1492,
+                "y": 15572,
+                "width": 632,
+                "height": 252,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1100:4089",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4088",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1491,
+                    "y": 15573,
+                    "width": 630,
+                    "height": 160,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1100:4091",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4089",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4092",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4089",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4094",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4089",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1475,
+                        "y": 15677,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4095",
+                            "name": "📦",
+                            "type": "TEXT",
+                            "parentId": "1100:4094",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1465,
+                            "y": 15687,
+                            "width": 24,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4146",
+                        "name": "ImageWithFallback",
+                        "type": "FRAME",
+                        "parentId": "1100:4089",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15573,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1100:4096",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4088",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1491,
+                    "y": 15733,
+                    "width": 631,
+                    "height": 90,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1100:5000",
+                        "name": "Buuton",
+                        "type": "INSTANCE",
+                        "parentId": "1100:4096",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -924,
+                        "y": 15753,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1100:5000;163:318",
+                            "name": "Arrow right",
+                            "type": "INSTANCE",
+                            "parentId": "1100:5000",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -910,
+                            "y": 15767,
+                            "width": 16,
+                            "height": 16,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:5000;163:318;69:28",
+                                "name": "Icon",
+                                "type": "VECTOR",
+                                "parentId": "I1100:5000;163:318",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -906.6666870117188,
+                                "y": 15770.3330078125,
+                                "width": 9.333333015441895,
+                                "height": 9.333333015441895,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4097",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4096",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1471,
+                        "y": 15753,
+                        "width": 223.8125,
+                        "height": 43.98749923706055,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1100:4100",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1100:4097",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1471,
+                            "y": 15773,
+                            "width": 223.8125,
+                            "height": 23.987499237060547,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4101",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1100:4100",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1471,
+                                "y": 15781,
+                                "width": 178,
+                                "height": 15.987500190734863,
+                                "childCount": 2,
+                                "children": [
+                                  {
+                                    "id": "1100:4102",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4101",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1471,
+                                    "y": 15781,
+                                    "width": 70,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4104",
+                                        "name": "10 Weeks",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4102",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1455,
+                                        "y": 15779.994140625,
+                                        "width": 54,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4103",
+                                        "name": "Clock",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4102",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1471,
+                                        "y": 15782.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 2,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4103;138:86",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4103",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1470,
+                                            "y": 15783.994140625,
+                                            "width": 10,
+                                            "height": 10,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4103;138:87",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4103",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1465,
+                                            "y": 15785.994140625,
+                                            "width": 2,
+                                            "height": 4,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1100:4105",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4101",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1389,
+                                    "y": 15781,
+                                    "width": 96,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4107",
+                                        "name": "Intermediate",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4105",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1371,
+                                        "y": 15779.994140625,
+                                        "width": 78,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4106",
+                                        "name": "Level",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4105",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1389,
+                                        "y": 15782.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 3,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4106;138:95",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4106",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1380,
+                                            "y": 15787.994140625,
+                                            "width": 0,
+                                            "height": 5,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4106;138:96",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4106",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1383,
+                                            "y": 15784.994140625,
+                                            "width": 0,
+                                            "height": 8,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4106;138:97",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4106",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1386,
+                                            "y": 15789.994140625,
+                                            "width": 0,
+                                            "height": 3,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1100:4098",
+                            "name": "Heading 3",
+                            "type": "FRAME",
+                            "parentId": "1100:4097",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1471,
+                            "y": 15753,
+                            "width": 223.8125,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4099",
+                                "name": "Product Management",
+                                "type": "TEXT",
+                                "parentId": "1100:4098",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1471,
+                                "y": 15753,
+                                "width": 168,
+                                "height": 20,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1100:4147",
+                "name": "Program Card Button",
+                "type": "FRAME",
+                "parentId": "1235:3437",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 15848,
+                "width": 632,
+                "height": 252,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1100:4148",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4147",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 15849,
+                    "width": 630,
+                    "height": 160,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1100:4150",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4148",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4151",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4148",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4152",
+                            "name": "Program Tags",
+                            "type": "INSTANCE",
+                            "parentId": "1100:4151",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1569,
+                            "y": 15857.19921875,
+                            "width": 40,
+                            "height": 25,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:4152;146:522",
+                                "name": "Most Popular",
+                                "type": "TEXT",
+                                "parentId": "1100:4152",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1561,
+                                "y": 15861.19921875,
+                                "width": 24,
+                                "height": 17,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4153",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4148",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2131,
+                        "y": 15953,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4154",
+                            "name": "📊",
+                            "type": "TEXT",
+                            "parentId": "1100:4153",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121,
+                            "y": 15963,
+                            "width": 24,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4208",
+                        "name": "ImageWithFallback",
+                        "type": "FRAME",
+                        "parentId": "1100:4148",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1100:4155",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4147",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 16009,
+                    "width": 630,
+                    "height": 90,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1100:5003",
+                        "name": "Buuton",
+                        "type": "INSTANCE",
+                        "parentId": "1100:4155",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1581,
+                        "y": 16029,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1100:5003;163:318",
+                            "name": "Arrow right",
+                            "type": "INSTANCE",
+                            "parentId": "1100:5003",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1567,
+                            "y": 16043,
+                            "width": 16,
+                            "height": 16,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:5003;163:318;69:28",
+                                "name": "Icon",
+                                "type": "VECTOR",
+                                "parentId": "I1100:5003;163:318",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1563.6666259765625,
+                                "y": 16046.3330078125,
+                                "width": 9.333333015441895,
+                                "height": 9.333333015441895,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4156",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4155",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2127,
+                        "y": 16029,
+                        "width": 223.8125,
+                        "height": 43.98749923706055,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1100:4159",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1100:4156",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 16049,
+                            "width": 223.8125,
+                            "height": 23.987499237060547,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4160",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1100:4159",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 16057,
+                                "width": 246,
+                                "height": 15.987500190734863,
+                                "childCount": 2,
+                                "children": [
+                                  {
+                                    "id": "1100:4161",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4160",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2127,
+                                    "y": 16057,
+                                    "width": 70,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4163",
+                                        "name": "14 Weeks",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4161",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2111,
+                                        "y": 16055.994140625,
+                                        "width": 54,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4162",
+                                        "name": "Clock",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4161",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2127,
+                                        "y": 16058.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 2,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4162;138:86",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4162",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2126,
+                                            "y": 16059.994140625,
+                                            "width": 10,
+                                            "height": 10,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4162;138:87",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4162",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2121,
+                                            "y": 16061.994140625,
+                                            "width": 2,
+                                            "height": 4,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1100:4164",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4160",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2045,
+                                    "y": 16057,
+                                    "width": 164,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4166",
+                                        "name": "Intermediate-Advanced",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4164",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2027,
+                                        "y": 16055.994140625,
+                                        "width": 146,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4165",
+                                        "name": "Level",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4164",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2045,
+                                        "y": 16058.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 3,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4165;138:95",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4165",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2036,
+                                            "y": 16063.994140625,
+                                            "width": 0,
+                                            "height": 5,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4165;138:96",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4165",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2039,
+                                            "y": 16060.994140625,
+                                            "width": 0,
+                                            "height": 8,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4165;138:97",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4165",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2042,
+                                            "y": 16065.994140625,
+                                            "width": 0,
+                                            "height": 3,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1100:4157",
+                            "name": "Heading 3",
+                            "type": "FRAME",
+                            "parentId": "1100:4156",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 16029,
+                            "width": 223.8125,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4158",
+                                "name": "Data Science & Analytics",
+                                "type": "TEXT",
+                                "parentId": "1100:4157",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 16029,
+                                "width": 196,
+                                "height": 20,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1100:4209",
+                "name": "Program Card Button",
+                "type": "FRAME",
+                "parentId": "1235:3437",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -1492,
+                "y": 15848,
+                "width": 632,
+                "height": 252,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1100:4210",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4209",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1491,
+                    "y": 15849,
+                    "width": 630,
+                    "height": 160,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1100:4212",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4210",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4213",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4210",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:4215",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4210",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1475,
+                        "y": 15953,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:4216",
+                            "name": "🌐",
+                            "type": "TEXT",
+                            "parentId": "1100:4215",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1465,
+                            "y": 15963,
+                            "width": 24,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4239",
+                        "name": "ImageWithFallback",
+                        "type": "FRAME",
+                        "parentId": "1100:4210",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1491,
+                        "y": 15849,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1100:4217",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:4209",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -1491,
+                    "y": 16009,
+                    "width": 630,
+                    "height": 90,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1100:5006",
+                        "name": "Buuton",
+                        "type": "INSTANCE",
+                        "parentId": "1100:4217",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -925,
+                        "y": 16029,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1100:5006;163:318",
+                            "name": "Arrow right",
+                            "type": "INSTANCE",
+                            "parentId": "1100:5006",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -911,
+                            "y": 16043,
+                            "width": 16,
+                            "height": 16,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:5006;163:318;69:28",
+                                "name": "Icon",
+                                "type": "VECTOR",
+                                "parentId": "I1100:5006;163:318",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -907.6666870117188,
+                                "y": 16046.3330078125,
+                                "width": 9.333333015441895,
+                                "height": 9.333333015441895,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:4218",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:4217",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1471,
+                        "y": 16029,
+                        "width": 223.8125,
+                        "height": 43.98749923706055,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1100:4221",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1100:4218",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1471,
+                            "y": 16049,
+                            "width": 223.8125,
+                            "height": 23.987499237060547,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4222",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1100:4221",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1471,
+                                "y": 16057,
+                                "width": 237,
+                                "height": 15.987500190734863,
+                                "childCount": 2,
+                                "children": [
+                                  {
+                                    "id": "1100:4223",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4222",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1471,
+                                    "y": 16057,
+                                    "width": 69,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4225",
+                                        "name": "12 Weeks",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4223",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1455,
+                                        "y": 16055.994140625,
+                                        "width": 53,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4224",
+                                        "name": "Clock",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4223",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1471,
+                                        "y": 16058.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 2,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4224;138:86",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4224",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1470,
+                                            "y": 16059.994140625,
+                                            "width": 10,
+                                            "height": 10,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4224;138:87",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4224",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1465,
+                                            "y": 16061.994140625,
+                                            "width": 2,
+                                            "height": 4,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1100:4226",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:4222",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -1390,
+                                    "y": 16057,
+                                    "width": 156,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:4228",
+                                        "name": "Beginner-Intermediate",
+                                        "type": "TEXT",
+                                        "parentId": "1100:4226",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1372,
+                                        "y": 16055.994140625,
+                                        "width": 138,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:4227",
+                                        "name": "Level",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:4226",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -1390,
+                                        "y": 16058.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 3,
+                                        "children": [
+                                          {
+                                            "id": "I1100:4227;138:95",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4227",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1381,
+                                            "y": 16063.994140625,
+                                            "width": 0,
+                                            "height": 5,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4227;138:96",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4227",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1384,
+                                            "y": 16060.994140625,
+                                            "width": 0,
+                                            "height": 8,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:4227;138:97",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:4227",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -1387,
+                                            "y": 16065.994140625,
+                                            "width": 0,
+                                            "height": 3,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1100:4219",
+                            "name": "Heading 3",
+                            "type": "FRAME",
+                            "parentId": "1100:4218",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1471,
+                            "y": 16029,
+                            "width": 223.8125,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:4220",
+                                "name": "Web Development",
+                                "type": "TEXT",
+                                "parentId": "1100:4219",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1471,
+                                "y": 16029,
+                                "width": 144,
+                                "height": 20,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1100:5009",
+                "name": "Program Card Button",
+                "type": "FRAME",
+                "parentId": "1235:3437",
+                "pageId": "3:3",
+                "depth": 5,
+                "x": -2148,
+                "y": 16124,
+                "width": 632,
+                "height": 252,
+                "childCount": 2,
+                "children": [
+                  {
+                    "id": "1100:5010",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:5009",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 16125,
+                    "width": 630,
+                    "height": 160,
+                    "childCount": 4,
+                    "children": [
+                      {
+                        "id": "1100:5012",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:5010",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 16125,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:5013",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:5010",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 16125,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      },
+                      {
+                        "id": "1100:5015",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:5010",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2131,
+                        "y": 16229,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "1100:5016",
+                            "name": "🧠",
+                            "type": "TEXT",
+                            "parentId": "1100:5015",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2121,
+                            "y": 16239,
+                            "width": 24,
+                            "height": 24,
+                            "childCount": 0
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:5038",
+                        "name": "ImageWithFallback",
+                        "type": "FRAME",
+                        "parentId": "1100:5010",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2147,
+                        "y": 16125,
+                        "width": 630,
+                        "height": 160,
+                        "childCount": 0
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1100:5017",
+                    "name": "ProgramCard",
+                    "type": "FRAME",
+                    "parentId": "1100:5009",
+                    "pageId": "3:3",
+                    "depth": 6,
+                    "x": -2147,
+                    "y": 16285,
+                    "width": 630,
+                    "height": 90,
+                    "childCount": 2,
+                    "children": [
+                      {
+                        "id": "1100:5029",
+                        "name": "Buuton",
+                        "type": "INSTANCE",
+                        "parentId": "1100:5017",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -1581,
+                        "y": 16305,
+                        "width": 44,
+                        "height": 44,
+                        "childCount": 1,
+                        "children": [
+                          {
+                            "id": "I1100:5029;163:318",
+                            "name": "Arrow right",
+                            "type": "INSTANCE",
+                            "parentId": "1100:5029",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -1567,
+                            "y": 16319,
+                            "width": 16,
+                            "height": 16,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "I1100:5029;163:318;69:28",
+                                "name": "Icon",
+                                "type": "VECTOR",
+                                "parentId": "I1100:5029;163:318",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -1563.6666259765625,
+                                "y": 16322.3330078125,
+                                "width": 9.333333015441895,
+                                "height": 9.333333015441895,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1100:5018",
+                        "name": "Container",
+                        "type": "FRAME",
+                        "parentId": "1100:5017",
+                        "pageId": "3:3",
+                        "depth": 7,
+                        "x": -2127,
+                        "y": 16305,
+                        "width": 223.8125,
+                        "height": 43.98749923706055,
+                        "childCount": 2,
+                        "children": [
+                          {
+                            "id": "1100:5021",
+                            "name": "Container:margin",
+                            "type": "FRAME",
+                            "parentId": "1100:5018",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 16325,
+                            "width": 223.8125,
+                            "height": 23.987499237060547,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:5022",
+                                "name": "Container",
+                                "type": "FRAME",
+                                "parentId": "1100:5021",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 16333,
+                                "width": 150,
+                                "height": 15.987500190734863,
+                                "childCount": 2,
+                                "children": [
+                                  {
+                                    "id": "1100:5023",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:5022",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2127,
+                                    "y": 16333,
+                                    "width": 66,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:5025",
+                                        "name": "8 Weeks",
+                                        "type": "TEXT",
+                                        "parentId": "1100:5023",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2111,
+                                        "y": 16331.994140625,
+                                        "width": 50,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:5024",
+                                        "name": "Clock",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:5023",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2127,
+                                        "y": 16334.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 2,
+                                        "children": [
+                                          {
+                                            "id": "I1100:5024;138:86",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:5024",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2126,
+                                            "y": 16335.994140625,
+                                            "width": 10,
+                                            "height": 10,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:5024;138:87",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:5024",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2121,
+                                            "y": 16337.994140625,
+                                            "width": 2,
+                                            "height": 4,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1100:5026",
+                                    "name": "Text",
+                                    "type": "FRAME",
+                                    "parentId": "1100:5022",
+                                    "pageId": "3:3",
+                                    "depth": 10,
+                                    "x": -2049,
+                                    "y": 16333,
+                                    "width": 72,
+                                    "height": 15.987500190734863,
+                                    "childCount": 2,
+                                    "children": [
+                                      {
+                                        "id": "1100:5028",
+                                        "name": "Beginner",
+                                        "type": "TEXT",
+                                        "parentId": "1100:5026",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2031,
+                                        "y": 16331.994140625,
+                                        "width": 54,
+                                        "height": 18,
+                                        "childCount": 0
+                                      },
+                                      {
+                                        "id": "1100:5027",
+                                        "name": "Level",
+                                        "type": "INSTANCE",
+                                        "parentId": "1100:5026",
+                                        "pageId": "3:3",
+                                        "depth": 11,
+                                        "x": -2049,
+                                        "y": 16334.994140625,
+                                        "width": 12,
+                                        "height": 12,
+                                        "childCount": 3,
+                                        "children": [
+                                          {
+                                            "id": "I1100:5027;138:95",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:5027",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2040,
+                                            "y": 16339.994140625,
+                                            "width": 0,
+                                            "height": 5,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:5027;138:96",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:5027",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2043,
+                                            "y": 16336.994140625,
+                                            "width": 0,
+                                            "height": 8,
+                                            "childCount": 0
+                                          },
+                                          {
+                                            "id": "I1100:5027;138:97",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "parentId": "1100:5027",
+                                            "pageId": "3:3",
+                                            "depth": 12,
+                                            "x": -2046,
+                                            "y": 16341.994140625,
+                                            "width": 0,
+                                            "height": 3,
+                                            "childCount": 0
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1100:5019",
+                            "name": "Heading 3",
+                            "type": "FRAME",
+                            "parentId": "1100:5018",
+                            "pageId": "3:3",
+                            "depth": 8,
+                            "x": -2127,
+                            "y": 16305,
+                            "width": 223.8125,
+                            "height": 20,
+                            "childCount": 1,
+                            "children": [
+                              {
+                                "id": "1100:5020",
+                                "name": "Psychology",
+                                "type": "TEXT",
+                                "parentId": "1100:5019",
+                                "pageId": "3:3",
+                                "depth": 9,
+                                "x": -2127,
+                                "y": 16305,
+                                "width": 91,
+                                "height": 20,
+                                "childCount": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "x": -2224,
+    "y": 15208,
+    "width": 1440,
+    "height": 1216,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 48,
+      "right": 48,
+      "bottom": 48,
+      "left": 48
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": true,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [
+    {
+      "color": "#0a0a0b",
+      "property": "fills[0]",
+      "resolved": {
+        "value": "#0A0A0B",
+        "source": "VARIABLE",
+        "variableId": "VariableID:27:56",
+        "variableName": "Backgrounds/Surface 0"
+      }
+    }
+  ],
+  "variables": [
+    {
+      "variableId": "VariableID:33:16",
+      "name": "2xl",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 48
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    },
+    {
+      "variableId": "VariableID:27:56",
+      "name": "Backgrounds/Surface 0",
+      "resolvedType": "COLOR",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modes": [
+        {
+          "modeId": "11:0",
+          "name": "Mode 1",
+          "value": "#0A0A0B"
+        }
+      ],
+      "scopes": [
+        "ALL_SCOPES"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1250:2874",
+      "property": "paddingLeft",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1250:2874",
+      "property": "paddingTop",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1250:2874",
+      "property": "paddingRight",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1250:2874",
+      "property": "paddingBottom",
+      "variableId": "VariableID:33:16",
+      "variableName": "2xl",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modeId": "33:1",
+      "modeName": "Mode 1",
+      "resolvedValue": 48,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1250:2874",
+      "property": "fills",
+      "variableId": "VariableID:27:56",
+      "variableName": "Backgrounds/Surface 0",
+      "collectionId": "VariableCollectionId:11:217",
+      "collectionName": "Color",
+      "modeId": "11:0",
+      "modeName": "Mode 1",
+      "resolvedValue": "#0A0A0B",
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE",
+    "message": "No prototype interactions on this node"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1056:2872",
+      "name": "Entrepreneurs Programs",
+      "type": "FRAME",
+      "layout": {
+        "width": 1288,
+        "height": 1120
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1056:2872",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "individualStrokeWeights.BORDER_TOP_WEIGHT",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "individualStrokeWeights.BORDER_BOTTOM_WEIGHT",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "individualStrokeWeights.BORDER_LEFT_WEIGHT",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "individualStrokeWeights.BORDER_RIGHT_WEIGHT",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        },
+        {
+          "nodeId": "1056:2872",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:05b16ef428b3c809b62aa769af8091b6c26db6b6/11:3",
+          "definitionAvailable": false,
+          "status": "NOT_CACHED"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6abdc9dffafb2d620f44bd56",
+    "nodeId": "1250:2874",
+    "pageId": "3:3",
+    "projectId": "6abdc9c2fafb2d620f44bd47"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX V2 Abbas\nPage: Website\nNode: CP 5 (FRAME)\nSize: 1440 × 1216\nVariable bindings:\n  paddingLeft → 2xl [Spacing / Mode 1] = 48\n  paddingTop → 2xl [Spacing / Mode 1] = 48\n  paddingRight → 2xl [Spacing / Mode 1] = 48\n  paddingBottom → 2xl [Spacing / Mode 1] = 48\n  fills → Backgrounds/Surface 0 [Color / Mode 1] = \"#0A0A0B\"\nChildren (1):\n  - Entrepreneurs Programs (FRAME)\nScreenshot: NOT_CACHED"
+}

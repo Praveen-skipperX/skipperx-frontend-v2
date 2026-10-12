@@ -25,18 +25,18 @@ type SuperStackCardProps = {
 function ArrowRightIcon() {
   return (
     <svg
-      width="13"
-      height="13"
+      width="16"
+      height="16"
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.25"
+      strokeWidth="3"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
     >
       <path d="M5 12h14" />
-      <path d="m13 6 6 6-6 6" />
+      <path d="m12 5 7 7-7 7" />
     </svg>
   );
 }
@@ -50,8 +50,6 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
       className={styles.card}
       style={
         {
-          background: item.cardBg,
-          borderColor: `${color}18`,
           "--accent": color,
           "--arrow-bg": `${color}18`,
           "--arrow-border": `${color}55`,
@@ -67,18 +65,12 @@ export function SuperStackCard({ item, index }: SuperStackCardProps) {
         delay: index * 0.08,
         ease: [0.16, 1, 0.3, 1],
       }}
-      whileHover={{
-        scale: 1.015,
-        borderColor: `${color}45`,
-        boxShadow: `0 0 0 1px ${color}22, 0 0 42px ${color}38, 0 20px 44px rgb(0 0 0 / 0.5)`,
-        transition: { duration: 0.25 },
-      }}
     >
       <div className={styles.media}>
         <Illustration />
         <div
           className={styles.fade}
-          style={{ background: `linear-gradient(to top, ${item.cardBg}, transparent)` }}
+          style={{ background: "linear-gradient(to top, #111113, transparent)" }}
         />
       </div>
 

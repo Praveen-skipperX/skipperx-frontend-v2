@@ -1,0 +1,286 @@
+{
+  "cacheFirst": true,
+  "note": "Compact raw node from Mongo. Full document tree is in raw snapshot file.json.gz.",
+  "nodeId": "1012:2828",
+  "name": "CP 2",
+  "type": "FRAME",
+  "raw": {
+    "id": "1012:2828",
+    "name": "CP 2",
+    "type": "FRAME",
+    "blendMode": "PASS_THROUGH",
+    "clipsContent": true,
+    "absoluteBoundingBox": {
+      "x": -2224,
+      "y": 13277,
+      "width": 1440,
+      "height": 1059
+    },
+    "absoluteRenderBounds": {
+      "x": -2224,
+      "y": 13277,
+      "width": 1440,
+      "height": 1059
+    },
+    "constraints": {
+      "vertical": "TOP",
+      "horizontal": "LEFT"
+    },
+    "layoutMode": "VERTICAL",
+    "counterAxisSizingMode": "FIXED",
+    "layoutWrap": "NO_WRAP",
+    "paddingLeft": 48,
+    "paddingRight": 48,
+    "paddingTop": 64,
+    "paddingBottom": 64,
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.04313725605607033
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:56"
+          }
+        }
+      }
+    ],
+    "strokes": [],
+    "strokeWeight": 1,
+    "strokeAlign": "INSIDE",
+    "effects": [],
+    "boundVariables": {
+      "paddingLeft": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:16"
+      },
+      "paddingTop": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:17"
+      },
+      "paddingRight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:16"
+      },
+      "paddingBottom": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:17"
+      },
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:56"
+        }
+      ]
+    },
+    "scrollBehavior": "SCROLLS",
+    "childIds": [
+      "1021:4602"
+    ],
+    "childCount": 1,
+    "parentId": "1438:3772",
+    "pageId": "3:3",
+    "depth": 2,
+    "path": "Website / Career Paths Page / CP 2",
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "x": 0,
+    "y": 655,
+    "width": 1440,
+    "height": 1059,
+    "rotation": 0,
+    "relativeTransform": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        655
+      ]
+    ],
+    "primaryAxisSizingMode": "AUTO",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "itemSpacing": 0,
+    "counterAxisSpacing": 0,
+    "itemReverseZIndex": false,
+    "strokesIncludedInLayout": false,
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "layoutGrow": 0,
+    "layoutAlign": "INHERIT",
+    "layoutPositioning": "AUTO",
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeCap": "NONE",
+    "strokeJoin": "MITER",
+    "dashPattern": [],
+    "isMask": false,
+    "maskType": "ALPHA",
+    "cornerRadius": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "cornerSmoothing": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "effectStyleId": "",
+    "gridStyleId": "",
+    "componentPropertyReferences": null,
+    "reactions": [],
+    "overflowDirection": "NONE",
+    "numberOfFixedChildren": 0,
+    "overlayPositionType": "CENTER",
+    "overlayBackground": {
+      "type": "NONE"
+    },
+    "overlayBackgroundInteraction": "NONE",
+    "exportSettings": [],
+    "guides": [],
+    "expanded": false,
+    "backgrounds": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": 1,
+        "blendMode": "NORMAL",
+        "color": {
+          "r": 0.03921568766236305,
+          "g": 0.03921568766236305,
+          "b": 0.04313725605607033
+        },
+        "boundVariables": {
+          "color": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:27:56"
+          }
+        }
+      }
+    ],
+    "backgroundStyleId": "",
+    "annotations": [],
+    "size": {
+      "width": 1440,
+      "height": 1059
+    }
+  },
+  "normalized": {
+    "projectId": "6abdc9c2fafb2d620f44bd47",
+    "fileId": "6abdc9dffafb2d620f44bd56",
+    "nodeId": "1012:2828",
+    "name": "CP 2",
+    "type": "FRAME",
+    "parentId": "1438:3772",
+    "width": 1440,
+    "height": 1059,
+    "x": -2224,
+    "y": 13277,
+    "layout": {
+      "mode": "VERTICAL",
+      "gap": null,
+      "padding": {
+        "top": 64,
+        "right": 48,
+        "bottom": 64,
+        "left": 48
+      },
+      "primaryAxisAlign": null,
+      "counterAxisAlign": null,
+      "sizing": {
+        "horizontal": "FIXED",
+        "vertical": "HUG"
+      }
+    },
+    "fills": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": null,
+        "color": "#0a0a0b"
+      }
+    ],
+    "strokes": [],
+    "effects": [],
+    "typography": null,
+    "children": [
+      "1021:4602"
+    ],
+    "componentId": null,
+    "visible": true,
+    "fillsResolved": [
+      {
+        "type": "SOLID",
+        "visible": true,
+        "opacity": null,
+        "resolved": true,
+        "color": "#0a0a0b"
+      }
+    ],
+    "strokesResolved": [],
+    "viewportCategory": "desktop",
+    "importance": 10,
+    "characters": null,
+    "imageRefs": [],
+    "styles": null,
+    "boundVariableIds": [
+      "VariableID:33:16",
+      "VariableID:33:17",
+      "VariableID:27:56"
+    ],
+    "boundVariables": {
+      "paddingLeft": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:16"
+      },
+      "paddingTop": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:17"
+      },
+      "paddingRight": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:16"
+      },
+      "paddingBottom": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:33:17"
+      },
+      "fills": [
+        {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:27:56"
+        }
+      ]
+    },
+    "componentProperties": null,
+    "opacity": null,
+    "blendMode": "PASS_THROUGH",
+    "cornerRadius": null,
+    "strokeWeight": 1,
+    "clipsContent": true,
+    "hasReactions": false,
+    "hasExportSettings": false
+  },
+  "boundVariableIds": [
+    "VariableID:33:16",
+    "VariableID:33:17",
+    "VariableID:27:56"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "fileKey": "5bayKUVnMbYFUcZ9vLft8B",
+  "inspectedAt": "2026-10-01",
+  "status": "partial-blocked-by-mcp-starter-limit",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "Foundations"
+    },
+    {
+      "id": "3:2",
+      "name": "Components"
+    },
+    {
+      "id": "3:3",
+      "name": "Website"
+    },
+    {
+      "id": "612:2880",
+      "name": "Mobile"
+    }
+  ],
+  "componentIndex": "components-index.json",
+  "partialExports": [
+    "page-0-1.partial.txt",
+    "page-3-2.partial.txt",
+    "page-3-3.partial.txt",
+    "page-612-2880.partial.txt"
+  ],
+  "limitations": [
+    "Each bulk page response was truncated by MCP to approximately 20 KB; partial exports are not valid JSON.",
+    "get_design_context on Components page 3:2 returned nothing selected; no high-fidelity design context or screenshot obtained.",
+    "Starter plan tool-call limit prevented targeted recovery.",
+    "Requested Entrepreneurs/review/Submit/Apply Now/footer properties remain unverified; component index confirms names and variant existence only.",
+    "Local design exports reused. No FigmaVault or MongoDB cache mechanism found."
+  ],
+  "implementationChanges": []
+}

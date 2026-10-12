@@ -111,29 +111,40 @@
   position: relative;
   display: flex;
   align-items: center;
-  gap: 10px;
+  justify-content: center;
+  gap: 12px;
+  height: 56px;
   padding: 16px 32px;
   border-radius: var(--radius-full);
   color: #fff;
   background: var(--gradient-brand);
-  box-shadow: 0 4px 32px rgb(254 131 36 / 0.38);
+  /* Effects — Brand Glow S / M */
+  box-shadow: var(--glow-s);
   font-family: var(--font-body);
-  font-size: 1rem;
+  font-size: var(--text-body);
   font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0;
   text-decoration: none;
-  transition: transform var(--duration-base);
+  transition: box-shadow var(--duration-base) var(--ease-out);
 }
 
 .primaryCta:hover {
-  transform: translateY(-2px);
+  box-shadow: var(--glow-m);
+}
+
+.primaryCta:active {
+  box-shadow: var(--glow-s);
 }
 
 .primaryCta .arrow {
-  transition: transform var(--duration-base);
+  display: block;
+  flex-shrink: 0;
 }
 
-.primaryCta:hover .arrow {
-  transform: translateX(4px);
+.arrow path {
+  vector-effect: non-scaling-stroke;
+  stroke-width: 2px;
 }
 
 .secondaryCta {
@@ -143,10 +154,11 @@
   padding: 16px 24px;
   color: #d1d5db;
   font-family: var(--font-body);
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: var(--text-body);
+  font-weight: 600;
+  line-height: 1;
   text-decoration: none;
-  transition: color var(--duration-fast);
+  transition: color var(--duration-fast) var(--ease-out);
 }
 
 .secondaryCta:hover {

@@ -1,0 +1,32 @@
+{
+  "figmaFileKey": "vJm05ZGQTLfEZLFRHLMrVa",
+  "figmaFile": "SkipperX-Website",
+  "rootNodeId": "1279:3817",
+  "rootName": "Career Paths",
+  "dimensions": { "width": 1440, "height": 4961 },
+  "extractedAt": "2026-09-28",
+  "pageNote": "Career Paths frame sits on the Website canvas (not Foundations 0:1). No separate mobile/tablet Career Paths frames found via MCP metadata/search.",
+  "sections": [
+    { "id": "1004:4160", "name": "CP 1", "y": 0, "height": 655, "role": "Hero" },
+    { "id": "1012:2828", "name": "CP 2", "y": 655, "height": 1059, "role": "Process" },
+    { "id": "1021:4603", "name": "CP 3", "y": 1714, "height": 376, "role": "Quote" },
+    { "id": "1056:2798", "name": "CP 4", "y": 2090, "height": 496, "role": "Track picker" },
+    { "id": "1250:2874", "name": "CP 5", "y": 2586, "height": 1216, "role": "Track detail + programs" },
+    { "id": "1277:3560", "name": "CP 6", "y": 3802, "height": 718, "role": "Value + reviews" },
+    { "id": "1277:3739", "name": "CP 7", "y": 4520, "height": 441, "role": "CTA quiz" }
+  ],
+  "keyComponents": [
+    { "id": "1004:4173", "name": "Navbar", "type": "instance" },
+    { "id": "1004:4177", "name": "Hero button", "type": "instance" },
+    { "id": "1046:3542", "name": "Track Button", "type": "instance" },
+    { "id": "1100:4058", "name": "Program Card Button", "type": "frame" },
+    { "id": "1271:3403", "name": "Review card Cyan-Horizontal", "type": "instance" },
+    { "id": "1271:3494", "name": "Review card Coral-Horizontal", "type": "instance" },
+    { "id": "1271:3540", "name": "Review card Purple-Horizontal", "type": "instance" },
+    { "id": "1257:3499", "name": "Hero button (CTA)", "type": "instance" }
+  ],
+  "assetsLocalDir": "public/career-paths/",
+  "designContextDump": "design/career-paths/figma-design-context.tsx.txt",
+  "prototype": "Not exposed by Figma MCP get_design_context/get_metadata for this frame (no click/hover/transition payload returned).",
+  "responsive": "Only desktop 1440 frame found. Implementation uses fluid CSS stacking derived from desktop layout."
+}

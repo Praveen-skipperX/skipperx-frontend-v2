@@ -4,9 +4,13 @@ import { Section } from "../layout/Section";
 import { SuperStackCard } from "../superstack/SuperStackCard";
 import styles from "./SuperStack.module.css";
 
-export function SuperStack() {
+type SuperStackProps = {
+  leadIn?: string;
+};
+
+export function SuperStack({ leadIn }: SuperStackProps = {}) {
   return (
-    <Section className={styles.section}>
+    <Section id="super-stack" className={styles.section}>
       <div className={styles.glow} aria-hidden="true" />
       <div className={styles.inner}>
         <div className={styles.rule} />
@@ -29,6 +33,10 @@ export function SuperStack() {
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: 0.15 }}
           >
+            {leadIn && (<>
+              {leadIn}
+              <br />
+            </>)}
             All-in-one bundles
             <br />
             to grow and create

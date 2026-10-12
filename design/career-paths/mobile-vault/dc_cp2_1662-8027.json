@@ -1,0 +1,726 @@
+{
+  "source": "FIGMA_VAULT_LOCAL_CACHE",
+  "importedFrom": "IMPORTED_PACKAGE",
+  "lastImportedAt": "Fri Oct 09 2026 20:38:53 GMT+0530 (India Standard Time)",
+  "lastSyncAt": "Fri Oct 09 2026 20:39:23 GMT+0530 (India Standard Time)",
+  "file": {
+    "id": "6ac90385f20b4666e6404c23",
+    "name": "SkipperX Website with mobile UI",
+    "fileKey": "imported:acc74aa95f2e8cced9ffb8fe",
+    "source": "IMPORTED_PACKAGE"
+  },
+  "page": {
+    "id": "612:2880",
+    "name": "Mobile"
+  },
+  "node": {
+    "id": "1662:8027",
+    "name": "Container",
+    "type": "FRAME",
+    "parentId": "1662:8019",
+    "pageId": "612:2880",
+    "depth": 3,
+    "path": "Mobile / Career Paths Mobile / CP 2 / Container",
+    "opacity": 1,
+    "visible": true
+  },
+  "hierarchy": {
+    "ancestors": [
+      {
+        "id": "1662:7762",
+        "name": "Career Paths Mobile",
+        "type": "FRAME",
+        "parentId": "612:2880",
+        "pageId": "612:2880",
+        "depth": 1,
+        "width": 413,
+        "height": 7350
+      },
+      {
+        "id": "1662:8019",
+        "name": "CP 2",
+        "type": "FRAME",
+        "parentId": "1662:7762",
+        "pageId": "612:2880",
+        "depth": 2,
+        "width": 412,
+        "height": 930.4801025390625
+      }
+    ],
+    "self": {
+      "id": "1662:8027",
+      "name": "Container",
+      "type": "FRAME",
+      "parentId": "1662:8019",
+      "pageId": "612:2880",
+      "depth": 3,
+      "x": 16,
+      "y": 154,
+      "width": 380.75421142578125,
+      "height": 752.4801025390625,
+      "childCount": 5
+    },
+    "children": [
+      {
+        "id": "1662:8028",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8027",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380.768310546875,
+        "height": 143.01004028320312,
+        "childCount": 2
+      },
+      {
+        "id": "1662:8044",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8027",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380.768310546875,
+        "height": 143.01004028320312,
+        "childCount": 2
+      },
+      {
+        "id": "1662:8059",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8027",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380.768310546875,
+        "height": 159,
+        "childCount": 2
+      },
+      {
+        "id": "1662:8074",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8027",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380.768310546875,
+        "height": 159,
+        "childCount": 2
+      },
+      {
+        "id": "1662:8089",
+        "name": "Container",
+        "type": "FRAME",
+        "parentId": "1662:8027",
+        "pageId": "612:2880",
+        "depth": 4,
+        "width": 380.75421142578125,
+        "height": 148.45999145507812,
+        "childCount": 2
+      }
+    ]
+  },
+  "layout": {
+    "x": 16,
+    "y": 154,
+    "width": 380.75421142578125,
+    "height": 752.4801025390625,
+    "rotation": 0,
+    "layoutMode": "VERTICAL",
+    "primaryAxisAlignItems": "MIN",
+    "counterAxisAlignItems": "MIN",
+    "layoutWrap": "NO_WRAP",
+    "itemSpacing": 0,
+    "padding": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "constraints": {
+      "horizontal": "MIN",
+      "vertical": "MIN"
+    },
+    "layoutSizingHorizontal": "FIXED",
+    "layoutSizingVertical": "HUG",
+    "minWidth": null,
+    "maxWidth": null,
+    "minHeight": null,
+    "maxHeight": null,
+    "clipsContent": false,
+    "overflowDirection": "NONE",
+    "opacity": 1,
+    "visible": true,
+    "cornerRadius": 0,
+    "blendMode": "PASS_THROUGH"
+  },
+  "typography": [],
+  "colors": [],
+  "variables": [
+    {
+      "variableId": "VariableID:26:2",
+      "name": "Stroke-S",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modes": [
+        {
+          "modeId": "20:4",
+          "name": "Mode 1",
+          "value": 1
+        }
+      ],
+      "scopes": [
+        "STROKE_FLOAT"
+      ]
+    },
+    {
+      "variableId": "VariableID:33:13",
+      "name": "md",
+      "resolvedType": "FLOAT",
+      "collectionId": "VariableCollectionId:33:10",
+      "collectionName": "Spacing",
+      "modes": [
+        {
+          "modeId": "33:1",
+          "name": "Mode 1",
+          "value": 16
+        }
+      ],
+      "scopes": [
+        "GAP"
+      ]
+    }
+  ],
+  "variableBindings": [
+    {
+      "nodeId": "1662:8027",
+      "property": "strokeTopWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8027",
+      "property": "strokeBottomWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8027",
+      "property": "strokeLeftWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    },
+    {
+      "nodeId": "1662:8027",
+      "property": "strokeRightWeight",
+      "variableId": "VariableID:26:2",
+      "variableName": "Stroke-S",
+      "collectionId": "VariableCollectionId:20:5",
+      "collectionName": "Stroke Width",
+      "modeId": "20:4",
+      "modeName": "Mode 1",
+      "resolvedValue": 1,
+      "definitionAvailable": true,
+      "status": "AVAILABLE"
+    }
+  ],
+  "styles": [],
+  "components": [],
+  "instances": [],
+  "assets": [],
+  "effects": [],
+  "gradients": [],
+  "prototype": {
+    "status": "NOT_AVAILABLE"
+  },
+  "annotations": {
+    "status": "NOT_AVAILABLE"
+  },
+  "devResources": {
+    "status": "NOT_SUPPORTED"
+  },
+  "codeConnect": {
+    "status": "NOT_AVAILABLE"
+  },
+  "responsiveVariants": [],
+  "children": [
+    {
+      "nodeId": "1662:8028",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.768310546875,
+        "height": 143.01004028320312
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8028",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8028",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8028",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8028",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8028",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8028",
+          "property": "counterAxisSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8044",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.768310546875,
+        "height": 143.01004028320312
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8044",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8044",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8044",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8044",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8044",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8044",
+          "property": "counterAxisSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8059",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.768310546875,
+        "height": 159
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8059",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8059",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8059",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8059",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8059",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8059",
+          "property": "counterAxisSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8074",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.768310546875,
+        "height": 159
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8074",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8074",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8074",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8074",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8074",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8074",
+          "property": "counterAxisSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    },
+    {
+      "nodeId": "1662:8089",
+      "name": "Container",
+      "type": "FRAME",
+      "layout": {
+        "width": 380.75421142578125,
+        "height": 148.45999145507812
+      },
+      "variableBindings": [
+        {
+          "nodeId": "1662:8089",
+          "property": "itemSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8089",
+          "property": "strokeTopWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8089",
+          "property": "strokeBottomWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8089",
+          "property": "strokeLeftWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8089",
+          "property": "strokeRightWeight",
+          "variableId": "VariableID:26:2",
+          "variableName": "Stroke-S",
+          "collectionId": "VariableCollectionId:20:5",
+          "collectionName": "Stroke Width",
+          "modeId": "20:4",
+          "modeName": "Mode 1",
+          "resolvedValue": 1,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        },
+        {
+          "nodeId": "1662:8089",
+          "property": "counterAxisSpacing",
+          "variableId": "VariableID:33:13",
+          "variableName": "md",
+          "collectionId": "VariableCollectionId:33:10",
+          "collectionName": "Spacing",
+          "modeId": "33:1",
+          "modeName": "Mode 1",
+          "resolvedValue": 16,
+          "definitionAvailable": true,
+          "status": "AVAILABLE"
+        }
+      ]
+    }
+  ],
+  "screenshot": {
+    "status": "NOT_CACHED",
+    "source": "LOCAL_CACHE",
+    "message": "No local preview is available for this node. Run an explicit FigmaVault sync/import to add it."
+  },
+  "sourceIds": {
+    "fileId": "6ac90385f20b4666e6404c23",
+    "nodeId": "1662:8027",
+    "pageId": "612:2880",
+    "projectId": "6ac9036bf20b4666e6404bfc"
+  },
+  "truncated": false,
+  "summary": "Design Context\nFile: SkipperX Website with mobile UI\nPage: Mobile\nNode: Container (FRAME)\nSize: 380.75421142578125 × 752.4801025390625\nVariable bindings:\n  strokeTopWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeBottomWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeLeftWeight → Stroke-S [Stroke Width / Mode 1] = 1\n  strokeRightWeight → Stroke-S [Stroke Width / Mode 1] = 1\nChildren (5):\n  - Container (FRAME)\n  - Container (FRAME)\n  - Container (FRAME)\n  - Container (FRAME)\n  - Container (FRAME)\nScreenshot: NOT_CACHED"
+}

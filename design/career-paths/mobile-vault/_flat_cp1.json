@@ -1,0 +1,472 @@
+[
+  {
+    "_id": "6ac9038eb81695060dd6275f",
+    "nodeId": "1662:7992",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 612,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62760",
+    "nodeId": "1662:7993",
+    "name": "Header",
+    "normalized": {
+      "width": 380,
+      "height": 400,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62786",
+    "nodeId": "1662:8016",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 196,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62761",
+    "nodeId": "1662:7994",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 194,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62766",
+    "nodeId": "1662:7999",
+    "name": "Container",
+    "normalized": {
+      "width": 380,
+      "height": 78,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62771",
+    "nodeId": "1662:8003",
+    "name": "Pills",
+    "normalized": {
+      "width": 374,
+      "height": 80,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62787",
+    "nodeId": "1662:8017",
+    "name": "ImageWithFallback",
+    "normalized": {
+      "width": 379,
+      "height": 195,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62788",
+    "nodeId": "1662:8018",
+    "name": "Container",
+    "normalized": {
+      "width": 379,
+      "height": 195,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62762",
+    "nodeId": "1662:7995",
+    "name": "Display Heading",
+    "normalized": {
+      "width": 212,
+      "height": 82,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62764",
+    "nodeId": "1662:7997",
+    "name": "Paragraph",
+    "normalized": {
+      "width": 380,
+      "height": 96,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62767",
+    "nodeId": "1662:8000",
+    "name": "Hero button",
+    "normalized": {
+      "width": 324,
+      "height": 56,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276f",
+    "nodeId": "1662:8001",
+    "name": "Text",
+    "normalized": {
+      "width": 189,
+      "height": 18,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62772",
+    "nodeId": "1662:8004",
+    "name": "Container",
+    "normalized": {
+      "width": 179,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62776",
+    "nodeId": "1662:8007",
+    "name": "Container",
+    "normalized": {
+      "width": 179,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277d",
+    "nodeId": "1662:8010",
+    "name": "Container",
+    "normalized": {
+      "width": 179,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62781",
+    "nodeId": "1662:8013",
+    "name": "Container",
+    "normalized": {
+      "width": 179,
+      "height": 36,
+      "typography": null
+    },
+    "type": "FRAME"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62763",
+    "nodeId": "1662:7996",
+    "name": "Three tracks. Zero excuses.",
+    "normalized": {
+      "width": 212,
+      "height": 82,
+      "typography": null
+    },
+    "textContent": "Three tracks.\nZero excuses.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62765",
+    "nodeId": "1662:7998",
+    "name": "Not theory. Not certificates. Not another course y",
+    "normalized": {
+      "width": 380,
+      "height": 96,
+      "typography": null
+    },
+    "textContent": "Every program is built around real skills, real mentors, and real outcomes. You don't study here — you build. Pick the path that matches your obsession and we'll handle the rest.",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62768",
+    "nodeId": "I1662:8000;69:11",
+    "name": "Apply for April Cohort",
+    "normalized": {
+      "width": 114,
+      "height": 24,
+      "typography": null
+    },
+    "textContent": "Find my Track",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62769",
+    "nodeId": "I1662:8000;71:30",
+    "name": "Shine",
+    "normalized": {
+      "width": 16,
+      "height": 16,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62770",
+    "nodeId": "1662:8002",
+    "name": "2-min quiz · no sign-up needed",
+    "normalized": {
+      "width": 189,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "2-min quiz · no sign-up needed",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62773",
+    "nodeId": "1662:8005",
+    "name": "Career",
+    "normalized": {
+      "width": 14,
+      "height": 14,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62775",
+    "nodeId": "1662:8006",
+    "name": "11 Total Programs",
+    "normalized": {
+      "width": 103,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "11 Total Programs",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62777",
+    "nodeId": "1662:8008",
+    "name": "Users",
+    "normalized": {
+      "width": 14,
+      "height": 14,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277c",
+    "nodeId": "1662:8009",
+    "name": "2,400+ Active Learners",
+    "normalized": {
+      "width": 135,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "2,400+ Active Learners",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277e",
+    "nodeId": "1662:8011",
+    "name": "Star",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62780",
+    "nodeId": "1662:8012",
+    "name": "4.8 Avg. Rating",
+    "normalized": {
+      "width": 88,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "4.8 Avg. Rating",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62782",
+    "nodeId": "1662:8014",
+    "name": "Partner",
+    "normalized": {
+      "width": 12,
+      "height": 12,
+      "typography": null
+    },
+    "type": "INSTANCE"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62785",
+    "nodeId": "1662:8015",
+    "name": "NSDC Certified",
+    "normalized": {
+      "width": 88,
+      "height": 18,
+      "typography": null
+    },
+    "textContent": "NSDC Certified",
+    "type": "TEXT"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276a",
+    "nodeId": "I1662:8000;71:30;1007:4288",
+    "name": "Vector",
+    "normalized": {
+      "width": 13.333683013916016,
+      "height": 13.333666801452637,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276b",
+    "nodeId": "I1662:8000;71:30;1007:4289",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 2.6666667461395264,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276c",
+    "nodeId": "I1662:8000;71:30;1007:4290",
+    "name": "Vector",
+    "normalized": {
+      "width": 2.6666667461395264,
+      "height": 0,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276d",
+    "nodeId": "I1662:8000;71:30;1007:4291",
+    "name": "Vector",
+    "normalized": {
+      "width": 0,
+      "height": 1.3333333730697632,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd6276e",
+    "nodeId": "I1662:8000;71:30;1007:4292",
+    "name": "Vector",
+    "normalized": {
+      "width": 1.3333333730697632,
+      "height": 0,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62774",
+    "nodeId": "I1662:8005;1007:4312",
+    "name": "Vector",
+    "normalized": {
+      "width": 11.666666984558105,
+      "height": 10.5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62778",
+    "nodeId": "I1662:8008;207:911",
+    "name": "Vector",
+    "normalized": {
+      "width": 8.166666030883789,
+      "height": 3.5,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038eb81695060dd62779",
+    "nodeId": "I1662:8008;207:912",
+    "name": "Vector",
+    "normalized": {
+      "width": 4.666666507720947,
+      "height": 4.666666507720947,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277a",
+    "nodeId": "I1662:8008;207:913",
+    "name": "Vector",
+    "normalized": {
+      "width": 1.75,
+      "height": 3.424166440963745,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277b",
+    "nodeId": "I1662:8008;207:914",
+    "name": "Vector",
+    "normalized": {
+      "width": 1.7545750141143799,
+      "height": 4.5208330154418945,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038fb81695060dd6277f",
+    "nodeId": "I1662:8011;1008:4333",
+    "name": "Vector",
+    "normalized": {
+      "width": 10.000901222229004,
+      "height": 9.536033630371094,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62783",
+    "nodeId": "I1662:8014;207:947",
+    "name": "Vector",
+    "normalized": {
+      "width": 4.998395919799805,
+      "height": 4.55466365814209,
+      "typography": null
+    },
+    "type": "VECTOR"
+  },
+  {
+    "_id": "6ac9038fb81695060dd62784",
+    "nodeId": "I1662:8014;207:948",
+    "name": "Vector",
+    "normalized": {
+      "width": 6,
+      "height": 6,
+      "typography": null
+    },
+    "type": "VECTOR"
+  }
+]
