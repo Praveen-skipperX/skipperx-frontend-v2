@@ -6,6 +6,7 @@ import { PhoneField } from "./PhoneField";
 import { SelectField } from "./SelectField";
 import { TextField } from "./TextField";
 import styles from "./ContactForm.module.css";
+import { submitEnquiry } from "../../lib/submitEnquiry";
 
 type FocusKey = keyof ContactFormValues | null;
 
@@ -55,11 +56,23 @@ export function ContactForm() {
     email: "",
   });
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState("");
   const [focused, setFocused] = useState<FocusKey>(null);
 
-  function onSubmit(event: FormEvent<HTMLFormElement>) {
+  async function onSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    setSubmitted(true);
+    if (submitting) return;
+    setSubmitting(true);
+    setError("");
+    try {
+      await submitEnquiry(values);
+      setSubmitted(true);
+    } catch {
+      setError("We couldn’t confirm your submission. Your details are still here. Please try again, or email hello@skipperx.in if you’re unsure whether it went through.");
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   if (submitted) {
@@ -83,7 +96,7 @@ export function ContactForm() {
   }
 
   return (
-    <form className={styles.form} onSubmit={onSubmit} noValidate={false}>
+    <form className={styles.form} onSubmit={onSubmit} noValidate={false} aria-busy={submitting}>
       <div className={styles.row}>
         <TextField
           id="contact-first-name"
@@ -119,6 +132,8 @@ export function ContactForm() {
           placeholder="00000 00000"
           required
           maxLength={10}
+          minLength={10}
+          pattern="[0-9]{10}"
           value={values.phone}
           focused={focused === "phone"}
           onChange={(event) =>
@@ -148,7 +163,8 @@ export function ContactForm() {
         />
       </div>
       <div className={styles.actions}>
-        <ContactButton>Submit</ContactButton>
+        <ContactButton disabled={submitting}>{submitting ? "Submitting…" : "Submit"}</ContactButton>
+        {error && <p className={styles.error} role="alert">{error}</p>}
         <div className={styles.note}>
           <ClockIcon />
           <p>Our experts revert back usually within 24 hours</p>

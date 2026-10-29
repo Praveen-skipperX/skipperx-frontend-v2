@@ -2,6 +2,18 @@
   padding: 20px;
 }
 
+.form .error {
+  color: #ff9a86;
+  font-size: 13px;
+  max-width: 540px;
+  text-align: center;
+}
+
+.form button:disabled {
+  opacity: 0.65;
+  cursor: wait;
+}
+
 .row,
 .rowBottom {
   display: grid;

@@ -7,7 +7,7 @@ import styles from "./Header.module.css";
 
 const NAV = [
   { label: "Career Paths", to: "/career-paths" },
-  { label: "Why SkipperX", hash: "why" },
+  { label: "Why SkipperX", to: "/why-skipperx" },
   { label: "Community", hash: "community" },
   { label: "Contact", hash: "contact" },
 ] as const;

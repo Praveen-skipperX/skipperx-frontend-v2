@@ -24,7 +24,7 @@
   width: 100%;
   max-width: var(--container-max);
   margin-inline: auto;
-  padding-top: 24px;
+  padding-top: var(--footer-top-padding, 24px);
 }
 
 .rule {
@@ -360,7 +360,7 @@
 
 @media (min-width: 768px) {
   .inner {
-    padding-top: var(--section-py);
+    padding-top: var(--footer-top-padding, var(--section-py));
   }
 
   .rule {
